@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.110" end="00:00:19.380" style="s2">[music]</p>
+<p begin="00:00:15.980" end="00:00:21.420" style="s2">Friends, hello, her podcast is currently</p>
+<p begin="00:00:19.380" end="00:00:23.480" style="s2">untitled, and Bohdana Neborak and Nastya</p>
+<p begin="00:00:21.420" end="00:00:27.779" style="s2">Evdokymova met again</p>
+<p begin="00:00:23.480" end="00:00:30.720" style="s2">in the audio lounge for the 18th time in the 18th</p>
+<p begin="00:00:27.779" end="00:00:33.239" style="s2">episode, in which we talk about the city of</p>
+<p begin="00:00:30.720" end="00:00:36.000" style="s2">Valerian Pidmogilny, which we</p>
+<p begin="00:00:33.239" end="00:00:39.120" style="s2">will read closely and discuss  and Bohdana and I</p>
+<p begin="00:00:36.000" end="00:00:41.579" style="s2">have completely different views</p>
+<p begin="00:00:39.120" end="00:00:44.160" style="s2">on this text and completely different approaches to</p>
+<p begin="00:00:41.579" end="00:00:47.460" style="s2">reading. I think that it is also worth saying about this.</p>
+<p begin="00:00:44.160" end="00:00:49.920" style="s2"></p>
+<p begin="00:00:47.460" end="00:00:52.860" style="s2"></p>
+<p begin="00:00:49.920" end="00:00:55.440" style="s2"></p>
+<p begin="00:00:52.860" end="00:00:58.739" style="s2">now I think about the fact that this is</p>
+<p begin="00:00:55.440" end="00:01:01.440" style="s2">already the 18th episode And it is certainly impressive,</p>
+<p begin="00:00:58.739" end="00:01:04.320" style="s2">especially now during the war, I realized</p>
+<p begin="00:01:01.440" end="00:01:06.720" style="s2">that it is very important to have projects that</p>
+<p begin="00:01:04.320" end="00:01:08.220" style="s2">show you a certain endurance, it does not</p>
+<p begin="00:01:06.720" end="00:01:09.780" style="s2">necessarily have to be a podcast, it</p>
+<p begin="00:01:08.220" end="00:01:12.900" style="s2">can be some very private things,</p>
+<p begin="00:01:09.780" end="00:01:15.720" style="s2">personal practices, but  which allow us</p>
+<p begin="00:01:12.900" end="00:01:19.140" style="s2">not to feel like such dense flies</p>
+<p begin="00:01:15.720" end="00:01:21.840" style="s2">in Amber and to understand how time moves</p>
+<p begin="00:01:19.140" end="00:01:23.820" style="s2">because maybe someday you and I</p>
+<p begin="00:01:21.840" end="00:01:25.740" style="s2">will return to this podcast in</p>
+<p begin="00:01:23.820" end="00:01:28.500" style="s2">order to remember what  and we were what we were.</p>
+<p begin="00:01:25.740" end="00:01:30.420" style="s2">Our intonations, for sure they</p>
+<p begin="00:01:28.500" end="00:01:32.780" style="s2">change, for sure they will be different</p>
+<p begin="00:01:30.420" end="00:01:35.180" style="s2">later, and</p>
+<p begin="00:01:32.780" end="00:01:37.619" style="s2">you know it, just like</p>
+<p begin="00:01:35.180" end="00:01:40.259" style="s2">rereading, here you and I are</p>
+<p begin="00:01:37.619" end="00:01:41.840" style="s2">actually reading these classical texts of Ukrainian</p>
+<p begin="00:01:40.259" end="00:01:46.320" style="s2">literature, and</p>
+<p begin="00:01:41.840" end="00:01:48.360" style="s2">every time they seem to be the same, but in</p>
+<p begin="00:01:46.320" end="00:01:51.380" style="s2">some way different, because they resonate or not</p>
+<p begin="00:01:48.360" end="00:01:54.259" style="s2">resonate to other</p>
+<p begin="00:01:51.380" end="00:01:58.200" style="s2">parts of our soul, other</p>
+<p begin="00:01:54.259" end="00:01:59.600" style="s2">areas in our brain, and this is also terribly</p>
+<p begin="00:01:58.200" end="00:02:02.360" style="s2">interesting because it is</p>
+<p begin="00:01:59.600" end="00:02:05.640" style="s2">very important that</p>
+<p begin="00:02:02.360" end="00:02:09.119" style="s2">you and the text meet. This is a kind of</p>
+<p begin="00:02:05.640" end="00:02:11.099" style="s2">rendezvous, and it may not</p>
+<p begin="00:02:09.119" end="00:02:13.260" style="s2">happen even if the book is very cool.</p>
+<p begin="00:02:11.099" end="00:02:15.480" style="s2">And I think this is generally very important</p>
+<p begin="00:02:13.260" end="00:02:18.420" style="s2">in  in the practice of reading, that is, it often happens that</p>
+<p begin="00:02:15.480" end="00:02:21.000" style="s2">there is a cool classic book that everyone</p>
+<p begin="00:02:18.420" end="00:02:23.459" style="s2">admires. And you pick it up and it</p>
+<p begin="00:02:21.000" end="00:02:26.459" style="s2">doesn&#39;t work for you, maybe you just need a</p>
+<p begin="00:02:23.459" end="00:02:30.660" style="s2">little time. Probably for me this time,</p>
+<p begin="00:02:26.459" end="00:02:33.660" style="s2">because of course there is reading for pleasure, there is</p>
+<p begin="00:02:30.660" end="00:02:36.180" style="s2">reading for work, and for work I</p>
+<p begin="00:02:33.660" end="00:02:39.959" style="s2">had to  I would like to read the city and</p>
+<p begin="00:02:36.180" end="00:02:43.739" style="s2">form my opinion, but my inner</p>
+<p begin="00:02:39.959" end="00:02:47.519" style="s2">world opposes the novel the city at this</p>
+<p begin="00:02:43.739" end="00:02:51.780" style="s2">moment because I cannot help myself</p>
+<p begin="00:02:47.519" end="00:02:54.739" style="s2">I can&#39;t experience this city for myself</p>
+<p begin="00:02:51.780" end="00:02:56.599" style="s2">because</p>
+<p begin="00:02:54.739" end="00:03:00.180" style="s2">pre-war Kyiv seems</p>
+<p begin="00:02:56.599" end="00:03:02.400" style="s2">irrelevant to me. And after the war I didn&#39;t live in Kyiv</p>
+<p begin="00:03:00.180" end="00:03:05.700" style="s2">long enough to rediscover this city for myself,</p>
+<p begin="00:03:02.400" end="00:03:09.120" style="s2">because I chose a</p>
+<p begin="00:03:05.700" end="00:03:10.220" style="s2">course for life in a country estate</p>
+<p begin="00:03:09.120" end="00:03:14.120" style="s2">for myself this summer.</p>
+<p begin="00:03:10.220" end="00:03:18.239" style="s2">I don&#39;t need  in order to win something</p>
+<p begin="00:03:14.120" end="00:03:20.819" style="s2">or discover something with a word. Stepan Radchenko is a</p>
+<p begin="00:03:18.239" end="00:03:23.580" style="s2">very distant and not very</p>
+<p begin="00:03:20.819" end="00:03:27.319" style="s2">clear hero for me at this particular moment. Also</p>
+<p begin="00:03:23.580" end="00:03:30.540" style="s2">, the events of the city take place in</p>
+<p begin="00:03:27.319" end="00:03:32.340" style="s2">autumn, autumn in particular.</p>
+<p begin="00:03:30.540" end="00:03:35.640" style="s2"></p>
+<p begin="00:03:32.340" end="00:03:38.879" style="s2"></p>
+<p begin="00:03:35.640" end="00:03:40.379" style="s2">And you will answer them, I</p>
+<p begin="00:03:38.879" end="00:03:42.540" style="s2">decided that such</p>
+<p begin="00:03:40.379" end="00:03:46.140" style="s2">rules of the game should be established and you have no chance to</p>
+<p begin="00:03:42.540" end="00:03:48.900" style="s2">disagree, this is just like a public</p>
+<p begin="00:03:46.140" end="00:03:51.439" style="s2">interview for which I did not prepare, it</p>
+<p begin="00:03:48.900" end="00:03:55.500" style="s2">will be a public</p>
+<p begin="00:03:51.439" end="00:03:57.720" style="s2">interview, but in a completely private</p>
+<p begin="00:03:55.500" end="00:04:00.000" style="s2">atmosphere of a cozy audio lounge, as</p>
+<p begin="00:03:57.720" end="00:04:02.340" style="s2">it happens  always I&#39;m very sorry</p>
+<p begin="00:04:00.000" end="00:04:04.760" style="s2">that we have an appointment at 11 and I can&#39;t</p>
+<p begin="00:04:02.340" end="00:04:04.760" style="s2">pour</p>
+<p begin="00:04:04.799" end="00:04:10.319" style="s2"></p>
+<p begin="00:04:07.159" end="00:04:15.299" style="s2">myself a drink Well, fine, but you see, I&#39;m drinking water from my glass</p>
+<p begin="00:04:10.319" end="00:04:18.660" style="s2">Well, I have a piece of lime hanging there. It</p>
+<p begin="00:04:15.299" end="00:04:21.600" style="s2">adds to the flair, let&#39;s go, and I have a</p>
+<p begin="00:04:18.660" end="00:04:25.199" style="s2">soft fluffy cat scratching here, it</p>
+<p begin="00:04:21.600" end="00:04:27.020" style="s2">also adds to the other flair, coziness, coziness</p>
+<p begin="00:04:25.199" end="00:04:31.919" style="s2">and warmth.</p>
+<p begin="00:04:27.020" end="00:04:35.160" style="s2">So, in 1928, a friend published</p>
+<p begin="00:04:31.919" end="00:04:38.759" style="s2">Valerian Pidmogilny&#39;s novel city, which</p>
+<p begin="00:04:35.160" end="00:04:43.919" style="s2">begins with two epigraphs, two quotes</p>
+<p begin="00:04:38.759" end="00:04:45.199" style="s2">and a friend  of them, I quote how you can be</p>
+<p begin="00:04:43.919" end="00:04:49.860" style="s2">free,</p>
+<p begin="00:04:45.199" end="00:04:52.639" style="s2">Eucrite When you have a body Anatol Franz,</p>
+<p begin="00:04:49.860" end="00:04:55.500" style="s2">i.e. The novel the city begins with a quote by the</p>
+<p begin="00:04:52.639" end="00:04:58.440" style="s2">French writer of the turn of the 19th-20th</p>
+<p begin="00:04:55.500" end="00:05:01.080" style="s2">century, Anatole Franz, researchers also</p>
+<p begin="00:04:58.440" end="00:05:05.880" style="s2">wrote about the fact that in general there are subtypes in the work of</p>
+<p begin="00:05:01.080" end="00:05:07.740" style="s2">Pidmogilny, as in Franz and so</p>
+<p begin="00:05:05.880" end="00:05:09.960" style="s2">many similar things between  a Frenchman and a</p>
+<p begin="00:05:07.740" end="00:05:14.100" style="s2">gravedigger, just as between a Frenchman and a</p>
+<p begin="00:05:09.960" end="00:05:16.800" style="s2">pasan, because we are going according to the rules Roman</p>
+<p begin="00:05:14.100" end="00:05:19.080" style="s2">My dear friend, I am Anatoliy Franz Roman, Thais</p>
+<p begin="00:05:16.800" end="00:05:21.560" style="s2">translated Valerian Pidmohylny in general</p>
+<p begin="00:05:19.080" end="00:05:24.240" style="s2">Valeriy Pidmohylny knew the French well, the</p>
+<p begin="00:05:21.560" end="00:05:26.160" style="s2">Roman, the French literary</p>
+<p begin="00:05:24.240" end="00:05:29.039" style="s2">tradition, he also translated Honore de</p>
+<p begin="00:05:26.160" end="00:05:33.660" style="s2">Balzac and about the sphere of Merimee and many</p>
+<p begin="00:05:29.039" end="00:05:37.139" style="s2">others and  he translated these texts as a</p>
+<p begin="00:05:33.660" end="00:05:39.419" style="s2">francophone in particular in order to master</p>
+<p begin="00:05:37.139" end="00:05:42.539" style="s2">this literature  the urn tradition of the French</p>
+<p begin="00:05:39.419" end="00:05:43.919" style="s2">novel that has already happened, which has already</p>
+<p begin="00:05:42.539" end="00:05:46.860" style="s2">sounded loudly,</p>
+<p begin="00:05:43.919" end="00:05:51.780" style="s2">and in this novel Thais there is carnal love</p>
+<p begin="00:05:46.860" end="00:05:51.780" style="s2">there is a Hero who seeks to</p>
+<p begin="00:05:51.919" end="00:05:58.380" style="s2">convert an</p>
+<p begin="00:05:53.960" end="00:06:02.160" style="s2">actress Thais He seeks to change her</p>
+<p begin="00:05:58.380" end="00:06:04.319" style="s2">just as the hero of the novel Valerian</p>
+<p begin="00:06:02.160" end="00:06:08.039" style="s2">Podmohylnyi&#39;s city seeks to change something in</p>
+<p begin="00:06:04.319" end="00:06:12.800" style="s2">his life in both  the texts contain love and</p>
+<p begin="00:06:08.039" end="00:06:15.600" style="s2">there are many carnal desires, for what purpose did</p>
+<p begin="00:06:12.800" end="00:06:19.500" style="s2">Valerian Pidmogilny use such an</p>
+<p begin="00:06:15.600" end="00:06:22.440" style="s2">epigraph and there are three theses I read a scientific</p>
+<p begin="00:06:19.500" end="00:06:24.960" style="s2">article that describes them to anyone who is interested</p>
+<p begin="00:06:22.440" end="00:06:29.160" style="s2">I can send it privately, write to me</p>
+<p begin="00:06:24.960" end="00:06:32.479" style="s2">and ask and such purposes were in this</p>
+<p begin="00:06:29.160" end="00:06:35.280" style="s2">epigraph  the first is advertising, because</p>
+<p begin="00:06:32.479" end="00:06:38.699" style="s2">Anatoly Frantz&#39;s novel was published in 27th</p>
+<p begin="00:06:35.280" end="00:06:40.860" style="s2">and Pidmohylnyi&#39;s novel was published in 28th.</p>
+<p begin="00:06:38.699" end="00:06:43.560" style="s2">Pidmohylnyi translated Franz and wanted</p>
+<p begin="00:06:40.860" end="00:06:44.960" style="s2">to tell more people about</p>
+<p begin="00:06:43.560" end="00:06:48.000" style="s2">his work. The</p>
+<p begin="00:06:44.960" end="00:06:50.639" style="s2">educational goal was that he imagined an ideal</p>
+<p begin="00:06:48.000" end="00:06:52.800" style="s2">reader who had the same lecture as</p>
+<p begin="00:06:50.639" end="00:06:55.080" style="s2">Pidmohylnyi, that is, he read the same  texts</p>
+<p begin="00:06:52.800" end="00:06:58.860" style="s2">sees these connections and illusions can</p>
+<p begin="00:06:55.080" end="00:07:02.479" style="s2">compare heroes can compare love</p>
+<p begin="00:06:58.860" end="00:07:05.699" style="s2">in these texts who can dive</p>
+<p begin="00:07:02.479" end="00:07:07.460" style="s2">deeper into  a certain literary context, well</p>
+<p begin="00:07:05.699" end="00:07:09.479" style="s2">, of course, between cultural communication,</p>
+<p begin="00:07:07.460" end="00:07:11.099" style="s2">French literature, Ukrainian</p>
+<p begin="00:07:09.479" end="00:07:13.759" style="s2">literature, Ukrainian literature as a</p>
+<p begin="00:07:11.099" end="00:07:16.139" style="s2">part of the Great European</p>
+<p begin="00:07:13.759" end="00:07:18.479" style="s2">literary world, where Ukrainian</p>
+<p begin="00:07:16.139" end="00:07:22.319" style="s2">literature, what should be included, and</p>
+<p begin="00:07:18.479" end="00:07:24.800" style="s2">this is what Valerian Pidmogilnyi does.</p>
+<p begin="00:07:22.319" end="00:07:28.800" style="s2"></p>
+<p begin="00:07:24.800" end="00:07:32.819" style="s2"></p>
+<p begin="00:07:28.800" end="00:07:34.620" style="s2">Valerian</p>
+<p begin="00:07:32.819" end="00:07:37.080" style="s2">Pidmohylny</p>
+<p begin="00:07:34.620" end="00:07:39.539" style="s2">Do these traces make Valerian</p>
+<p begin="00:07:37.080" end="00:07:42.139" style="s2">Pidmohylny a completely European</p>
+<p begin="00:07:39.539" end="00:07:42.139" style="s2">writer</p>
+<p begin="00:07:42.419" end="00:07:47.840" style="s2">because, for example, Tais Anatoly Frantz and the</p>
+<p begin="00:07:45.180" end="00:07:51.000" style="s2">story Yedemo Pasana are in the list of</p>
+<p begin="00:07:47.840" end="00:07:54.000" style="s2">works that Harold Bloom is such a researcher</p>
+<p begin="00:07:51.000" end="00:07:57.240" style="s2">who wrote the work Western Canon inscribes</p>
+<p begin="00:07:54.000" end="00:07:59.099" style="s2">in the European Canon a literary</p>
+<p begin="00:07:57.240" end="00:08:02.699" style="s2">list of those works that must  must</p>
+<p begin="00:07:59.099" end="00:08:05.099" style="s2">be read And there is And</p>
+<p begin="00:08:02.699" end="00:08:07.919" style="s2">there is her demo-pasan eating there, should</p>
+<p begin="00:08:05.099" end="00:08:11.840" style="s2">Valerian Podmohylyny be there, did you think</p>
+<p begin="00:08:07.919" end="00:08:11.840" style="s2">about this kind question, of course</p>
+<p begin="00:08:12.020" end="00:08:15.560" style="s2">I will try to answer yes</p>
+<p begin="00:08:13.990" end="00:08:18.060" style="s2">[music]</p>
+<p begin="00:08:15.560" end="00:08:21.240" style="s2">unequivocally, French literature is important for Podmohylyny,</p>
+<p begin="00:08:18.060" end="00:08:25.319" style="s2">which he not only</p>
+<p begin="00:08:21.240" end="00:08:27.840" style="s2">reads drunkenly, but also  covers and leads</p>
+<p begin="00:08:25.319" end="00:08:30.500" style="s2">to the Ukrainian reader</p>
+<p begin="00:08:27.840" end="00:08:34.219" style="s2">and clearly</p>
+<p begin="00:08:30.500" end="00:08:37.740" style="s2">Pidmogylyny is a very ambitious author.</p>
+<p begin="00:08:34.219" end="00:08:40.919" style="s2">We all know that his debut</p>
+<p begin="00:08:37.740" end="00:08:44.519" style="s2">book was published when he was 19 years old and he</p>
+<p begin="00:08:40.919" end="00:08:46.160" style="s2">called it works Volume 1, that is, it sounds</p>
+<p begin="00:08:44.519" end="00:08:50.580" style="s2">like a</p>
+<p begin="00:08:46.160" end="00:08:52.560" style="s2">complete collection of future classics. I</p>
+<p begin="00:08:50.580" end="00:08:54.839" style="s2">think that this is actually a characteristic characteristic of</p>
+<p begin="00:08:52.560" end="00:08:57.360" style="s2">many  authors of that time with different</p>
+<p begin="00:08:54.839" end="00:09:00.480" style="s2">views, in the end even sometimes from different</p>
+<p begin="00:08:57.360" end="00:09:02.220" style="s2">generations and literary groups because</p>
+<p begin="00:09:00.480" end="00:09:05.760" style="s2"></p>
+<p begin="00:09:02.220" end="00:09:07.620" style="s2">they needed to declare themselves and they</p>
+<p begin="00:09:05.760" end="00:09:09.600" style="s2">felt that they could do it, they</p>
+<p begin="00:09:07.620" end="00:09:12.779" style="s2">can write in their own language, they can be</p>
+<p begin="00:09:09.600" end="00:09:16.140" style="s2">published But there is a lot of ego in this,</p>
+<p begin="00:09:12.779" end="00:09:17.940" style="s2">I would really like to hear a voice</p>
+<p begin="00:09:16.140" end="00:09:21.080" style="s2">Podmohylnyi I would like to have more</p>
+<p begin="00:09:17.940" end="00:09:25.440" style="s2">evidence about him, because on the one hand, he is a</p>
+<p begin="00:09:21.080" end="00:09:27.480" style="s2">key author of the 20th century and some</p>
+<p begin="00:09:25.440" end="00:09:29.519" style="s2">researchers say that the novel Misto is the</p>
+<p begin="00:09:27.480" end="00:09:32.279" style="s2">main novel of the 20th century of Ukrainian</p>
+<p begin="00:09:29.519" end="00:09:35.459" style="s2">literature, on the other hand, he is one of the</p>
+<p begin="00:09:32.279" end="00:09:37.980" style="s2">most mysterious authors, but should we</p>
+<p begin="00:09:35.459" end="00:09:41.220" style="s2">get used to the fact that our authors are mysterious</p>
+<p begin="00:09:37.980" end="00:09:43.500" style="s2">And there is very little left about them here, it&#39;s</p>
+<p begin="00:09:41.220" end="00:09:46.980" style="s2">just important to do this rema right away  rk</p>
+<p begin="00:09:43.500" end="00:09:50.480" style="s2">about age, because we understand that these</p>
+<p begin="00:09:46.980" end="00:09:54.720" style="s2">19 years of Pidmohylny when he publishes</p>
+<p begin="00:09:50.480" end="00:09:58.080" style="s2">his debut book are 36 years, which he is</p>
+<p begin="00:09:54.720" end="00:10:02.160" style="s2">allocated in principle, there are 34 years that he</p>
+<p begin="00:09:58.080" end="00:10:04.860" style="s2">will spend in freedom, and I am the age at which</p>
+<p begin="00:10:02.160" end="00:10:07.940" style="s2">Roman misto communicates, which becomes</p>
+<p begin="00:10:04.860" end="00:10:12.360" style="s2">Pidmohylny&#39;s business card, he is</p>
+<p begin="00:10:07.940" end="00:10:14.160" style="s2">27 years old. He is very young  the age for a novelist when</p>
+<p begin="00:10:12.360" end="00:10:16.579" style="s2">Pidmogilny corresponded with his</p>
+<p begin="00:10:14.160" end="00:10:19.980" style="s2">close friend Yevgeny Pluzhnik,</p>
+<p begin="00:10:16.579" end="00:10:22.920" style="s2">they talked about the fact that the fourth</p>
+<p begin="00:10:19.980" end="00:10:25.160" style="s2">decade is the age when the writer can</p>
+<p begin="00:10:22.920" end="00:10:29.000" style="s2">begin to fully open up,</p>
+<p begin="00:10:25.160" end="00:10:31.500" style="s2">we do not know how Pidmogilny will fully open up</p>
+<p begin="00:10:29.000" end="00:10:33.779" style="s2">, the</p>
+<p begin="00:10:31.500" end="00:10:37.920" style="s2">phrase about the sandarmoch is already becoming a cliché, but it is true, his</p>
+<p begin="00:10:33.779" end="00:10:40.079" style="s2">end is also  tragic and we know from the</p>
+<p begin="00:10:37.920" end="00:10:42.600" style="s2">letters that he continued to write there too,</p>
+<p begin="00:10:40.079" end="00:10:44.880" style="s2">that is, he continued to create like many</p>
+<p begin="00:10:42.600" end="00:10:47.100" style="s2">imprisoned Ukrainian artists even in the</p>
+<p begin="00:10:44.880" end="00:10:50.339" style="s2">camps.</p>
+<p begin="00:10:47.100" end="00:10:52.279" style="s2"></p>
+<p begin="00:10:50.339" end="00:10:54.899" style="s2"></p>
+<p begin="00:10:52.279" end="00:10:58.320" style="s2"></p>
+<p begin="00:10:54.899" end="00:11:01.260" style="s2">his</p>
+<p begin="00:10:58.320" end="00:11:04.980" style="s2">interrogation protocols and of course I remembered how you and</p>
+<p begin="00:11:01.260" end="00:11:07.620" style="s2">I talked or Bagryano  because</p>
+<p begin="00:11:04.980" end="00:11:11.640" style="s2">when you read the first interrogation report, you</p>
+<p begin="00:11:07.620" end="00:11:14.579" style="s2">see one person who sees the world</p>
+<p begin="00:11:11.640" end="00:11:17.100" style="s2">around him as it is. When you</p>
+<p begin="00:11:14.579" end="00:11:20.820" style="s2">read each subsequent one, you see a person</p>
+<p begin="00:11:17.100" end="00:11:22.860" style="s2">who is being tried very hard to break, and</p>
+<p begin="00:11:20.820" end="00:11:25.620" style="s2">it is terribly bitter. I had such</p>
+<p begin="00:11:22.860" end="00:11:30.480" style="s2">a very sticky feeling of being watched</p>
+<p begin="00:11:25.620" end="00:11:34.380" style="s2">from this  because they are signed by the</p>
+<p begin="00:11:30.480" end="00:11:37.200" style="s2">Undertaker&#39;s hand, they are very high-quality scans, and it&#39;s</p>
+<p begin="00:11:34.380" end="00:11:42.200" style="s2">like you&#39;re standing next to the investigator in this room,</p>
+<p begin="00:11:37.200" end="00:11:45.779" style="s2">and I also see what they&#39;re doing with a</p>
+<p begin="00:11:42.200" end="00:11:48.620" style="s2">young Ukrainian writer</p>
+<p begin="00:11:45.779" end="00:11:51.959" style="s2"></p>
+<p begin="00:11:48.620" end="00:11:54.920" style="s2"></p>
+<p begin="00:11:51.959" end="00:11:59.160" style="s2">.  We&#39;ll never know</p>
+<p begin="00:11:54.920" end="00:12:01.820" style="s2">if Pidmogilny would have made it into the not-so-</p>
+<p begin="00:11:59.160" end="00:12:04.800" style="s2">Western Canon of Harold Bloom</p>
+<p begin="00:12:01.820" end="00:12:07.680" style="s2">at the Faculty of Slavic Studies around</p>
+<p begin="00:12:04.800" end="00:12:11.000" style="s2">the world because the Soviet Union happened,</p>
+<p begin="00:12:07.680" end="00:12:14.300" style="s2">but I don&#39;t want it to sound</p>
+<p begin="00:12:11.000" end="00:12:18.420" style="s2">deadly because today</p>
+<p begin="00:12:14.300" end="00:12:19.459" style="s2">Pidmogilny is coming back, we</p>
+<p begin="00:12:18.420" end="00:12:22.680" style="s2">&#39;re</p>
+<p begin="00:12:19.459" end="00:12:25.920" style="s2">reading it, foreigners are reading it, he recently</p>
+<p begin="00:12:22.680" end="00:12:28.980" style="s2">was published in the Czech Republic by a very cool</p>
+<p begin="00:12:25.920" end="00:12:32.579" style="s2">publishing house and in a good translation and became</p>
+<p begin="00:12:28.980" end="00:12:34.760" style="s2">popular; a German one was also published  which is also</p>
+<p begin="00:12:32.579" end="00:12:38.100" style="s2">cool, such an avant-garde cover, a</p>
+<p begin="00:12:34.760" end="00:12:40.980" style="s2">cool translation for me. I want to believe that</p>
+<p begin="00:12:38.100" end="00:12:43.100" style="s2">Podogylny will slowly return to the</p>
+<p begin="00:12:40.980" end="00:12:46.380" style="s2">discourse, another matter is that it is very bitter that</p>
+<p begin="00:12:43.100" end="00:12:50.639" style="s2">when we look at the texts of other authors</p>
+<p begin="00:12:46.380" end="00:12:53.459" style="s2">of the same years, they are some novels by Hemingway</p>
+<p begin="00:12:50.639" end="00:12:54.680" style="s2">or Fitzgerald, which simply become</p>
+<p begin="00:12:53.459" end="00:12:59.459" style="s2">cult</p>
+<p begin="00:12:54.680" end="00:13:02.820" style="s2">following the paths of which we follow  you know My</p>
+<p begin="00:12:59.459" end="00:13:05.279" style="s2">last trip before the escalation It was a</p>
+<p begin="00:13:02.820" end="00:13:08.220" style="s2">trip to Spain and there In particular I was</p>
+<p begin="00:13:05.279" end="00:13:11.639" style="s2">in the city of San Sebastián Really I couldn&#39;t help</p>
+<p begin="00:13:08.220" end="00:13:14.459" style="s2">but think about Hemingway&#39;s fiesta about this</p>
+<p begin="00:13:11.639" end="00:13:17.700" style="s2">simply the most important novel of the lost</p>
+<p begin="00:13:14.459" end="00:13:19.760" style="s2">generation about this character who</p>
+<p begin="00:13:17.700" end="00:13:23.639" style="s2">really What character Undertaker has</p>
+<p begin="00:13:19.760" end="00:13:26.399" style="s2">very little to say to himself about  love</p>
+<p begin="00:13:23.639" end="00:13:29.220" style="s2">about her possibilities and about her place in</p>
+<p begin="00:13:26.399" end="00:13:31.579" style="s2">this world. Although no matter how hard she tries,</p>
+<p begin="00:13:29.220" end="00:13:34.740" style="s2">even Pidmohylny has such a certain feeling of</p>
+<p begin="00:13:31.579" end="00:13:38.040" style="s2">detachment. That is, it is very short and the time, the</p>
+<p begin="00:13:34.740" end="00:13:39.380" style="s2">texts are actually very different. But if</p>
+<p begin="00:13:38.040" end="00:13:42.060" style="s2">Pidmohylny</p>
+<p begin="00:13:39.380" end="00:13:44.100" style="s2">sounded like he could have sounded</p>
+<p begin="00:13:42.060" end="00:13:46.680" style="s2">if Ukraine was free and independent</p>
+<p begin="00:13:44.100" end="00:13:48.959" style="s2">state, it is quite possible that you and I</p>
+<p begin="00:13:46.680" end="00:13:51.360" style="s2">could buy it  somewhere in the bookstore,</p>
+<p begin="00:13:48.959" end="00:13:54.480" style="s2">Shakespeare and Company, a book that</p>
+<p begin="00:13:51.360" end="00:13:56.760" style="s2">interweaves Hemingway’s novel with Pidmogilny’s</p>
+<p begin="00:13:54.480" end="00:13:58.800" style="s2">novel, but it is impossible to do this</p>
+<p begin="00:13:56.760" end="00:14:02.220" style="s2">because Hemingway becomes an</p>
+<p begin="00:13:58.800" end="00:14:05.160" style="s2">international legend, and unfortunately, unfortunately,</p>
+<p begin="00:14:02.220" end="00:14:07.680" style="s2">he does not even become a</p>
+<p begin="00:14:05.160" end="00:14:10.459" style="s2">legend here in Ukraine, in Kyiv, about which</p>
+<p begin="00:14:07.680" end="00:14:12.540" style="s2">he  he writes so much, if we also had an</p>
+<p begin="00:14:10.459" end="00:14:15.420" style="s2">audio library, we would now pay attention</p>
+<p begin="00:14:12.540" end="00:14:18.000" style="s2">to our audio shelf, then we would start</p>
+<p begin="00:14:15.420" end="00:14:20.760" style="s2">pulling out from many different</p>
+<p begin="00:14:18.000" end="00:14:24.320" style="s2">places, fragment by particle, the various works of</p>
+<p begin="00:14:20.760" end="00:14:27.959" style="s2">Pydhogilny, his stories, his</p>
+<p begin="00:14:24.320" end="00:14:30.600" style="s2">translations. We would get his novels,</p>
+<p begin="00:14:27.959" end="00:14:32.040" style="s2">short stories, and we would teach all this  on the</p>
+<p begin="00:14:30.600" end="00:14:35.040" style="s2">table there would be a lot of different</p>
+<p begin="00:14:32.040" end="00:14:37.320" style="s2">books, magazines, texts that have not been</p>
+<p begin="00:14:35.040" end="00:14:40.380" style="s2">reprinted since the 20s, which</p>
+<p begin="00:14:37.320" end="00:14:42.959" style="s2">remained there in those magazines in that</p>
+<p begin="00:14:40.380" end="00:14:45.839" style="s2">press of the 20s.</p>
+<p begin="00:14:42.959" end="00:14:48.839" style="s2"></p>
+<p begin="00:14:45.839" end="00:14:51.660" style="s2">it&#39;s just that</p>
+<p begin="00:14:48.839" end="00:14:54.480" style="s2">they appeared in the 20s and disappeared, they were destroyed</p>
+<p begin="00:14:51.660" end="00:14:57.000" style="s2">when Podmohylyny was imprisoned, then all this</p>
+<p begin="00:14:54.480" end="00:15:00.000" style="s2">was removed and it simply disappears from the</p>
+<p begin="00:14:57.000" end="00:15:02.519" style="s2">discourse or it leaves  it is still there in</p>
+<p begin="00:15:00.000" end="00:15:05.519" style="s2">those magazines and no one has seen it and will not</p>
+<p begin="00:15:02.519" end="00:15:07.620" style="s2">see it until scientists pull</p>
+<p begin="00:15:05.519" end="00:15:09.420" style="s2">it out because usually all these magazines</p>
+<p begin="00:15:07.620" end="00:15:11.279" style="s2">are in such a department in such</p>
+<p begin="00:15:09.420" end="00:15:14.760" style="s2">departments of libraries when you need to put on a</p>
+<p begin="00:15:11.279" end="00:15:16.980" style="s2">glove carefully flip through it and</p>
+<p begin="00:15:14.760" end="00:15:19.260" style="s2">they will give them to everyone and not everyone</p>
+<p begin="00:15:16.980" end="00:15:20.210" style="s2">will give them  but we don’t have enough of this</p>
+<p begin="00:15:19.260" end="00:15:21.800" style="s2">selection from</p>
+<p begin="00:15:20.210" end="00:15:24.899" style="s2">[music], a</p>
+<p begin="00:15:21.800" end="00:15:27.540" style="s2">complete or rather a collection of works with a good</p>
+<p begin="00:15:24.899" end="00:15:30.300" style="s2">professional literary commentary with</p>
+<p begin="00:15:27.540" end="00:15:34.139" style="s2">notes and everything else and as far as I</p>
+<p begin="00:15:30.300" end="00:15:36.300" style="s2">know it may be a secret but bam and</p>
+<p begin="00:15:34.139" end="00:15:38.820" style="s2">our entire audio room but I am sure that everyone</p>
+<p begin="00:15:36.300" end="00:15:42.019" style="s2">will keep this secret Vera Pavlovna</p>
+<p begin="00:15:38.820" end="00:15:45.180" style="s2">gayeva prepares  such a text is a</p>
+<p begin="00:15:42.019" end="00:15:47.459" style="s2">set of texts to be printed. We hope</p>
+<p begin="00:15:45.180" end="00:15:49.800" style="s2">that it will soon see the light of day and</p>
+<p begin="00:15:47.459" end="00:15:53.420" style="s2">we will all be able to read it</p>
+<p begin="00:15:49.800" end="00:15:56.720" style="s2">and work on it, actually. I would like</p>
+<p begin="00:15:53.420" end="00:15:59.519" style="s2">our conversation to take place on four</p>
+<p begin="00:15:56.720" end="00:16:01.320" style="s2">thematic levels.</p>
+<p begin="00:15:59.519" end="00:16:03.660" style="s2"></p>
+<p begin="00:16:01.320" end="00:16:05.699" style="s2"></p>
+<p begin="00:16:03.660" end="00:16:08.639" style="s2">talk and write a lot</p>
+<p begin="00:16:05.699" end="00:16:10.740" style="s2">really compare let&#39;s go pasan and dear</p>
+<p begin="00:16:08.639" end="00:16:14.220" style="s2">friend and the city of Valerian Pi  more</p>
+<p begin="00:16:10.740" end="00:16:17.579" style="s2">than one dissertation has been written by Podmohylny about this. And what is</p>
+<p begin="00:16:14.220" end="00:16:19.980" style="s2">even more important, you and I, dear ones, are still</p>
+<p begin="00:16:17.579" end="00:16:22.199" style="s2">reading and going. It is precisely in</p>
+<p begin="00:16:19.980" end="00:16:25.740" style="s2">Podmohylny&#39;s translation, if you go to any</p>
+<p begin="00:16:22.199" end="00:16:27.779" style="s2">online and offline bookstore, you will see that</p>
+<p begin="00:16:25.740" end="00:16:29.459" style="s2">his translation of this text is being republished to</p>
+<p begin="00:16:27.779" end="00:16:33.480" style="s2">this day, because it remains</p>
+<p begin="00:16:29.459" end="00:16:34.980" style="s2">relevant  The next level is that I can</p>
+<p begin="00:16:33.480" end="00:16:36.600" style="s2">announce all three levels at once. The</p>
+<p begin="00:16:34.980" end="00:16:39.180" style="s2">next level is a Ukrainian</p>
+<p begin="00:16:36.600" end="00:16:41.880" style="s2">urban novel. One more level is the</p>
+<p begin="00:16:39.180" end="00:16:45.839" style="s2">city as an autobiographical novel and</p>
+<p begin="00:16:41.880" end="00:16:48.839" style="s2">ultimately the city as a prokiev novel, so I want to</p>
+<p begin="00:16:45.839" end="00:16:51.380" style="s2">ask you about the first Ukrainian</p>
+<p begin="00:16:48.839" end="00:16:54.600" style="s2">urban novel, the city, because</p>
+<p begin="00:16:51.380" end="00:16:56.519" style="s2">urbanism comes with modernism.</p>
+<p begin="00:16:54.600" end="00:16:58.259" style="s2">Solomiya Pavlychko writes about this in her</p>
+<p begin="00:16:56.519" end="00:17:01.259" style="s2">discourse on modernism, and Ukrainian</p>
+<p begin="00:16:58.259" end="00:17:03.720" style="s2">literature is gradually becoming urban</p>
+<p begin="00:17:01.259" end="00:17:05.699" style="s2">as well, although it will never completely</p>
+<p begin="00:17:03.720" end="00:17:07.860" style="s2">leave the village,</p>
+<p begin="00:17:05.699" end="00:17:10.140" style="s2">rural literature, urban literature,</p>
+<p begin="00:17:07.860" end="00:17:12.780" style="s2">it seems to me that they always exist side by side,</p>
+<p begin="00:17:10.140" end="00:17:16.260" style="s2">because even a completely urban</p>
+<p begin="00:17:12.780" end="00:17:18.900" style="s2">resident Mykhailo Kotsyubynskyi goes to the</p>
+<p begin="00:17:16.260" end="00:17:21.780" style="s2">village goes to Kononivskyi  fields for</p>
+<p begin="00:17:18.900" end="00:17:25.140" style="s2">what  to rest from the iron hand of the city and</p>
+<p begin="00:17:21.780" end="00:17:27.900" style="s2">finally get my intermezzo. Well,</p>
+<p begin="00:17:25.140" end="00:17:29.940" style="s2">in the 21st century, one of the authors of the podcast,</p>
+<p begin="00:17:27.900" end="00:17:31.860" style="s2">currently unnamed, Anastasia Evdokymova,</p>
+<p begin="00:17:29.940" end="00:17:34.679" style="s2">also gets tired of the city and also goes</p>
+<p begin="00:17:31.860" end="00:17:36.840" style="s2">to the village. In a country estate to rest</p>
+<p begin="00:17:34.679" end="00:17:39.000" style="s2">from the hand of the city, you see Bohdan. How I</p>
+<p begin="00:17:36.840" end="00:17:42.600" style="s2">put myself next to  Kotsyubynsky skillfully.</p>
+<p begin="00:17:39.000" end="00:17:46.200" style="s2">You even visited Kryvorivno. Yes, I was there</p>
+<p begin="00:17:42.600" end="00:17:49.140" style="s2">already the other summer and several summers</p>
+<p begin="00:17:46.200" end="00:17:52.799" style="s2">ago I spent there and tried to</p>
+<p begin="00:17:49.140" end="00:17:55.500" style="s2">feel like Ivan the Frank or to lie in a</p>
+<p begin="00:17:52.799" end="00:17:57.360" style="s2">chair also like Mykhailo Kotsyubynskyi or</p>
+<p begin="00:17:55.500" end="00:18:00.320" style="s2">to try to sit by the river like</p>
+<p begin="00:17:57.360" end="00:18:04.380" style="s2">Mykhailo Hrushevskyi, I managed to do all this.</p>
+<p begin="00:18:00.320" end="00:18:07.320" style="s2">the artist&#39;s content</p>
+<p begin="00:18:04.380" end="00:18:10.500" style="s2">has always been because the city is a theme</p>
+<p begin="00:18:07.320" end="00:18:13.200" style="s2">for literature, the city is a certain topos, the</p>
+<p begin="00:18:10.500" end="00:18:17.280" style="s2">city is a certain completely different landscape, the</p>
+<p begin="00:18:13.200" end="00:18:19.620" style="s2">city is a certain type of consciousness, a</p>
+<p begin="00:18:17.280" end="00:18:22.380" style="s2">symbol of certain consciousness in the 20s,</p>
+<p begin="00:18:19.620" end="00:18:24.480" style="s2">Ukrainian poetry also turns to the</p>
+<p begin="00:18:22.380" end="00:18:27.240" style="s2">city and becomes urban all  futurists,</p>
+<p begin="00:18:24.480" end="00:18:29.900" style="s2">what will they describe about these sounds, the brilliance of the</p>
+<p begin="00:18:27.240" end="00:18:33.500" style="s2">city&#39;s shouts, this is what the poetry of the seed of the</p>
+<p begin="00:18:29.900" end="00:18:37.140" style="s2">shell is about  Saussure writes about the city in</p>
+<p begin="00:18:33.500" end="00:18:39.840" style="s2">1924. He published a</p>
+<p begin="00:18:37.140" end="00:18:42.720" style="s2">collection of poems called That&#39;s the City, and in</p>
+<p begin="00:18:39.840" end="00:18:46.020" style="s2">it the mood of loneliness, the mood of</p>
+<p begin="00:18:42.720" end="00:18:48.539" style="s2">alienation, the mood of the hero who does not</p>
+<p begin="00:18:46.020" end="00:18:51.919" style="s2">fully accept and perceive this city.</p>
+<p begin="00:18:48.539" end="00:18:55.200" style="s2"></p>
+<p begin="00:18:51.919" end="00:18:58.799" style="s2">in the</p>
+<p begin="00:18:55.200" end="00:19:01.320" style="s2">snow, who came with a genius flair and</p>
+<p begin="00:18:58.799" end="00:19:04.919" style="s2">did it with a stroke of the hand, the</p>
+<p begin="00:19:01.320" end="00:19:08.340" style="s2">city took all the thoughts,</p>
+<p begin="00:19:04.919" end="00:19:12.539" style="s2">all the impulses are mine, it’s hidden for me to</p>
+<p begin="00:19:08.340" end="00:19:15.919" style="s2">moan in his snowy chest, there is a</p>
+<p begin="00:19:12.539" end="00:19:18.600" style="s2">completely different city in the neoclassicists,</p>
+<p begin="00:19:15.919" end="00:19:21.299" style="s2">dear audio living room, I hope you</p>
+<p begin="00:19:18.600" end="00:19:24.960" style="s2">all listened to the tenth episode in which we</p>
+<p begin="00:19:21.299" end="00:19:27.660" style="s2">they talked in particular about Mykola Zerov and</p>
+<p begin="00:19:24.960" end="00:19:31.140" style="s2">Bohdan quoted the text Kyiv from the Left</p>
+<p begin="00:19:27.660" end="00:19:34.020" style="s2">Bank and we know that for Zerov, for</p>
+<p begin="00:19:31.140" end="00:19:36.120" style="s2">neoclassicists, the city is libraries,</p>
+<p begin="00:19:34.020" end="00:19:39.020" style="s2">reading rooms, universities, this is some</p>
+<p begin="00:19:36.120" end="00:19:42.299" style="s2">intellectual space in which they</p>
+<p begin="00:19:39.020" end="00:19:45.360" style="s2">bathe, which they create in</p>
+<p begin="00:19:42.299" end="00:19:48.299" style="s2">Ukrainian, this is a city, but this city is not theirs</p>
+<p begin="00:19:45.360" end="00:19:50.460" style="s2">accepts it because it is a foreign city for them, it is not</p>
+<p begin="00:19:48.299" end="00:19:51.840" style="s2">Ukrainian culture, it is from Russia, still a</p>
+<p begin="00:19:50.460" end="00:19:56.880" style="s2">culture</p>
+<p begin="00:19:51.840" end="00:20:01.080" style="s2">And here is Valerian Pidmohyl  he writes his</p>
+<p begin="00:19:56.880" end="00:20:04.260" style="s2">novel, the city, this novel belongs to the first</p>
+<p begin="00:20:01.080" end="00:20:07.140" style="s2">Ukrainian urban novels,</p>
+<p begin="00:20:04.260" end="00:20:10.380" style="s2">intellectual novels. It stands next</p>
+<p begin="00:20:07.140" end="00:20:12.780" style="s2">to the texts of Vedemontovych Viktor</p>
+<p begin="00:20:10.380" end="00:20:16.320" style="s2">Petrov, and both authors have a certain</p>
+<p begin="00:20:12.780" end="00:20:19.980" style="s2">fondness for the problems that</p>
+<p begin="00:20:16.320" end="00:20:22.559" style="s2">philosophers had to solve in general. That is, it is not an</p>
+<p begin="00:20:19.980" end="00:20:25.679" style="s2">everyday problem about</p>
+<p begin="00:20:22.559" end="00:20:30.720" style="s2">today, but something global  a person and a city,</p>
+<p begin="00:20:25.679" end="00:20:34.559" style="s2">I, they are a person and another. And what exactly is</p>
+<p begin="00:20:30.720" end="00:20:37.140" style="s2">this element of the city? How does Radchenko, the</p>
+<p begin="00:20:34.559" end="00:20:41.299" style="s2">main character of the novel, the city in this</p>
+<p begin="00:20:37.140" end="00:20:44.159" style="s2">city feel, because he has two such initiations,</p>
+<p begin="00:20:41.299" end="00:20:46.080" style="s2">on the one hand, literary, erotic, with</p>
+<p begin="00:20:44.159" end="00:20:49.679" style="s2">all his personal life, on the other hand,</p>
+<p begin="00:20:46.080" end="00:20:51.780" style="s2">he is changeable, dual  how this city is afraid,</p>
+<p begin="00:20:49.679" end="00:20:55.440" style="s2">there is something angelic in it, there is something in it, those</p>
+<p begin="00:20:51.780" end="00:20:57.600" style="s2">children, and maybe not even the city, but the body</p>
+<p begin="00:20:55.440" end="00:21:00.500" style="s2">of Stepan Radchenko himself and all his</p>
+<p begin="00:20:57.600" end="00:21:04.400" style="s2">loved ones is the main character.</p>
+<p begin="00:21:00.500" end="00:21:07.340" style="s2"></p>
+<p begin="00:21:04.400" end="00:21:10.380" style="s2"></p>
+<p begin="00:21:07.340" end="00:21:12.539" style="s2"></p>
+<p begin="00:21:10.380" end="00:21:15.360" style="s2">about the city I really don&#39;t like the</p>
+<p begin="00:21:12.539" end="00:21:17.640" style="s2">format of this podcast, I think we</p>
+<p begin="00:21:15.360" end="00:21:19.440" style="s2">gave up on the fact that we</p>
+<p begin="00:21:17.640" end="00:21:23.700" style="s2">arr  but for yourself from the very beginning,</p>
+<p begin="00:21:19.440" end="00:21:25.520" style="s2">because you coquettishly said that you would</p>
+<p begin="00:21:23.700" end="00:21:28.980" style="s2">ask me a question, but instead you</p>
+<p begin="00:21:25.520" end="00:21:31.559" style="s2">express a lot of ideas, and then like this,</p>
+<p begin="00:21:28.980" end="00:21:34.020" style="s2">well, now I will ask you a question, so</p>
+<p begin="00:21:31.559" end="00:21:36.419" style="s2">I propose to break this system and, after</p>
+<p begin="00:21:34.020" end="00:21:39.360" style="s2">all, return to the possibility of conducting a</p>
+<p begin="00:21:36.419" end="00:21:43.159" style="s2">dialogue in which we  we are both talking about</p>
+<p begin="00:21:39.360" end="00:21:45.679" style="s2">the same things from different points of view.</p>
+<p begin="00:21:43.159" end="00:21:49.080" style="s2">Let&#39;s try,</p>
+<p begin="00:21:45.679" end="00:21:52.020" style="s2">but I will already answer your question</p>
+<p begin="00:21:49.080" end="00:21:54.120" style="s2">so that you can accept this trauma that</p>
+<p begin="00:21:52.020" end="00:21:56.120" style="s2">I just caused you unexpectedly</p>
+<p begin="00:21:54.120" end="00:21:59.340" style="s2">when I changed all the rules</p>
+<p begin="00:21:56.120" end="00:22:02.340" style="s2">regarding urban literature and urbanism. In</p>
+<p begin="00:21:59.340" end="00:22:02.340" style="s2">fact,</p>
+<p begin="00:22:03.299" end="00:22:10.559" style="s2">we have already talked about it dozens of times.  times and</p>
+<p begin="00:22:08.280" end="00:22:12.659" style="s2">in other literatures, this</p>
+<p begin="00:22:10.559" end="00:22:15.419" style="s2">problem of urban or non-urban</p>
+<p begin="00:22:12.659" end="00:22:19.860" style="s2">literature does not arise. That is, there is simply a space where</p>
+<p begin="00:22:15.419" end="00:22:22.440" style="s2">everything happens and this space of action gives</p>
+<p begin="00:22:19.860" end="00:22:24.080" style="s2">us a stage on which the plot is played out and</p>
+<p begin="00:22:22.440" end="00:22:27.600" style="s2">certain</p>
+<p begin="00:22:24.080" end="00:22:30.200" style="s2">ideological issues are resolved. In Ukraine, the situation</p>
+<p begin="00:22:27.600" end="00:22:32.940" style="s2">is a little different.</p>
+<p begin="00:22:30.200" end="00:22:35.299" style="s2">the Ukrainian language was forbidden and it was very</p>
+<p begin="00:22:32.940" end="00:22:39.059" style="s2">difficult to afford</p>
+<p begin="00:22:35.299" end="00:22:41.460" style="s2">to bring this language into any space, it</p>
+<p begin="00:22:39.059" end="00:22:43.860" style="s2">is still p  it happened because I am the same</p>
+<p begin="00:22:41.460" end="00:22:46.320" style="s2">Nechuy-Levytskyi with his novel Clouds,</p>
+<p begin="00:22:43.860" end="00:22:48.299" style="s2">which is a very important author for the</p>
+<p begin="00:22:46.320" end="00:22:50.780" style="s2">same Pidmohylny.</p>
+<p begin="00:22:48.299" end="00:22:53.659" style="s2"></p>
+<p begin="00:22:50.780" end="00:22:56.460" style="s2"></p>
+<p begin="00:22:53.659" end="00:22:58.140" style="s2"></p>
+<p begin="00:22:56.460" end="00:23:00.840" style="s2"></p>
+<p begin="00:22:58.140" end="00:23:03.539" style="s2">at a time when</p>
+<p begin="00:23:00.840" end="00:23:05.880" style="s2">avant-gardes very often want to break</p>
+<p begin="00:23:03.539" end="00:23:09.360" style="s2">everything old for something new, for</p>
+<p begin="00:23:05.880" end="00:23:11.520" style="s2">Pidmogylyny the traditions that I</p>
+<p begin="00:23:09.360" end="00:23:13.159" style="s2">spoke about Harold Bloom and the Western</p>
+<p begin="00:23:11.520" end="00:23:16.260" style="s2">Canon</p>
+<p begin="00:23:13.159" end="00:23:18.419" style="s2">Harold Bloom are very important</p>
+<p begin="00:23:16.260" end="00:23:20.880" style="s2"></p>
+<p begin="00:23:18.419" end="00:23:23.280" style="s2"></p>
+<p begin="00:23:20.880" end="00:23:26.940" style="s2">attempts to</p>
+<p begin="00:23:23.280" end="00:23:29.100" style="s2">discuss with them to drop them or that there is a class</p>
+<p begin="00:23:26.940" end="00:23:31.919" style="s2">lecture by Olena Halaika about Pidmohylyny, a</p>
+<p begin="00:23:29.100" end="00:23:34.200" style="s2">link to which we will leave in the description of</p>
+<p begin="00:23:31.919" end="00:23:35.299" style="s2">this podcast, where Galeta says that</p>
+<p begin="00:23:34.200" end="00:23:38.480" style="s2"></p>
+<p begin="00:23:35.299" end="00:23:40.740" style="s2">Pidmohylyny very directly appeals to the</p>
+<p begin="00:23:38.480" end="00:23:42.559" style="s2">canonical predecessor alive at the time,</p>
+<p begin="00:23:40.740" end="00:23:44.940" style="s2">this predecessor is an</p>
+<p begin="00:23:42.559" end="00:23:48.240" style="s2">insensitive leftist because  Don&#39;t hear it, the grandfather is</p>
+<p begin="00:23:44.940" end="00:23:50.600" style="s2">conditional, and Pidmogilny appeals to the</p>
+<p begin="00:23:48.240" end="00:23:53.940" style="s2">already mentioned Mykhailo Kotsyubyns  whom</p>
+<p begin="00:23:50.600" end="00:23:57.480" style="s2">his hero Stepan Radchenko remembers is a morgana veil</p>
+<p begin="00:23:53.940" end="00:23:59.159" style="s2">that he takes from his friend,</p>
+<p begin="00:23:57.480" end="00:24:02.220" style="s2">which he later turns to in order to</p>
+<p begin="00:23:59.159" end="00:24:06.179" style="s2">choose fragments and so on, but this</p>
+<p begin="00:24:02.220" end="00:24:08.700" style="s2">is not a bad memory at all, it is an unwillingness to</p>
+<p begin="00:24:06.179" end="00:24:10.559" style="s2">burn, destroy and give up the moon,</p>
+<p begin="00:24:08.700" end="00:24:12.720" style="s2">in general, it was very interesting for me to</p>
+<p begin="00:24:10.559" end="00:24:15.179" style="s2">reread the city, it was from  point of view of</p>
+<p begin="00:24:12.720" end="00:24:18.539" style="s2">canonization because there were not so</p>
+<p begin="00:24:15.179" end="00:24:20.940" style="s2">many stages in the history of Ukrainian</p>
+<p begin="00:24:18.539" end="00:24:22.799" style="s2">literature When we had to</p>
+<p begin="00:24:20.940" end="00:24:24.840" style="s2">think about this canonization in principle</p>
+<p begin="00:24:22.799" end="00:24:28.380" style="s2">and not just try to collect</p>
+<p begin="00:24:24.840" end="00:24:31.940" style="s2">everything we have in a cup and one of these stages is</p>
+<p begin="00:24:28.380" end="00:24:34.559" style="s2">these twentieth and in fact Roman misto</p>
+<p begin="00:24:31.940" end="00:24:37.440" style="s2">when I think about  town, I still want to</p>
+<p begin="00:24:34.559" end="00:24:39.659" style="s2">say a few words about the plot, it is important</p>
+<p begin="00:24:37.440" end="00:24:42.600" style="s2">for our listeners, just to remind</p>
+<p begin="00:24:39.659" end="00:24:43.520" style="s2">them of the plot, there is a young guy, Stepan</p>
+<p begin="00:24:42.600" end="00:24:47.520" style="s2">Radchenko,</p>
+<p begin="00:24:43.520" end="00:24:49.200" style="s2">he comes from the village, but as</p>
+<p begin="00:24:47.520" end="00:24:52.460" style="s2">Solomiya Pavlychko rightly tells us, this is not</p>
+<p begin="00:24:49.200" end="00:24:54.659" style="s2">just a Selyuk, not an Odessan, and this is a Selyuk with a</p>
+<p begin="00:24:52.460" end="00:24:56.640" style="s2">certain even nationalist</p>
+<p begin="00:24:54.659" end="00:24:59.400" style="s2">background  because he managed to fight for everyone,</p>
+<p begin="00:24:56.640" end="00:25:02.640" style="s2">we understand that this is a person who</p>
+<p begin="00:24:59.400" end="00:25:04.740" style="s2">chose different flags for us  clamored to be</p>
+<p begin="00:25:02.640" end="00:25:07.320" style="s2">in different camps and actually did not stick</p>
+<p begin="00:25:04.740" end="00:25:10.380" style="s2">to any of them, that is, wherever the wind blows,</p>
+<p begin="00:25:07.320" end="00:25:12.500" style="s2">he ended up there and he goes to the city. Why does</p>
+<p begin="00:25:10.380" end="00:25:14.900" style="s2">he go to the city, because he is the</p>
+<p begin="00:25:12.500" end="00:25:17.659" style="s2">most talented in his village, he</p>
+<p begin="00:25:14.900" end="00:25:20.700" style="s2">shows the most initiative,</p>
+<p begin="00:25:17.659" end="00:25:22.980" style="s2">organizational skills, and so on. He</p>
+<p begin="00:25:20.700" end="00:25:25.740" style="s2">has to study,</p>
+<p begin="00:25:22.980" end="00:25:27.659" style="s2">but  he comes to the city and what he</p>
+<p begin="00:25:25.740" end="00:25:30.140" style="s2">sees, well, he sees more</p>
+<p begin="00:25:27.659" end="00:25:33.059" style="s2">alternatives, more opportunities,</p>
+<p begin="00:25:30.140" end="00:25:36.539" style="s2">he sees people who are dressed differently,</p>
+<p begin="00:25:33.059" end="00:25:39.960" style="s2">he sees that there are simply more professions, he was</p>
+<p begin="00:25:36.539" end="00:25:41.700" style="s2">able to fill his life more, and</p>
+<p begin="00:25:39.960" end="00:25:43.799" style="s2">this is where his great Odyssey begins, a</p>
+<p begin="00:25:41.700" end="00:25:45.919" style="s2">great journey, in fact, to himself</p>
+<p begin="00:25:43.799" end="00:25:48.299" style="s2">because Roman misto</p>
+<p begin="00:25:45.919" end="00:25:51.539" style="s2">tells us about a rather small part of</p>
+<p begin="00:25:48.299" end="00:25:53.700" style="s2">time from the life of a young guy</p>
+<p begin="00:25:51.539" end="00:25:55.980" style="s2">who is trying to find out who he is</p>
+<p begin="00:25:53.700" end="00:25:58.740" style="s2">in general. Against this background, he</p>
+<p begin="00:25:55.980" end="00:26:01.620" style="s2">meets different men who</p>
+<p begin="00:25:58.740" end="00:26:04.260" style="s2">occupy different positions in the life of this</p>
+<p begin="00:26:01.620" end="00:26:06.960" style="s2">city, and we meet, let&#39;s say, such</p>
+<p begin="00:26:04.260" end="00:26:08.700" style="s2">different role models, we also meet</p>
+<p begin="00:26:06.960" end="00:26:12.299" style="s2">several  women and</p>
+<p begin="00:26:08.700" end="00:26:16.380" style="s2">very different romances take place with them within these Romances</p>
+<p begin="00:26:12.299" end="00:26:18.000" style="s2">Step himself  An Radchenko is also very different and, in</p>
+<p begin="00:26:16.380" end="00:26:20.720" style="s2">parallel, Stepan Radchenko is finally trying to</p>
+<p begin="00:26:18.000" end="00:26:23.159" style="s2">become a writer</p>
+<p begin="00:26:20.720" end="00:26:25.799" style="s2">about this novel. It is important for me to</p>
+<p begin="00:26:23.159" end="00:26:27.539" style="s2">say what I mean about the plot. What is</p>
+<p begin="00:26:25.799" end="00:26:29.100" style="s2">actually the evidence that</p>
+<p begin="00:26:27.539" end="00:26:31.740" style="s2">Pidmohylnyi conceived it as a</p>
+<p begin="00:26:29.100" end="00:26:34.440" style="s2">screenplay for a movie and that is why</p>
+<p begin="00:26:31.740" end="00:26:36.179" style="s2">there is such a fast plot. There is a very</p>
+<p begin="00:26:34.440" end="00:26:39.360" style="s2">many such sharp theatrical</p>
+<p begin="00:26:36.179" end="00:26:41.940" style="s2">turns because it adds suspense to the</p>
+<p begin="00:26:39.360" end="00:26:44.820" style="s2">film, in the end we still</p>
+<p begin="00:26:41.940" end="00:26:46.919" style="s2">have a novel and it is probably a sin to regret it</p>
+<p begin="00:26:44.820" end="00:26:50.039" style="s2">because it is not known what the fate of the film would be,</p>
+<p begin="00:26:46.919" end="00:26:52.320" style="s2">instead this novel became</p>
+<p begin="00:26:50.039" end="00:26:55.260" style="s2">truly key for the history of Ukrainian</p>
+<p begin="00:26:52.320" end="00:26:58.559" style="s2">literature and returning to the topic of the city</p>
+<p begin="00:26:55.260" end="00:27:01.860" style="s2">what  there is a city in this novel, I tend</p>
+<p begin="00:26:58.559" end="00:27:05.520" style="s2">to think that the city is just one of the</p>
+<p begin="00:27:01.860" end="00:27:08.400" style="s2">possible backgrounds, at the same time the city is a sieve</p>
+<p begin="00:27:05.520" end="00:27:12.500" style="s2">that passes the main character through it</p>
+<p begin="00:27:08.400" end="00:27:14.900" style="s2">and tries to</p>
+<p begin="00:27:12.500" end="00:27:18.299" style="s2">offer him to</p>
+<p begin="00:27:14.900" end="00:27:21.980" style="s2">maneuver himself or surrender to the</p>
+<p begin="00:27:18.299" end="00:27:24.419" style="s2">elements, and here each of us at different</p>
+<p begin="00:27:21.980" end="00:27:27.720" style="s2">stages of our lives can consider</p>
+<p begin="00:27:24.419" end="00:27:30.240" style="s2">whether  is he more of a fatalist or does he believe in</p>
+<p begin="00:27:27.720" end="00:27:31.940" style="s2">his own will I think Stepan Radchenko k</p>
+<p begin="00:27:30.240" end="00:27:35.399" style="s2">if you ask him, he</p>
+<p begin="00:27:31.940" end="00:27:37.140" style="s2">probably wouldn&#39;t say himself, is he a fatalist or does</p>
+<p begin="00:27:35.399" end="00:27:39.059" style="s2">he believe in his will, because on the one</p>
+<p begin="00:27:37.140" end="00:27:42.059" style="s2">hand he is so self-confident and so</p>
+<p begin="00:27:39.059" end="00:27:44.039" style="s2">on, on the other hand, we constantly see how</p>
+<p begin="00:27:42.059" end="00:27:47.820" style="s2">he is affected by the choices of others and the decisions of</p>
+<p begin="00:27:44.039" end="00:27:51.299" style="s2">others and how</p>
+<p begin="00:27:47.820" end="00:27:53.640" style="s2">his mood simply changes dramatically  in fact, Stepan Radchenko is</p>
+<p begin="00:27:51.299" end="00:27:56.220" style="s2">somewhat exaggerated in some ways. But perhaps</p>
+<p begin="00:27:53.640" end="00:27:57.659" style="s2">we can also find the answer in Pidmogilny himself,</p>
+<p begin="00:27:56.220" end="00:28:01.520" style="s2">who says that he</p>
+<p begin="00:27:57.659" end="00:28:05.159" style="s2">conceived this whole story as a comedy</p>
+<p begin="00:28:01.520" end="00:28:07.620" style="s2">. In fact, the fact that the city is not an</p>
+<p begin="00:28:05.159" end="00:28:10.500" style="s2">obsessive character of this work for me is important to me.</p>
+<p begin="00:28:07.620" end="00:28:13.980" style="s2">That is, it is not primarily a novel</p>
+<p begin="00:28:10.500" end="00:28:16.320" style="s2">about the city  The novel is communist Yes, but</p>
+<p begin="00:28:13.980" end="00:28:18.360" style="s2">it is not intended to describe the Kyiv of that</p>
+<p begin="00:28:16.320" end="00:28:21.740" style="s2">time, it is intended to explore the</p>
+<p begin="00:28:18.360" end="00:28:25.260" style="s2">modern Undertaker hero of that time,</p>
+<p begin="00:28:21.740" end="00:28:27.899" style="s2">who may not have clear views, who is</p>
+<p begin="00:28:25.260" end="00:28:32.940" style="s2">looking for himself, who wants happiness, wants joy,</p>
+<p begin="00:28:27.899" end="00:28:34.799" style="s2">and it is simply good literature But at the</p>
+<p begin="00:28:32.940" end="00:28:37.080" style="s2">expense of the fact that it is good literature  we</p>
+<p begin="00:28:34.799" end="00:28:38.580" style="s2">get these additional benefits as it</p>
+<p begin="00:28:37.080" end="00:28:41.399" style="s2">always happens with cool works of</p>
+<p begin="00:28:38.580" end="00:28:44.580" style="s2">art. That is, we get a large</p>
+<p begin="00:28:41.399" end="00:28:47.340" style="s2">city  th Novel Actually, I wanted to talk to you</p>
+<p begin="00:28:44.580" end="00:28:50.360" style="s2">about these characters like</p>
+<p begin="00:28:47.340" end="00:28:53.279" style="s2">Stepan Radchenko, who are not quite</p>
+<p begin="00:28:50.360" end="00:28:55.440" style="s2">good guys, but at the same time, you would</p>
+<p begin="00:28:53.279" end="00:28:57.299" style="s2">n&#39;t call them bad guys, and what</p>
+<p begin="00:28:55.440" end="00:28:59.220" style="s2">they are like from the point of view of literature, because I</p>
+<p begin="00:28:57.299" end="00:29:02.159" style="s2">will share with you that when I reread the</p>
+<p begin="00:28:59.220" end="00:29:04.740" style="s2">city this time in my  there were very fresh</p>
+<p begin="00:29:02.159" end="00:29:07.320" style="s2">memories of re-reading the notes of the</p>
+<p begin="00:29:04.740" end="00:29:09.179" style="s2">snub-nosed Mephistopheles Vinnychenko and There the</p>
+<p begin="00:29:07.320" end="00:29:11.159" style="s2">main character is older, he</p>
+<p begin="00:29:09.179" end="00:29:12.360" style="s2">has much more money, but he is also</p>
+<p begin="00:29:11.159" end="00:29:15.059" style="s2">a bit like</p>
+<p begin="00:29:12.360" end="00:29:16.799" style="s2">where the wind blows him there and carries him despite the</p>
+<p begin="00:29:15.059" end="00:29:19.500" style="s2">fact that, again, he is a lawyer, that is, he is a</p>
+<p begin="00:29:16.799" end="00:29:22.080" style="s2">lawyer, and he has to set it up  pawns and</p>
+<p begin="00:29:19.500" end="00:29:24.240" style="s2">knocking them down on the horrors, when you</p>
+<p begin="00:29:22.080" end="00:29:26.520" style="s2">look at Stepan Radchenko today, he</p>
+<p begin="00:29:24.240" end="00:29:28.799" style="s2">does not resonate with you, so tell me about this emotion.</p>
+<p begin="00:29:26.520" end="00:29:30.840" style="s2">Why does this character not resonate with you, if</p>
+<p begin="00:29:28.799" end="00:29:33.480" style="s2">he is beating you, what did he annoy you,</p>
+<p begin="00:29:30.840" end="00:29:37.080" style="s2">no, he is</p>
+<p begin="00:29:33.480" end="00:29:39.539" style="s2">not close to me at this particular moment of my</p>
+<p begin="00:29:37.080" end="00:29:41.640" style="s2">life and  I accept it for myself, it does not</p>
+<p begin="00:29:39.539" end="00:29:44.100" style="s2">mean that I</p>
+<p begin="00:29:41.640" end="00:29:46.140" style="s2">must necessarily associate myself with each character No, I</p>
+<p begin="00:29:44.100" end="00:29:49.520" style="s2">can be an observer from the side  I</p>
+<p begin="00:29:46.140" end="00:29:52.919" style="s2">just have for myself the opportunity to</p>
+<p begin="00:29:49.520" end="00:29:54.720" style="s2">escape into this text and be there next to</p>
+<p begin="00:29:52.919" end="00:29:57.320" style="s2">him, let him annoy me with all</p>
+<p begin="00:29:54.720" end="00:30:01.320" style="s2">his lovers.</p>
+<p begin="00:29:57.320" end="00:30:03.240" style="s2"></p>
+<p begin="00:30:01.320" end="00:30:05.399" style="s2"></p>
+<p begin="00:30:03.240" end="00:30:08.220" style="s2"></p>
+<p begin="00:30:05.399" end="00:30:09.980" style="s2">one and a half years, in fact, the time</p>
+<p begin="00:30:08.220" end="00:30:13.200" style="s2">during which the events of the work take place</p>
+<p begin="00:30:09.980" end="00:30:16.820" style="s2">change so drastically and so to speak,</p>
+<p begin="00:30:13.200" end="00:30:19.440" style="s2">that everything is changed, so we understand that</p>
+<p begin="00:30:16.820" end="00:30:22.200" style="s2">this novel</p>
+<p begin="00:30:19.440" end="00:30:24.600" style="s2">offers us a hero that the author</p>
+<p begin="00:30:22.200" end="00:30:26.600" style="s2">constructed, he invented this</p>
+<p begin="00:30:24.600" end="00:30:30.299" style="s2">hero for himself, this hero of an</p>
+<p begin="00:30:26.600" end="00:30:33.000" style="s2">intellectual, because both reading and</p>
+<p begin="00:30:30.299" end="00:30:34.679" style="s2">literature, which Stepan Radchenko is fond of,</p>
+<p begin="00:30:33.000" end="00:30:38.039" style="s2">are actually that  what</p>
+<p begin="00:30:34.679" end="00:30:39.600" style="s2">Valerian Podmohylyny is interested in and what he is interested in.</p>
+<p begin="00:30:38.039" end="00:30:42.240" style="s2">And that is why we can understand</p>
+<p begin="00:30:39.600" end="00:30:44.520" style="s2">that this text is autobiographical and talk</p>
+<p begin="00:30:42.240" end="00:30:46.520" style="s2">in this vein about the autobiography of this</p>
+<p begin="00:30:44.520" end="00:30:49.080" style="s2">text.</p>
+<p begin="00:30:46.520" end="00:30:50.760" style="s2"></p>
+<p begin="00:30:49.080" end="00:30:53.940" style="s2"></p>
+<p begin="00:30:50.760" end="00:30:58.140" style="s2"></p>
+<p begin="00:30:53.940" end="00:31:02.000" style="s2">It is also</p>
+<p begin="00:30:58.140" end="00:31:07.140" style="s2">important for me that it is already the middle of the novel.</p>
+<p begin="00:31:02.000" end="00:31:09.840" style="s2">And this is normal  promise when Stepan</p>
+<p begin="00:31:07.140" end="00:31:10.919" style="s2">Radchenko decided that the</p>
+<p begin="00:31:09.840" end="00:31:13.919" style="s2">page of his life begins with you, he needs to</p>
+<p begin="00:31:10.919" end="00:31:16.740" style="s2">start keeping a diary, note everything down,</p>
+<p begin="00:31:13.919" end="00:31:19.760" style="s2">and As soon as he began to start this diary,</p>
+<p begin="00:31:16.740" end="00:31:22.799" style="s2">it turned out that today is a</p>
+<p begin="00:31:19.760" end="00:31:26.419" style="s2">special anniversary, exactly one year ago, I</p>
+<p begin="00:31:22.799" end="00:31:29.519" style="s2">came to this city. You need to remember this date</p>
+<p begin="00:31:26.419" end="00:31:31.380" style="s2">and  to celebrate her and to find</p>
+<p begin="00:31:29.519" end="00:31:32.760" style="s2">this celebration Stepan Radchenko</p>
+<p begin="00:31:31.380" end="00:31:35.940" style="s2">forgot that he needed to start</p>
+<p begin="00:31:32.760" end="00:31:38.460" style="s2">keeping a diary and decided to go out for a</p>
+<p begin="00:31:35.940" end="00:31:41.100" style="s2">walk in the city the</p>
+<p begin="00:31:38.460" end="00:31:44.399" style="s2">street received him quietly before the</p>
+<p begin="00:31:41.100" end="00:31:48.059" style="s2">evening rustle and his legs</p>
+<p begin="00:31:44.399" end="00:31:49.820" style="s2">measured her infused elastic strength tongues</p>
+<p begin="00:31:48.059" end="00:31:53.220" style="s2">worked on new steel springs the</p>
+<p begin="00:31:49.820" end="00:31:55.620" style="s2">boy walked leisurely defiantly</p>
+<p begin="00:31:53.220" end="00:31:57.360" style="s2">raising his head as a sign of supremacy, some</p>
+<p begin="00:31:55.620" end="00:32:00.120" style="s2">consciousness clearly took root in his head,</p>
+<p begin="00:31:57.360" end="00:32:02.880" style="s2">giving sparkling eyes and</p>
+<p begin="00:32:00.120" end="00:32:05.600" style="s2">calm prudence of movement to the very</p>
+<p begin="00:32:02.880" end="00:32:08.640" style="s2">process of this proud gait, the feeling of the</p>
+<p begin="00:32:05.600" end="00:32:11.820" style="s2">flawless work of each wheel of</p>
+<p begin="00:32:08.640" end="00:32:14.820" style="s2">his complex machine gave him such</p>
+<p begin="00:32:11.820" end="00:32:18.019" style="s2">intoxicating pleasure that he did not</p>
+<p begin="00:32:14.820" end="00:32:21.600" style="s2">even think about where exactly his feet were leading after getting</p>
+<p begin="00:32:18.019" end="00:32:23.760" style="s2">off  on Khreshchatyk  bought a newspaper for everyone</p>
+<p begin="00:32:21.600" end="00:32:26.820" style="s2">at a table in an open cafe and asked for</p>
+<p begin="00:32:23.760" end="00:32:29.460" style="s2">a coffee with a cake with an inexplicable and</p>
+<p begin="00:32:26.820" end="00:32:33.059" style="s2">unexpected delicacy, putting one</p>
+<p begin="00:32:29.460" end="00:32:35.519" style="s2">foot on the other, he lazily stirred a fragrant drink from a</p>
+<p begin="00:32:33.059" end="00:32:39.320" style="s2">spit, looking at the hundreds of faces that</p>
+<p begin="00:32:35.519" end="00:32:42.179" style="s2">floated past the bars, taking</p>
+<p begin="00:32:39.320" end="00:32:45.659" style="s2">in all the colorfulness and</p>
+<p begin="00:32:42.179" end="00:32:48.659" style="s2">acceleration of street traffic  then he unfolded the</p>
+<p begin="00:32:45.659" end="00:32:52.080" style="s2">newspaper in the classifieds section and threw another cake</p>
+<p begin="00:32:48.659" end="00:32:54.980" style="s2">to the maid. The passing</p>
+<p begin="00:32:52.080" end="00:32:57.899" style="s2">symphony orchestra concert in the opera house</p>
+<p begin="00:32:54.980" end="00:33:01.559" style="s2">convinced him the most because he</p>
+<p begin="00:32:57.899" end="00:33:04.080" style="s2">had never heard of such concerts, and after getting on the</p>
+<p begin="00:33:01.559" end="00:33:05.640" style="s2">bus, even though it was only two blocks to go,</p>
+<p begin="00:33:04.080" end="00:33:09.720" style="s2">he reached Volodymyrska</p>
+<p begin="00:33:05.640" end="00:33:13.220" style="s2">Street, buying an</p>
+<p begin="00:33:09.720" end="00:33:16.140" style="s2">expensive ticket at the ticket office  the guy began to</p>
+<p begin="00:33:13.220" end="00:33:19.980" style="s2">walk like a circling foil of Tisha, someone&#39;s spectacle of</p>
+<p begin="00:33:16.140" end="00:33:23.399" style="s2">incessantly changing faces, put on clothes</p>
+<p begin="00:33:19.980" end="00:33:26.220" style="s2">, the crowd had a strange effect on him. He</p>
+<p begin="00:33:23.399" end="00:33:28.860" style="s2">continued to watch this crowd, he went to</p>
+<p begin="00:33:26.220" end="00:33:33.260" style="s2">this concert and did not listen very carefully to him,</p>
+<p begin="00:33:28.860" end="00:33:36.720" style="s2">but during the intermission he realized that</p>
+<p begin="00:33:33.260" end="00:33:40.320" style="s2">undoubtedly everyone around were cultured</p>
+<p begin="00:33:36.720" end="00:33:42.539" style="s2">people who read magazines and a lot  which of</p>
+<p begin="00:33:40.320" end="00:33:45.960" style="s2">them is for  we would have the honor to meet a</p>
+<p begin="00:33:42.539" end="00:33:49.200" style="s2">talented writer, but in the meantime, they are</p>
+<p begin="00:33:45.960" end="00:33:52.200" style="s2">shared by a very sick person, making</p>
+<p begin="00:33:49.200" end="00:33:55.140" style="s2">him a foreign body that accidentally</p>
+<p begin="00:33:52.200" end="00:33:58.500" style="s2">got inside a well-functioning</p>
+<p begin="00:33:55.140" end="00:34:02.700" style="s2">organism.</p>
+<p begin="00:33:58.500" end="00:34:05.220" style="s2"></p>
+<p begin="00:34:02.700" end="00:34:07.380" style="s2"></p>
+<p begin="00:34:05.220" end="00:34:10.919" style="s2"></p>
+<p begin="00:34:07.380" end="00:34:13.320" style="s2">material existence, he was lonely, and the</p>
+<p begin="00:34:10.919" end="00:34:16.139" style="s2">months of human exploits were now</p>
+<p begin="00:34:13.320" end="00:34:19.260" style="s2">turning into his shame,</p>
+<p begin="00:34:16.139" end="00:34:21.720" style="s2">at the end of this episode, he will</p>
+<p begin="00:34:19.260" end="00:34:25.679" style="s2">meet his third love, the</p>
+<p begin="00:34:21.720" end="00:34:29.579" style="s2">Zoska kiyanka. And actually from this</p>
+<p begin="00:34:25.679" end="00:34:32.820" style="s2">fragment, I understand for myself that this is a Kyiv text,</p>
+<p begin="00:34:29.579" end="00:34:35.099" style="s2">in particular, despite what you said a few</p>
+<p begin="00:34:32.820" end="00:34:39.440" style="s2">minutes ago  that he does not necessarily have to</p>
+<p begin="00:34:35.099" end="00:34:41.639" style="s2">be from Kyiv, but here it is. The city of</p>
+<p begin="00:34:39.440" end="00:34:44.639" style="s2">Pidmogilny belonged to several cities</p>
+<p begin="00:34:41.639" end="00:34:47.399" style="s2">at the same time. He was from the Dnipro and about the Dnipro. A</p>
+<p begin="00:34:44.639" end="00:34:49.740" style="s2">small drama about his texts. He was a</p>
+<p begin="00:34:47.399" end="00:34:52.139" style="s2">Kharkiv author. He was from Kyiv.</p>
+<p begin="00:34:49.740" end="00:34:55.520" style="s2">He belonged to the Kyiv organization of the branch,</p>
+<p begin="00:34:52.139" end="00:34:58.040" style="s2">and this text has so many</p>
+<p begin="00:34:55.520" end="00:35:01.560" style="s2">markings  streets,</p>
+<p begin="00:34:58.040" end="00:35:03.900" style="s2">alleys, places, what can we say</p>
+<p begin="00:35:01.560" end="00:35:07.680" style="s2">such a pattern of reproaches  istati</p>
+<p begin="00:35:03.900" end="00:35:08.960" style="s2">We are walking through the city of Pidmogilny and this</p>
+<p begin="00:35:07.680" end="00:35:11.520" style="s2">will really be a template that we will</p>
+<p begin="00:35:08.960" end="00:35:14.099" style="s2">work on because there are so many</p>
+<p begin="00:35:11.520" end="00:35:17.099" style="s2">places that Stepan Radchenko used</p>
+<p begin="00:35:14.099" end="00:35:20.520" style="s2">to go and today we walk in these places and this is</p>
+<p begin="00:35:17.099" end="00:35:23.400" style="s2">actually the Kyiv text and this is the</p>
+<p begin="00:35:20.520" end="00:35:26.339" style="s2">belonging of the marking of specific</p>
+<p begin="00:35:23.400" end="00:35:29.280" style="s2">streets of specific moods of a specific</p>
+<p begin="00:35:26.339" end="00:35:33.720" style="s2">environment that, for example, came to the theater</p>
+<p begin="00:35:29.280" end="00:35:35.880" style="s2">and  to which he does not quite belong, they</p>
+<p begin="00:35:33.720" end="00:35:40.380" style="s2">also read magazines, they are interested in</p>
+<p begin="00:35:35.880" end="00:35:42.839" style="s2">art, but they are different from him, and he has</p>
+<p begin="00:35:40.380" end="00:35:45.119" style="s2">not done anything during this year, during his stay</p>
+<p begin="00:35:42.839" end="00:35:47.940" style="s2">in this place, to get closer to them.</p>
+<p begin="00:35:45.119" end="00:35:50.880" style="s2">Do you agree with Bohdana</p>
+<p begin="00:35:47.940" end="00:35:53.880" style="s2">that this is a text about Kyiv, a novel about Kyiv  if</p>
+<p begin="00:35:50.880" end="00:35:56.280" style="s2">I didn&#39;t agree, I&#39;d be an idiot. Of course</p>
+<p begin="00:35:53.880" end="00:36:00.980" style="s2">I agree, and what&#39;s more, I would very much like</p>
+<p begin="00:35:56.280" end="00:36:03.839" style="s2">our Kyiv space to be marked with a</p>
+<p begin="00:36:00.980" end="00:36:06.420" style="s2">gravestone and signs from the Graveyard,</p>
+<p begin="00:36:03.839" end="00:36:09.599" style="s2">or for example, I sometimes go to a</p>
+<p begin="00:36:06.420" end="00:36:13.560" style="s2">coffee shop in Na Valakh precisely because it is</p>
+<p begin="00:36:09.599" end="00:36:17.160" style="s2">approximately where I had  I wish I could live with my</p>
+<p begin="00:36:13.560" end="00:36:19.680" style="s2">second love, the hero of Undertaker, and</p>
+<p begin="00:36:17.160" end="00:36:21.380" style="s2">that I wouldn&#39;t be there. It&#39;s nice to think about it,</p>
+<p begin="00:36:19.680" end="00:36:25.200" style="s2"></p>
+<p begin="00:36:21.380" end="00:36:27.900" style="s2">I&#39;m clinging to something  you know, that is, when</p>
+<p begin="00:36:25.200" end="00:36:30.560" style="s2">we talk about this theater audience, we</p>
+<p begin="00:36:27.900" end="00:36:32.660" style="s2">also understand that if the reader were to read this to</p>
+<p begin="00:36:30.560" end="00:36:36.540" style="s2"></p>
+<p begin="00:36:32.660" end="00:36:38.099" style="s2">Paris, where Pidmohylnyi also visited, or to</p>
+<p begin="00:36:36.540" end="00:36:41.520" style="s2">any other city, he would be able to</p>
+<p begin="00:36:38.099" end="00:36:44.220" style="s2">understand this. That is, we, through Stepan</p>
+<p begin="00:36:41.520" end="00:36:46.440" style="s2">Radchenko, have the opportunity to look at the city with the eyes of a</p>
+<p begin="00:36:44.220" end="00:36:49.500" style="s2">neophyte.</p>
+<p begin="00:36:46.440" end="00:36:52.320" style="s2">social institutions, how does the theater work,</p>
+<p begin="00:36:49.500" end="00:36:56.599" style="s2">how does the institute work, how does the</p>
+<p begin="00:36:52.320" end="00:37:01.200" style="s2">street work, how does the expensive clothing store work,</p>
+<p begin="00:36:56.599" end="00:37:03.780" style="s2">we look at some such, how would it be better to</p>
+<p begin="00:37:01.200" end="00:37:06.599" style="s2">say, both at the top and at the bottom,</p>
+<p begin="00:37:03.780" end="00:37:10.920" style="s2">and together with Radchenko we try on some</p>
+<p begin="00:37:06.599" end="00:37:12.660" style="s2">emotions for ourselves because you know, I really</p>
+<p begin="00:37:10.920" end="00:37:15.839" style="s2">like this  the fragment that you</p>
+<p begin="00:37:12.660" end="00:37:19.680" style="s2">read is also like this, even this is even</p>
+<p begin="00:37:15.839" end="00:37:22.680" style="s2">neuroticism, it is somehow already sarcasm in</p>
+<p begin="00:37:19.680" end="00:37:27.119" style="s2">Pidmogilny, because Radchenko, who has been</p>
+<p begin="00:37:22.680" end="00:37:30.780" style="s2">living in Kyiv for a year, and in fact, he has a</p>
+<p begin="00:37:27.119" end="00:37:34.140" style="s2">small but certain success, he begins to</p>
+<p begin="00:37:30.780" end="00:37:37.140" style="s2">flirt, that is, he is like that, saying Oh no, I am</p>
+<p begin="00:37:34.140" end="00:37:42.740" style="s2">so separate and all that  And we understand</p>
+<p begin="00:37:37.140" end="00:37:46.859" style="s2">that this is a human trait, this is a certain</p>
+<p begin="00:37:42.740" end="00:37:49.680" style="s2">ability to exaggerate. This is the desire</p>
+<p begin="00:37:46.859" end="00:37:51.359" style="s2">to drive oneself into a certain critical</p>
+<p begin="00:37:49.680" end="00:37:54.240" style="s2">state.  that this critical state then</p>
+<p begin="00:37:51.359" end="00:37:57.060" style="s2">provokes a certain creativity, we see that</p>
+<p begin="00:37:54.240" end="00:37:59.160" style="s2">Stepan Radchenko is nevertheless an artist, although</p>
+<p begin="00:37:57.060" end="00:38:02.220" style="s2">he is supposedly preparing himself for something else, because</p>
+<p begin="00:37:59.160" end="00:38:03.720" style="s2">in the school where he was supposed to study, he</p>
+<p begin="00:38:02.220" end="00:38:05.700" style="s2">was supposed to be preparing himself to</p>
+<p begin="00:38:03.720" end="00:38:07.920" style="s2">return to his native village and improve</p>
+<p begin="00:38:05.700" end="00:38:10.560" style="s2">his life and  to make their collective</p>
+<p begin="00:38:07.920" end="00:38:13.079" style="s2">farms the best collective farms in the entire Soviet</p>
+<p begin="00:38:10.560" end="00:38:15.619" style="s2">Union and this foray into the city is temporarily</p>
+<p begin="00:38:13.079" end="00:38:17.820" style="s2">limited. And it is very practically</p>
+<p begin="00:38:15.619" end="00:38:21.180" style="s2">utilitarian, that is, to go study and</p>
+<p begin="00:38:17.820" end="00:38:23.339" style="s2">return himself. Pidmogilny, who</p>
+<p begin="00:38:21.180" end="00:38:25.560" style="s2">never obtained a certain higher education, was</p>
+<p begin="00:38:23.339" end="00:38:28.140" style="s2">also preparing himself for another. He was supposed to become a</p>
+<p begin="00:38:25.560" end="00:38:30.300" style="s2">polytechnic. Instead, he is studying French on his own</p>
+<p begin="00:38:28.140" end="00:38:32.700" style="s2">language to a level that</p>
+<p begin="00:38:30.300" end="00:38:36.960" style="s2">allows him to read and translate, he</p>
+<p begin="00:38:32.700" end="00:38:36.960" style="s2">begins to write very early. He</p>
+<p begin="00:38:37.320" end="00:38:43.680" style="s2">is also such a special type. But we</p>
+<p begin="00:38:40.560" end="00:38:46.079" style="s2">can all recognize among Ukrainian</p>
+<p begin="00:38:43.680" end="00:38:48.180" style="s2">contemporary artists similar people who supposedly</p>
+<p begin="00:38:46.079" end="00:38:51.060" style="s2">come from the outside, but it is this arrival</p>
+<p begin="00:38:48.180" end="00:38:54.599" style="s2">from the outside that gives them a rather unique</p>
+<p begin="00:38:51.060" end="00:38:56.599" style="s2">outsider&#39;s optics or despite the ironic Stepan</p>
+<p begin="00:38:54.599" end="00:38:59.339" style="s2">Radchenko  towards the end - It&#39;s just a</p>
+<p begin="00:38:56.599" end="00:39:02.520" style="s2">mockery of him  you, that is, when he</p>
+<p begin="00:38:59.339" end="00:39:04.320" style="s2">starts this tour of his loved ones. It</p>
+<p begin="00:39:02.520" end="00:39:06.839" style="s2">seems to me that he is already simply</p>
+<p begin="00:39:04.320" end="00:39:09.240" style="s2">carrying the Undertaker, he cannot help himself. It is very</p>
+<p begin="00:39:06.839" end="00:39:11.760" style="s2">funny to him because Stepan Radchenko</p>
+<p begin="00:39:09.240" end="00:39:14.119" style="s2">convinces himself at first, he so involuntarily</p>
+<p begin="00:39:11.760" end="00:39:17.280" style="s2">says oh, we have to find him there, see,</p>
+<p begin="00:39:14.119" end="00:39:19.320" style="s2">then he starts looking for her, although</p>
+<p begin="00:39:17.280" end="00:39:21.839" style="s2">he has just  hesitated Does he need this, he is</p>
+<p begin="00:39:19.320" end="00:39:24.260" style="s2">already locked in here, he is already looking for her and he is like</p>
+<p begin="00:39:21.839" end="00:39:27.300" style="s2">Oh God, she will meet me How will it be?</p>
+<p begin="00:39:24.260" end="00:39:29.640" style="s2">Then he meets this woman and</p>
+<p begin="00:39:27.300" end="00:39:32.160" style="s2">it turns out that she is not his, she</p>
+<p begin="00:39:29.640" end="00:39:35.640" style="s2">was not waiting for him and so on. Well, what about Stepana</p>
+<p begin="00:39:32.160" end="00:39:38.280" style="s2">Radchenko?  so youthful and how it</p>
+<p begin="00:39:35.640" end="00:39:40.579" style="s2">hurts him, this incredible amplitude of</p>
+<p begin="00:39:38.280" end="00:39:43.560" style="s2">emotions is very cool She manages to be a</p>
+<p begin="00:39:40.579" end="00:39:46.020" style="s2">gravedigger and Well, listen to her, we also</p>
+<p begin="00:39:43.560" end="00:39:48.599" style="s2">see what is given on our streets and not</p>
+<p begin="00:39:46.020" end="00:39:50.359" style="s2">only in people of Stepan Radchenko&#39;s age.</p>
+<p begin="00:39:48.599" end="00:39:53.660" style="s2"></p>
+<p begin="00:39:50.359" end="00:39:56.940" style="s2"></p>
+<p begin="00:39:53.660" end="00:39:58.680" style="s2">I can&#39;t find myself or find myself because it&#39;s</p>
+<p begin="00:39:56.940" end="00:40:01.460" style="s2">also interesting for me to think about</p>
+<p begin="00:39:58.680" end="00:40:04.339" style="s2">it here. Well, in the case of Radchenko, it&#39;s</p>
+<p begin="00:40:01.460" end="00:40:07.380" style="s2">finding yourself, it&#39;s returning to yourself,</p>
+<p begin="00:40:04.339" end="00:40:09.140" style="s2">it&#39;s discovering yourself  that is, I don&#39;t fully</p>
+<p begin="00:40:07.380" end="00:40:11.760" style="s2">understand his</p>
+<p begin="00:40:09.140" end="00:40:15.060" style="s2">expedition, what he wants, but he</p>
+<p begin="00:40:11.760" end="00:40:16.700" style="s2">himself doesn&#39;t know that either, which is normal, and it&#39;s</p>
+<p begin="00:40:15.060" end="00:40:20.000" style="s2">some kind of</p>
+<p begin="00:40:16.700" end="00:40:23.000" style="s2">constant process of self-education and</p>
+<p begin="00:40:20.000" end="00:40:25.380" style="s2">trying to somehow hone and</p>
+<p begin="00:40:23.000" end="00:40:27.180" style="s2">shape yourself, because many people do it at the</p>
+<p begin="00:40:25.380" end="00:40:29.780" style="s2">university</p>
+<p begin="00:40:27.180" end="00:40:33.359" style="s2">.  and</p>
+<p begin="00:40:29.780" end="00:40:35.780" style="s2">about this difference of the city that arises in</p>
+<p begin="00:40:33.359" end="00:40:38.520" style="s2">different societies, because for the</p>
+<p begin="00:40:35.780" end="00:40:41.520" style="s2">neoclassicists who have an impeccable</p>
+<p begin="00:40:38.520" end="00:40:44.760" style="s2">education, the city is a space where they</p>
+<p begin="00:40:41.520" end="00:40:48.980" style="s2">grow and where they find themselves</p>
+<p begin="00:40:44.760" end="00:40:51.260" style="s2">through the intellect, often through history, and for</p>
+<p begin="00:40:48.980" end="00:40:54.180" style="s2">Pidmogilny, the City, whether it is Dnipro,</p>
+<p begin="00:40:51.260" end="00:40:56.040" style="s2">Katerynoslav, or Kyiv, or anywhere  what a different</p>
+<p begin="00:40:54.180" end="00:40:58.560" style="s2">city it will be in a space that he</p>
+<p begin="00:40:56.040" end="00:41:00.599" style="s2">comes from a different space and this does not</p>
+<p begin="00:40:58.560" end="00:41:02.400" style="s2">make his experience worse or better he is</p>
+<p begin="00:41:00.599" end="00:41:04.579" style="s2">simply different He allows us to get a</p>
+<p begin="00:41:02.400" end="00:41:06.500" style="s2">more complete picture of the city</p>
+<p begin="00:41:04.579" end="00:41:09.720" style="s2">than</p>
+<p begin="00:41:06.500" end="00:41:12.540" style="s2">if we looked at it only through the</p>
+<p begin="00:41:09.720" end="00:41:15.599" style="s2">gaze of the one and only Mykola Zarov,</p>
+<p begin="00:41:12.540" end="00:41:17.599" style="s2">you know, I also think about  the fact that Solomiya</p>
+<p begin="00:41:15.599" end="00:41:20.700" style="s2">Pavlychko compares</p>
+<p begin="00:41:17.599" end="00:41:23.480" style="s2">Domontovych and Pidmohylny and she</p>
+<p begin="00:41:20.700" end="00:41:26.700" style="s2">explains why she does this  despite</p>
+<p begin="00:41:23.480" end="00:41:29.760" style="s2">very, very different experiences. Both</p>
+<p begin="00:41:26.700" end="00:41:31.920" style="s2">Domontovych and Pidmohylnyi give this fuller</p>
+<p begin="00:41:29.760" end="00:41:34.079" style="s2">picture of the new city. Here it is important to say</p>
+<p begin="00:41:31.920" end="00:41:35.579" style="s2">that they are not describing it for the first time, but they</p>
+<p begin="00:41:34.079" end="00:41:37.140" style="s2">are describing it in this period.</p>
+<p begin="00:41:35.579" end="00:41:39.839" style="s2"></p>
+<p begin="00:41:37.140" end="00:41:42.680" style="s2"></p>
+<p begin="00:41:39.839" end="00:41:45.119" style="s2"></p>
+<p begin="00:41:42.680" end="00:41:47.579" style="s2"></p>
+<p begin="00:41:45.119" end="00:41:49.619" style="s2">and I really like this</p>
+<p begin="00:41:47.579" end="00:41:51.960" style="s2">juxtaposition because it shows us,</p>
+<p begin="00:41:49.619" end="00:41:54.079" style="s2">again, an incredibly ambitious beginning,</p>
+<p begin="00:41:51.960" end="00:41:57.359" style="s2">which was not just an</p>
+<p begin="00:41:54.079" end="00:41:58.920" style="s2">essay by some essay. And these are full-blooded</p>
+<p begin="00:41:57.359" end="00:42:00.480" style="s2">cool novels that tell us a lot</p>
+<p begin="00:41:58.920" end="00:42:01.980" style="s2"></p>
+<p begin="00:42:00.480" end="00:42:06.680" style="s2">[music]</p>
+<p begin="00:42:01.980" end="00:42:06.680" style="s2">I think of Pidmohylyny as such,</p>
+<p begin="00:42:07.319" end="00:42:13.020" style="s2">you know in the good sense of the word amateur in</p>
+<p begin="00:42:11.640" end="00:42:14.400" style="s2">many  things, he was not afraid to be</p>
+<p begin="00:42:13.020" end="00:42:17.540" style="s2">an amateur in order to become a</p>
+<p begin="00:42:14.400" end="00:42:20.119" style="s2">professional and he showed many a</p>
+<p begin="00:42:17.540" end="00:42:23.520" style="s2">rather unexpected path to</p>
+<p begin="00:42:20.119" end="00:42:27.359" style="s2">professionalism, which lies through a certain</p>
+<p begin="00:42:23.520" end="00:42:29.819" style="s2">sensuality, through a passionate interest, this</p>
+<p begin="00:42:27.359" end="00:42:32.819" style="s2">path is not through the university, and we understand</p>
+<p begin="00:42:29.819" end="00:42:34.500" style="s2">that these approaches can be combined, they</p>
+<p begin="00:42:32.819" end="00:42:37.200" style="s2">can exist separately and</p>
+<p begin="00:42:34.500" end="00:42:40.500" style="s2">work together  but it is the Helper who</p>
+<p begin="00:42:37.200" end="00:42:42.619" style="s2">gives  this cool model is possible for the first time and</p>
+<p begin="00:42:40.500" end="00:42:46.140" style="s2">shows that it can work</p>
+<p begin="00:42:42.619" end="00:42:47.540" style="s2">very powerfully, that is, you don&#39;t have</p>
+<p begin="00:42:46.140" end="00:42:51.060" style="s2">to</p>
+<p begin="00:42:47.540" end="00:42:53.220" style="s2">go all the way from the very beginning, it&#39;s supposed</p>
+<p begin="00:42:51.060" end="00:42:55.140" style="s2">to be right, so you can at some point</p>
+<p begin="00:42:53.220" end="00:42:58.200" style="s2">start to discover something for yourself and everything will</p>
+<p begin="00:42:55.140" end="00:43:01.680" style="s2">still be very cool. What do I think about</p>
+<p begin="00:42:58.200" end="00:43:04.099" style="s2">this Stepan  radchenko and his constant</p>
+<p begin="00:43:01.680" end="00:43:07.260" style="s2">desire to find the</p>
+<p begin="00:43:04.099" end="00:43:11.160" style="s2">private key to this success, as he</p>
+<p begin="00:43:07.260" end="00:43:13.020" style="s2">supposedly sees it, and the desire to solve, here he</p>
+<p begin="00:43:11.160" end="00:43:16.440" style="s2">first wants to solve when he</p>
+<p begin="00:43:13.020" end="00:43:19.680" style="s2">arrives at his higher educational institution</p>
+<p begin="00:43:16.440" end="00:43:21.599" style="s2">where he has to make a number of different movements,</p>
+<p begin="00:43:19.680" end="00:43:24.500" style="s2">he does not want to do it, he is cool,</p>
+<p begin="00:43:21.599" end="00:43:27.180" style="s2">then he opens  a</p>
+<p begin="00:43:24.500" end="00:43:30.119" style="s2">literary life for himself and also thinks that the</p>
+<p begin="00:43:27.180" end="00:43:32.579" style="s2">only way is to find these ways there, that&#39;s</p>
+<p begin="00:43:30.119" end="00:43:35.280" style="s2">why shake hands with him, drink</p>
+<p begin="00:43:32.579" end="00:43:37.859" style="s2">there, then go for a beer and the same story</p>
+<p begin="00:43:35.280" end="00:43:40.760" style="s2">wherever he ends up, it&#39;s actually and</p>
+<p begin="00:43:37.859" end="00:43:44.420" style="s2">betrays in him, in my opinion, a</p>
+<p begin="00:43:40.760" end="00:43:48.540" style="s2">person who gets  into a new environment and is</p>
+<p begin="00:43:44.420" end="00:43:51.900" style="s2">not ready to penetrate it and act according to</p>
+<p begin="00:43:48.540" end="00:43:54.660" style="s2">its rules. And is simply looking for a</p>
+<p begin="00:43:51.900" end="00:43:59.099" style="s2">way to get a position in this</p>
+<p begin="00:43:54.660" end="00:44:01.440" style="s2">environment, which would be, well, this is me  I&#39;m not saying it</p>
+<p begin="00:43:59.099" end="00:44:03.480" style="s2">&#39;s very frequent, but the detours are so</p>
+<p begin="00:44:01.440" end="00:44:07.319" style="s2">quick and easy, that is, you don&#39;t understand the</p>
+<p begin="00:44:03.480" end="00:44:09.540" style="s2">city, but just come and get the cool</p>
+<p begin="00:44:07.319" end="00:44:11.400" style="s2">chair you&#39;re sitting on, God, you</p>
+<p begin="00:44:09.540" end="00:44:13.460" style="s2">answered why this novel does</p>
+<p begin="00:44:11.400" end="00:44:16.160" style="s2">n&#39;t fully</p>
+<p begin="00:44:13.460" end="00:44:19.500" style="s2">resonate with</p>
+<p begin="00:44:16.160" end="00:44:22.560" style="s2">me right now, because I&#39;m not interested in the hero of Stepan Radchenko,</p>
+<p begin="00:44:19.500" end="00:44:26.780" style="s2">not the heroes of Pidmogylny  I am more interested in</p>
+<p begin="00:44:22.560" end="00:44:29.819" style="s2">the heroes of Vedemontovych at this moment, who are</p>
+<p begin="00:44:26.780" end="00:44:32.339" style="s2">extraordinary people with a rich</p>
+<p begin="00:44:29.819" end="00:44:36.300" style="s2">inner world, of course with development and</p>
+<p begin="00:44:32.339" end="00:44:41.339" style="s2">search, but intellectuals a priori without</p>
+<p begin="00:44:36.300" end="00:44:43.460" style="s2">options and an insect and a teacher from a girl</p>
+<p begin="00:44:41.339" end="00:44:47.000" style="s2">with a bear, they</p>
+<p begin="00:44:43.460" end="00:44:50.819" style="s2">are already on, they are already representatives of the</p>
+<p begin="00:44:47.000" end="00:44:54.480" style="s2">scientific community And they are</p>
+<p begin="00:44:50.819" end="00:44:57.900" style="s2">much more interesting to me  in fact, I also read a</p>
+<p begin="00:44:54.480" end="00:45:02.880" style="s2">novel about a city about a city before going to bed</p>
+<p begin="00:44:57.900" end="00:45:04.560" style="s2">every day for a month and a half, and I forgot to</p>
+<p begin="00:45:02.880" end="00:45:07.440" style="s2">tell you about it, but the</p>
+<p begin="00:45:04.560" end="00:45:11.220" style="s2">opportunity has come. I am reading it from the magazine Universe for</p>
+<p begin="00:45:07.440" end="00:45:13.440" style="s2">2012. It is a novel, and the local Albanian of the city is</p>
+<p begin="00:45:11.220" end="00:45:15.180" style="s2">not from Rome, such a composition, so</p>
+<p begin="00:45:13.440" end="00:45:18.420" style="s2">multifaceted, you can read it</p>
+<p begin="00:45:15.180" end="00:45:21.359" style="s2">differently, because here there is the Traveler Marco</p>
+<p begin="00:45:18.420" end="00:45:24.980" style="s2">Polo and there is a King, and this king asks that the</p>
+<p begin="00:45:21.359" end="00:45:28.500" style="s2">Traveler og  lazy all the cities of his</p>
+<p begin="00:45:24.980" end="00:45:30.960" style="s2">kingdom and I will tell him about each of</p>
+<p begin="00:45:28.500" end="00:45:35.760" style="s2">them and this Marco Polo he classifies</p>
+<p begin="00:45:30.960" end="00:45:39.900" style="s2">cities I city memory city desire</p>
+<p begin="00:45:35.760" end="00:45:42.560" style="s2">city feeling city i.e. there are different</p>
+<p begin="00:45:39.900" end="00:45:46.220" style="s2">categories of these cities and among them there is even the</p>
+<p begin="00:45:42.560" end="00:45:49.200" style="s2">city of Anastasia which I was very</p>
+<p begin="00:45:46.220" end="00:45:52.079" style="s2">pleased It is nice and this  the text can be read in</p>
+<p begin="00:45:49.200" end="00:45:54.540" style="s2">several ways, you can read by these</p>
+<p begin="00:45:52.079" end="00:45:57.900" style="s2">categories of cities about the city and the sky, all 5</p>
+<p begin="00:45:54.540" end="00:46:02.880" style="s2">or 6 texts about the city and eyes, all the</p>
+<p begin="00:45:57.900" end="00:46:05.040" style="s2">texts can be read in a row, there is also this game in</p>
+<p begin="00:46:02.880" end="00:46:08.339" style="s2">this game, I like that I can write about each</p>
+<p begin="00:46:05.040" end="00:46:11.460" style="s2">city these few paragraphs  I can</p>
+<p begin="00:46:08.339" end="00:46:14.099" style="s2">grab them I can settle there I can</p>
+<p begin="00:46:11.460" end="00:46:18.319" style="s2">be with these living elements for a very</p>
+<p begin="00:46:14.099" end="00:46:21.480" style="s2">short period of time and then close and</p>
+<p begin="00:46:18.319" end="00:46:24.540" style="s2">stay in my space in my</p>
+<p begin="00:46:21.480" end="00:46:26.880" style="s2">country estate far from these not</p>
+<p begin="00:46:24.540" end="00:46:29.819" style="s2">always real cities</p>
+<p begin="00:46:26.880" end="00:46:32.960" style="s2">And that is why this intellectual journey</p>
+<p begin="00:46:29.819" end="00:46:34.579" style="s2">may be fictional but</p>
+<p begin="00:46:32.960" end="00:46:37.560" style="s2"></p>
+<p begin="00:46:34.579" end="00:46:40.440" style="s2">not deliberately simplified</p>
+<p begin="00:46:37.560" end="00:46:42.780" style="s2">I like it. But while I was saying this, I</p>
+<p begin="00:46:40.440" end="00:46:44.720" style="s2">understood why I</p>
+<p begin="00:46:42.780" end="00:46:49.079" style="s2">especially like the city now,</p>
+<p begin="00:46:44.720" end="00:46:51.240" style="s2">because this is not the kind of novel that is written in</p>
+<p begin="00:46:49.079" end="00:46:54.000" style="s2">response to a complex, say  in Well, let&#39;s</p>
+<p begin="00:46:51.240" end="00:46:57.060" style="s2">finally make a cool novel about the city of</p>
+<p begin="00:46:54.000" end="00:46:59.900" style="s2">Kyiv, in fact, the Undertaker is very</p>
+<p begin="00:46:57.060" end="00:47:02.760" style="s2">witty, ironic, sometimes</p>
+<p begin="00:46:59.900" end="00:47:04.500" style="s2"></p>
+<p begin="00:47:02.760" end="00:47:06.319" style="s2"></p>
+<p begin="00:47:04.500" end="00:47:09.599" style="s2"></p>
+<p begin="00:47:06.319" end="00:47:13.280" style="s2"></p>
+<p begin="00:47:09.599" end="00:47:15.079" style="s2">very cruel.</p>
+<p begin="00:47:13.280" end="00:47:17.640" style="s2">to</p>
+<p begin="00:47:15.079" end="00:47:19.380" style="s2">arrange his life in general, in a moment he</p>
+<p begin="00:47:17.640" end="00:47:22.260" style="s2">comes to the idea that it is not so bad to</p>
+<p begin="00:47:19.380" end="00:47:24.720" style="s2">be an alphonse, and at the same time he thinks about</p>
+<p begin="00:47:22.260" end="00:47:28.200" style="s2">how lucky women are, they say, a woman has</p>
+<p begin="00:47:24.720" end="00:47:30.180" style="s2">a husband, that&#39;s his problem, so that</p>
+<p begin="00:47:28.200" end="00:47:33.480" style="s2">she has everything OK, she ate normally and</p>
+<p begin="00:47:30.180" end="00:47:35.760" style="s2">somehow her basic needs were met</p>
+<p begin="00:47:33.480" end="00:47:38.099" style="s2">And when you read this sometimes</p>
+<p begin="00:47:35.760" end="00:47:40.800" style="s2">even despicable but very funny Undertaker,</p>
+<p begin="00:47:38.099" end="00:47:43.920" style="s2">you understand that the name is a city.</p>
+<p begin="00:47:40.800" end="00:47:46.619" style="s2">Well, it&#39;s apt, it&#39;s cool. And</p>
+<p begin="00:47:43.920" end="00:47:48.900" style="s2">when I look at the cover of the book</p>
+<p begin="00:47:46.619" end="00:47:52.440" style="s2">association&#39;s edition, I realize that it&#39;s so</p>
+<p begin="00:47:48.900" end="00:47:55.200" style="s2">laconic, I want to pick it up, but it&#39;s</p>
+<p begin="00:47:52.440" end="00:47:57.480" style="s2">also ironic because  that the novel that</p>
+<p begin="00:47:55.200" end="00:47:59.579" style="s2">tells us so much about Kyiv and gives us</p>
+<p begin="00:47:57.480" end="00:48:03.660" style="s2">information about this Kyiv actually</p>
+<p begin="00:47:59.579" end="00:48:05.819" style="s2">solves such problems  what are called</p>
+<p begin="00:48:03.660" end="00:48:09.000" style="s2">eternal problems, eternal questions,</p>
+<p begin="00:48:05.819" end="00:48:11.400" style="s2">that is, the ability of a person to determine what</p>
+<p begin="00:48:09.000" end="00:48:14.819" style="s2">he wants and what he does not want, how he</p>
+<p begin="00:48:11.400" end="00:48:17.579" style="s2">wants, who he loves, what he is</p>
+<p begin="00:48:14.819" end="00:48:21.920" style="s2">interested in, who he sees himself in this</p>
+<p begin="00:48:17.579" end="00:48:24.720" style="s2">world, and just the background of the city here really becomes</p>
+<p begin="00:48:21.920" end="00:48:26.460" style="s2">non-trivial new, but I thought  By the</p>
+<p begin="00:48:24.720" end="00:48:28.440" style="s2">way, today we will also talk about</p>
+<p begin="00:48:26.460" end="00:48:31.079" style="s2">Ukrainization, because Stepan Radchenko is</p>
+<p begin="00:48:28.440" end="00:48:33.420" style="s2">working on courses on Ukrainization. But</p>
+<p begin="00:48:31.079" end="00:48:34.440" style="s2">it is clear that for me it is not at all like</p>
+<p begin="00:48:33.420" end="00:48:37.200" style="s2">Germany.</p>
+<p begin="00:48:34.440" end="00:48:41.180" style="s2"></p>
+<p begin="00:48:37.200" end="00:48:43.940" style="s2"></p>
+<p begin="00:48:41.180" end="00:48:46.880" style="s2">But</p>
+<p begin="00:48:43.940" end="00:48:49.380" style="s2">this is, let&#39;s say, a fruit for</p>
+<p begin="00:48:46.880" end="00:48:51.839" style="s2">literary critics and for readers who</p>
+<p begin="00:48:49.380" end="00:48:54.240" style="s2">read on Skyphone, and not necessarily a</p>
+<p begin="00:48:51.839" end="00:48:56.240" style="s2">context in which to dive, because</p>
+<p begin="00:48:54.240" end="00:48:59.220" style="s2">there is necessarily a</p>
+<p begin="00:48:56.240" end="00:49:01.559" style="s2">context of this private journey of the</p>
+<p begin="00:48:59.220" end="00:49:04.079" style="s2">individual in depth and in general the</p>
+<p begin="00:49:01.559" end="00:49:07.079" style="s2">possibility or impossibility of making</p>
+<p begin="00:49:04.079" end="00:49:09.240" style="s2">such a journey and does the city help  in</p>
+<p begin="00:49:07.079" end="00:49:11.940" style="s2">which there are far more irritants</p>
+<p begin="00:49:09.240" end="00:49:15.180" style="s2">than in the village and it would seem that she has you</p>
+<p begin="00:49:11.940" end="00:49:17.940" style="s2">over  to go motivate to reveal yourself or</p>
+<p begin="00:49:15.180" end="00:49:20.339" style="s2">vice versa it prevents you And maybe you</p>
+<p begin="00:49:17.940" end="00:49:22.920" style="s2">could do it somewhere else, for example at</p>
+<p begin="00:49:20.339" end="00:49:25.920" style="s2">home and this is a terribly valuable city</p>
+<p begin="00:49:22.920" end="00:49:28.740" style="s2">because it is not intrusive it is not</p>
+<p begin="00:49:25.920" end="00:49:31.319" style="s2">intrusive ideologically it does not solve</p>
+<p begin="00:49:28.740" end="00:49:34.260" style="s2">these great eternal problems of Ukrainian</p>
+<p begin="00:49:31.319" end="00:49:38.059" style="s2">literature it does not  is going to perform</p>
+<p begin="00:49:34.260" end="00:49:41.280" style="s2">some super function. That is, it&#39;s just a</p>
+<p begin="00:49:38.059" end="00:49:43.010" style="s2">cool novel and this is probably its</p>
+<p begin="00:49:41.280" end="00:49:44.339" style="s2">special novelty</p>
+<p begin="00:49:43.010" end="00:49:46.440" style="s2">[music]</p>
+<p begin="00:49:44.339" end="00:49:48.900" style="s2">friends. Today we talked about Valeryan&#39;s novel The</p>
+<p begin="00:49:46.440" end="00:49:51.119" style="s2">Cemetery City, but</p>
+<p begin="00:49:48.900" end="00:49:53.640" style="s2">at the end I want to set up such a bulletin</p>
+<p begin="00:49:51.119" end="00:49:57.240" style="s2">board and remind about certain</p>
+<p begin="00:49:53.640" end="00:49:59.760" style="s2">things, first of all, Bohdana and I will leave  several</p>
+<p begin="00:49:57.240" end="00:50:01.920" style="s2">materials in the description for this episode,</p>
+<p begin="00:49:59.760" end="00:50:05.040" style="s2">in particular, the lecture by Olena Galeta, which</p>
+<p begin="00:50:01.920" end="00:50:08.460" style="s2">Bohdana mentioned, the lecture by Yaryna</p>
+<p begin="00:50:05.040" end="00:50:11.760" style="s2">Tsymbal, which I want to mention, as well as the release</p>
+<p begin="00:50:08.460" end="00:50:13.559" style="s2">of a podcast called the morning</p>
+<p begin="00:50:11.760" end="00:50:15.780" style="s2">dose, which was once published by the collaboration of</p>
+<p begin="00:50:13.559" end="00:50:19.079" style="s2">Ukrainian Pravda and the Ukrainian</p>
+<p begin="00:50:15.780" end="00:50:21.900" style="s2">Institute of Books, where there is a fragment of the beginning of the</p>
+<p begin="00:50:19.079" end="00:50:25.140" style="s2">novel, the city if you  it has not yet been</p>
+<p begin="00:50:21.900" end="00:50:28.440" style="s2">reread or read suddenly never</p>
+<p begin="00:50:25.140" end="00:50:31.559" style="s2">You can obey  here is this fragment, these 35</p>
+<p begin="00:50:28.440" end="00:50:33.300" style="s2">minutes of introduction, in order to immerse yourself in</p>
+<p begin="00:50:31.559" end="00:50:35.700" style="s2">this text and further discover it for yourself</p>
+<p begin="00:50:33.300" end="00:50:38.099" style="s2">, it can also be very good</p>
+<p begin="00:50:35.700" end="00:50:40.380" style="s2">and an adventure for you. So</p>
+<p begin="00:50:38.099" end="00:50:43.260" style="s2">we will leave all these links in the description of our episode,</p>
+<p begin="00:50:40.380" end="00:50:45.180" style="s2">it is on the apple prompt, Google podcast in</p>
+<p begin="00:50:43.260" end="00:50:48.119" style="s2">YouTube Well, she can also listen to</p>
+<p begin="00:50:45.180" end="00:50:50.700" style="s2">us on Spotify, rate us,</p>
+<p begin="00:50:48.119" end="00:50:52.559" style="s2">please leave comments on almost</p>
+<p begin="00:50:50.700" end="00:50:54.960" style="s2">all comments on YouTube. I even try to</p>
+<p begin="00:50:52.559" end="00:50:57.660" style="s2">answer so that you feel</p>
+<p begin="00:50:54.960" end="00:51:00.720" style="s2">this contact. If you want to ask something,</p>
+<p begin="00:50:57.660" end="00:51:02.460" style="s2">don&#39;t be afraid to write to us in</p>
+<p begin="00:51:00.720" end="00:51:05.099" style="s2">private messages, because we are very happy to</p>
+<p begin="00:51:02.460" end="00:51:07.020" style="s2">go.  on contact and we are very interested to</p>
+<p begin="00:51:05.099" end="00:51:09.500" style="s2">discuss with you, communicate,</p>
+<p begin="00:51:07.020" end="00:51:12.839" style="s2">agree or, on the contrary, find</p>
+<p begin="00:51:09.500" end="00:51:15.599" style="s2">counterarguments, which can also be</p>
+<p begin="00:51:12.839" end="00:51:17.520" style="s2">friends if you are abroad. And we know that</p>
+<p begin="00:51:15.599" end="00:51:20.880" style="s2">we are listened to a lot outside of Ukraine,</p>
+<p begin="00:51:17.520" end="00:51:24.420" style="s2">please share.</p>
+<p begin="00:51:20.880" end="00:51:27.000" style="s2"></p>
+<p begin="00:51:24.420" end="00:51:29.220" style="s2">in what other countries do these imaginary</p>
+<p begin="00:51:27.000" end="00:51:31.260" style="s2">audio living rooms appear in which you and I</p>
+<p begin="00:51:29.220" end="00:51:33.920" style="s2">meet, we find it extremely interesting</p>
+<p begin="00:51:31.260" end="00:51:37.020" style="s2">Yes I do I want to add</p>
+<p begin="00:51:33.920" end="00:51:39.599" style="s2">What is very important to me is that</p>
+<p begin="00:51:37.020" end="00:51:41.579" style="s2">literature always works in</p>
+<p begin="00:51:39.599" end="00:51:44.940" style="s2">relationships, and we started with these</p>
+<p begin="00:51:41.579" end="00:51:46.940" style="s2">relationships using the example of the grave. It is</p>
+<p begin="00:51:44.940" end="00:51:49.220" style="s2">very cool to</p>
+<p begin="00:51:46.940" end="00:51:51.480" style="s2">test them and</p>
+<p begin="00:51:49.220" end="00:51:53.819" style="s2">try to understand how they work. The</p>
+<p begin="00:51:51.480" end="00:51:57.599" style="s2">novel, the city, despite the fact that it is just a</p>
+<p begin="00:51:53.819" end="00:51:59.579" style="s2">good and very fast text, you must</p>
+<p begin="00:51:57.599" end="00:52:01.859" style="s2">read With the thought that the</p>
+<p begin="00:51:59.579" end="00:52:04.380" style="s2">plot was not the most important thing for Pidmohylyny,</p>
+<p begin="00:52:01.859" end="00:52:08.640" style="s2">he constantly declares it and that is probably</p>
+<p begin="00:52:04.380" end="00:52:11.040" style="s2">why he has very clean and interesting</p>
+<p begin="00:52:08.640" end="00:52:13.800" style="s2">plots that you want to follow and this is a good</p>
+<p begin="00:52:11.040" end="00:52:15.720" style="s2">opportunity to think about the Ukrainian</p>
+<p begin="00:52:13.800" end="00:52:18.059" style="s2">literary canon and how</p>
+<p begin="00:52:15.720" end="00:52:21.140" style="s2">generations interact and that  how do</p>
+<p begin="00:52:18.059" end="00:52:23.700" style="s2">literatures interact with each other,</p>
+<p begin="00:52:21.140" end="00:52:26.339" style="s2">friendship, we were very happy</p>
+<p begin="00:52:23.700" end="00:52:28.200" style="s2">to hear from you, but also We really want to hear from you</p>
+<p begin="00:52:26.339" end="00:52:30.119" style="s2">in Ivano-Frankivsk, but someone who will</p>
+<p begin="00:52:28.200" end="00:52:32.339" style="s2">listen to this podcast later will not</p>
+<p begin="00:52:30.119" end="00:52:36.720" style="s2">understand what I am talking about And we</p>
+<p begin="00:52:32.339" end="00:52:39.119" style="s2">will have an edition in Ivano-Frankivsk already this week on Thursday</p>
+<p begin="00:52:36.720" end="00:52:40.339" style="s2">which we record live and it will be</p>
+<p begin="00:52:39.119" end="00:52:44.640" style="s2">dedicated to</p>
+<p begin="00:52:40.339" end="00:52:45.900" style="s2">one big conversation about one language, you and</p>
+<p begin="00:52:44.640" end="00:52:49.319" style="s2">I know very well that the language is</p>
+<p begin="00:52:45.900" end="00:52:51.680" style="s2">Ukrainian, there is something to talk about  you I really</p>
+<p begin="00:52:49.319" end="00:52:53.640" style="s2">want to meet and see our</p>
+<p begin="00:52:51.680" end="00:52:55.859" style="s2">Ivano-Frankivsk audience if you</p>
+<p begin="00:52:53.640" end="00:52:58.859" style="s2">suddenly join us there on the</p>
+<p begin="00:52:55.859" end="00:53:01.140" style="s2">industrial device And in the description there will be a link to all</p>
+<p begin="00:52:58.859" end="00:53:04.700" style="s2">all the details to the new meetings everything by</p>
+<p begin="00:53:01.140" end="00:53:04.700" style="s2">all bye See you soon</p>
+<p begin="00:53:08.160" end="00:53:17.039" style="s2">[music]</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.110" end="00:00:18.900" style="s2">[music]</p>
+<p begin="00:00:16.100" end="00:00:21.180" style="s2">society, we welcome everyone to the live</p>
+<p begin="00:00:18.900" end="00:00:23.699" style="s2">recording of the currently untitled podcast in</p>
+<p begin="00:00:21.180" end="00:00:26.160" style="s2">Ivano-Frankivsk And it is simply a great</p>
+<p begin="00:00:23.699" end="00:00:29.060" style="s2">joy to talk with you about important</p>
+<p begin="00:00:26.160" end="00:00:31.679" style="s2">topics for us And to invite you to our</p>
+<p begin="00:00:29.060" end="00:00:34.100" style="s2">audio living room We are not the first time to</p>
+<p begin="00:00:31.679" end="00:00:37.380" style="s2">find ourselves on such an absolutely welcoming</p>
+<p begin="00:00:34.100" end="00:00:40.440" style="s2">carpet with you Nastya  and we</p>
+<p begin="00:00:37.380" end="00:00:43.200" style="s2">really feel very intimate and very</p>
+<p begin="00:00:40.440" end="00:00:45.680" style="s2">private so that Our conversation about</p>
+<p begin="00:00:43.200" end="00:00:49.379" style="s2">Ukrainian culture and culture in general</p>
+<p begin="00:00:45.680" end="00:00:51.360" style="s2">is as frank as possible, but at the same time</p>
+<p begin="00:00:49.379" end="00:00:53.879" style="s2">We always know that you, our</p>
+<p begin="00:00:51.360" end="00:00:55.980" style="s2">listeners, are with us, and therefore I hope that today</p>
+<p begin="00:00:53.879" end="00:00:58.320" style="s2">everything will be successful and today we can address</p>
+<p begin="00:00:55.980" end="00:01:01.320" style="s2">not fictional people but  to very</p>
+<p begin="00:00:58.320" end="00:01:02.879" style="s2">real material ones and actually then</p>
+<p begin="00:01:01.320" end="00:01:04.619" style="s2">ask about something if you have</p>
+<p begin="00:01:02.879" end="00:01:07.619" style="s2">questions You can of course ask them at the end</p>
+<p begin="00:01:04.619" end="00:01:09.720" style="s2">So our 19th episode on the topic</p>
+<p begin="00:01:07.619" end="00:01:12.659" style="s2">How do we speak can we have one conversation about</p>
+<p begin="00:01:09.720" end="00:01:15.860" style="s2">one language and this question how do we speak</p>
+<p begin="00:01:12.659" end="00:01:18.540" style="s2">We took it from the work of Boris</p>
+<p begin="00:01:15.860" end="00:01:22.259" style="s2">Antonenko Davydovich, which was published in</p>
+<p begin="00:01:18.540" end="00:01:26.280" style="s2">1970 and is a work about the Ukrainian language</p>
+<p begin="00:01:22.259" end="00:01:30.540" style="s2">and its purity. So this work is in the introduction</p>
+<p begin="00:01:26.280" end="00:01:33.960" style="s2">Antonenko Davidovych explains that there are many</p>
+<p begin="00:01:30.540" end="00:01:36.840" style="s2">different expressions about the language of various artists and</p>
+<p begin="00:01:33.960" end="00:01:39.000" style="s2">Karl Marquez, including, well, he had</p>
+<p begin="00:01:36.840" end="00:01:41.040" style="s2">to write, he had to write in the 70s, the publishing house was a</p>
+<p begin="00:01:39.000" end="00:01:44.159" style="s2">Soviet writer, but in the end he</p>
+<p begin="00:01:41.040" end="00:01:46.799" style="s2">writes about the fact that the struggle for purity and</p>
+<p begin="00:01:44.159" end="00:01:49.799" style="s2">high linguistic culture is the struggle for</p>
+<p begin="00:01:46.799" end="00:01:51.920" style="s2">culture.  Antonenko</p>
+<p begin="00:01:49.799" end="00:01:55.079" style="s2">Davydovych then lists that</p>
+<p begin="00:01:51.920" end="00:01:58.320" style="s2">scientists, linguists, writers, journalists,</p>
+<p begin="00:01:55.079" end="00:02:01.259" style="s2">teachers must work to ensure that</p>
+<p begin="00:01:58.320" end="00:02:03.479" style="s2">their language is clean, work</p>
+<p begin="00:02:01.259" end="00:02:06.180" style="s2">on speaking Ukrainian, writing in</p>
+<p begin="00:02:03.479" end="00:02:09.000" style="s2">Ukrainian, articulating it so that</p>
+<p begin="00:02:06.180" end="00:02:11.700" style="s2">millions of readers, listeners, viewers</p>
+<p begin="00:02:09.000" end="00:02:15.000" style="s2">eventually receive a quality product because</p>
+<p begin="00:02:11.700" end="00:02:19.080" style="s2">only in the hands of these media professionals and</p>
+<p begin="00:02:15.000" end="00:02:22.040" style="s2">teachers  female teachers that the</p>
+<p begin="00:02:19.080" end="00:02:22.040" style="s2">language should</p>
+<p begin="00:02:22.500" end="00:02:30.239" style="s2">be alive So that it sounds</p>
+<p begin="00:02:27.239" end="00:02:32.099" style="s2">and fills the space with the right</p>
+<p begin="00:02:30.239" end="00:02:34.260" style="s2">words and the right wording, here it is</p>
+<p begin="00:02:32.099" end="00:02:36.780" style="s2">not only about the correct pronunciation, although it is</p>
+<p begin="00:02:34.260" end="00:02:40.220" style="s2">primarily about it</p>
+<p begin="00:02:36.780" end="00:02:42.900" style="s2">in the public space</p>
+<p begin="00:02:40.220" end="00:02:45.780" style="s2">since independence, the Ukrainian language</p>
+<p begin="00:02:42.900" end="00:02:48.480" style="s2">began</p>
+<p begin="00:02:45.780" end="00:02:50.360" style="s2">to appear actively not so long ago at the</p>
+<p begin="00:02:48.480" end="00:02:53.580" style="s2">legislative level, it began  to</p>
+<p begin="00:02:50.360" end="00:02:56.580" style="s2">first regulate the law of 2006,</p>
+<p begin="00:02:53.580" end="00:02:56.580" style="s2">which</p>
+<p begin="00:02:57.379" end="00:03:03.599" style="s2">worked to ensure that</p>
+<p begin="00:03:01.319" end="00:03:06.060" style="s2">Ukrainian language dubbing appeared in all movie theaters</p>
+<p begin="00:03:03.599" end="00:03:09.360" style="s2">, and then the next step. This was the</p>
+<p begin="00:03:06.060" end="00:03:12.659" style="s2">year 2021, January 16, a law that we often</p>
+<p begin="00:03:09.360" end="00:03:15.480" style="s2">refer to when it comes to the Ukrainian</p>
+<p begin="00:03:12.659" end="00:03:18.659" style="s2">language in public space and once upon</p>
+<p begin="00:03:15.480" end="00:03:20.580" style="s2">a time  Last year, in the summer,</p>
+<p begin="00:03:18.659" end="00:03:24.300" style="s2">Bohdana and I went to a trendy</p>
+<p begin="00:03:20.580" end="00:03:27.840" style="s2">new establishment in Podil. We sat, drank</p>
+<p begin="00:03:24.300" end="00:03:29.819" style="s2">wine and ate something for a while. It was great, we had a great</p>
+<p begin="00:03:27.840" end="00:03:33.360" style="s2">conversation, but there was one problem. We were</p>
+<p begin="00:03:29.819" end="00:03:36.540" style="s2">served in Russian, and Bohdana and I</p>
+<p begin="00:03:33.360" end="00:03:39.060" style="s2">were very determined, so we got up and</p>
+<p begin="00:03:36.540" end="00:03:41.640" style="s2">approached the administrator.  who</p>
+<p begin="00:03:39.060" end="00:03:44.040" style="s2">asked the question why your institution does not</p>
+<p begin="00:03:41.640" end="00:03:46.260" style="s2">comply with the law on language,</p>
+<p begin="00:03:44.040" end="00:03:48.900" style="s2">some administrator tried so hard to</p>
+<p begin="00:03:46.260" end="00:03:50.940" style="s2">avoid the answer and there</p>
+<p begin="00:03:48.900" end="00:03:52.620" style="s2">will be millions of such stories who started to say Well, you</p>
+<p begin="00:03:50.940" end="00:03:55.739" style="s2">understand, we work with older</p>
+<p begin="00:03:52.620" end="00:03:57.420" style="s2">people, the average age of a waiter is 20 years, we</p>
+<p begin="00:03:55.739" end="00:03:59.879" style="s2">work with older people, it is so</p>
+<p begin="00:03:57.420" end="00:04:02.299" style="s2">difficult for them to transition and  some more</p>
+<p begin="00:03:59.879" end="00:04:05.939" style="s2">blah blah blah in the end We didn&#39;t hear</p>
+<p begin="00:04:02.299" end="00:04:09.120" style="s2">any position</p>
+<p begin="00:04:05.939" end="00:04:11.280" style="s2">but left  there can be a million such stories and I am</p>
+<p begin="00:04:09.120" end="00:04:13.860" style="s2">sure that there are a million of them because the law</p>
+<p begin="00:04:11.280" end="00:04:14.900" style="s2">on speech in public space is not</p>
+<p begin="00:04:13.860" end="00:04:17.160" style="s2">enforced</p>
+<p begin="00:04:14.900" end="00:04:19.259" style="s2">Bohdana here should be either some</p>
+<p begin="00:04:17.160" end="00:04:21.419" style="s2">example from your life or something else you have to</p>
+<p begin="00:04:19.259" end="00:04:23.639" style="s2">pick it up somehow I have a few</p>
+<p begin="00:04:21.419" end="00:04:25.020" style="s2">corrections because the listeners are prompt So for</p>
+<p begin="00:04:23.639" end="00:04:27.600" style="s2">now  without a name, they know that I have a</p>
+<p begin="00:04:25.020" end="00:04:30.060" style="s2">legal education and I still want to</p>
+<p begin="00:04:27.600" end="00:04:33.660" style="s2">say that we also have the Constitution of</p>
+<p begin="00:04:30.060" end="00:04:37.160" style="s2">Ukraine, this is a document from the year 1996, in which</p>
+<p begin="00:04:33.660" end="00:04:40.800" style="s2">the Ukrainian language is said quite</p>
+<p begin="00:04:37.160" end="00:04:43.560" style="s2">succinctly, article 10 speaks the state</p>
+<p begin="00:04:40.800" end="00:04:48.020" style="s2">language in Ukraine, there is a Ukrainian language, full</p>
+<p begin="00:04:43.560" end="00:04:51.000" style="s2">stop  about the provision of this language,</p>
+<p begin="00:04:48.020" end="00:04:53.699" style="s2">and the problem is that we really</p>
+<p begin="00:04:51.000" end="00:04:55.740" style="s2">did not have legislation for a very long time. We would</p>
+<p begin="00:04:53.699" end="00:04:58.020" style="s2">decide what this provision should look like</p>
+<p begin="00:04:55.740" end="00:05:00.900" style="s2">, and the law on the language was</p>
+<p begin="00:04:58.020" end="00:05:02.940" style="s2">adopted as far back as the 19th year, but</p>
+<p begin="00:05:00.900" end="00:05:05.880" style="s2">its individual provisions</p>
+<p begin="00:05:02.940" end="00:05:09.000" style="s2">gradually came into force, and</p>
+<p begin="00:05:05.880" end="00:05:11.639" style="s2">that is why we  for a very long time, for example, we have not seen a</p>
+<p begin="00:05:09.000" end="00:05:13.740" style="s2">Ukrainian gloss in Ukrainian</p>
+<p begin="00:05:11.639" end="00:05:15.300" style="s2">today it sounds paradoxical And in</p>
+<p begin="00:05:13.740" end="00:05:17.940" style="s2">some ways even funny Ukrainian gloss in</p>
+<p begin="00:05:15.300" end="00:05:21.419" style="s2">Russian  But</p>
+<p begin="00:05:17.940" end="00:05:23.280" style="s2">it was a very staged process and I</p>
+<p begin="00:05:21.419" end="00:05:25.979" style="s2">tried to see what the</p>
+<p begin="00:05:23.280" end="00:05:28.320" style="s2">history of this Article 10 of the Constitution of</p>
+<p begin="00:05:25.979" end="00:05:30.060" style="s2">Ukraine was in general, because it would seem that we have said everything: the</p>
+<p begin="00:05:28.320" end="00:05:33.300" style="s2">Constitution of Ukraine, the state language is</p>
+<p begin="00:05:30.060" end="00:05:35.340" style="s2">Ukrainian. It is one, but there were even</p>
+<p begin="00:05:33.300" end="00:05:38.759" style="s2">several decisions of the Constitutional Court</p>
+<p begin="00:05:35.340" end="00:05:41.539" style="s2">Regarding this  articles, and one of them was</p>
+<p begin="00:05:38.759" end="00:05:45.120" style="s2">precisely the complaints of people&#39;s deputies about the</p>
+<p begin="00:05:41.539" end="00:05:47.160" style="s2">non-use of the Ukrainian language by people who</p>
+<p begin="00:05:45.120" end="00:05:50.220" style="s2">perform state functions, that is,</p>
+<p begin="00:05:47.160" end="00:05:51.900" style="s2">most likely other deputies, or that I don&#39;t</p>
+<p begin="00:05:50.220" end="00:05:54.539" style="s2">want to talk for a very long time about all kinds of</p>
+<p begin="00:05:51.900" end="00:05:57.060" style="s2">legal nuances, but I am happy that</p>
+<p begin="00:05:54.539" end="00:06:01.560" style="s2">when we talk with you today and that  there is an</p>
+<p begin="00:05:57.060" end="00:06:03.840" style="s2">episode that will be released on August 23, on the Day of the State</p>
+<p begin="00:06:01.560" end="00:06:05.819" style="s2">Flag of Ukraine and on the eve of Ukrainian Independence Day.</p>
+<p begin="00:06:03.840" end="00:06:08.819" style="s2"></p>
+<p begin="00:06:05.819" end="00:06:12.120" style="s2">I think that for most of our listeners it</p>
+<p begin="00:06:08.819" end="00:06:13.800" style="s2">will sound simply absurd. That is, we</p>
+<p begin="00:06:12.120" end="00:06:14.780" style="s2">are talking about some archaisms when we</p>
+<p begin="00:06:13.800" end="00:06:17.419" style="s2">talk about the</p>
+<p begin="00:06:14.780" end="00:06:19.680" style="s2">efforts of the Russian language, about</p>
+<p begin="00:06:17.419" end="00:06:22.020" style="s2">service in the Russian language, about the</p>
+<p begin="00:06:19.680" end="00:06:24.900" style="s2">Russian language in literature about</p>
+<p begin="00:06:22.020" end="00:06:27.780" style="s2">the Russian language in the press, in the media, so</p>
+<p begin="00:06:24.900" end="00:06:30.900" style="s2">certain things are left  Yes, but I am convinced</p>
+<p begin="00:06:27.780" end="00:06:33.000" style="s2">that the further they go, the more atevistic,</p>
+<p begin="00:06:30.900" end="00:06:35.520" style="s2">outdated and not modern they</p>
+<p begin="00:06:33.000" end="00:06:38.280" style="s2">will look, but it is important to say that this</p>
+<p begin="00:06:35.520" end="00:06:40.259" style="s2">was not always the case and until recently it was completely</p>
+<p begin="00:06:38.280" end="00:06:42.539" style="s2">different, Bohdana, I am glad when your</p>
+<p begin="00:06:40.259" end="00:06:46.500" style="s2">legal education is useful to</p>
+<p begin="00:06:42.539" end="00:06:50.520" style="s2">you and me. How am I, Bohdana, but</p>
+<p begin="00:06:46.500" end="00:06:53.520" style="s2">still despite that  that the war is going on, and discussions are going</p>
+<p begin="00:06:50.520" end="00:06:58.319" style="s2">on for some reason, for some reason, discussions are going</p>
+<p begin="00:06:53.520" end="00:07:00.240" style="s2">on about this language Is she alone or is she</p>
+<p begin="00:06:58.319" end="00:07:04.380" style="s2">not alone, although you and I know the answer</p>
+<p begin="00:07:00.240" end="00:07:07.199" style="s2">and in particular This is a discussion about two</p>
+<p begin="00:07:04.380" end="00:07:10.259" style="s2">media personalities yes, yes, I am talking about Masha</p>
+<p begin="00:07:07.199" end="00:07:12.919" style="s2">Efrosinina and Olya Polyakov, this is</p>
+<p begin="00:07:10.259" end="00:07:16.380" style="s2">show business news</p>
+<p begin="00:07:12.919" end="00:07:17.880" style="s2">show business news, I have such an episode in</p>
+<p begin="00:07:16.380" end="00:07:19.560" style="s2">my life. When I was a teacher at an</p>
+<p begin="00:07:17.880" end="00:07:23.580" style="s2">all-Ukrainian school online during the</p>
+<p begin="00:07:19.560" end="00:07:25.560" style="s2">quarantine, and then I had different stars come to our lessons and I</p>
+<p begin="00:07:23.580" end="00:07:28.199" style="s2">taught Ukrainian literature lessons</p>
+<p begin="00:07:25.560" end="00:07:29.880" style="s2">so that they would sit</p>
+<p begin="00:07:28.199" end="00:07:31.740" style="s2">instead of children, and once there was even such a</p>
+<p begin="00:07:29.880" end="00:07:33.840" style="s2">show on Nova  channels,</p>
+<p begin="00:07:31.740" end="00:07:35.759" style="s2">episodes of a fifth grader are smarter, well, in a word, the essence of the</p>
+<p begin="00:07:33.840" end="00:07:37.919" style="s2">presence of the stars was for them</p>
+<p begin="00:07:35.759" end="00:07:39.960" style="s2">to prove that No, they are not smarter than</p>
+<p begin="00:07:37.919" end="00:07:43.380" style="s2">fifth graders  it was just a joke</p>
+<p begin="00:07:39.960" end="00:07:45.599" style="s2">, they didn&#39;t laugh at it, and then</p>
+<p begin="00:07:43.380" end="00:07:49.080" style="s2">Masha Yefrosinina and Olya Polyakova came to see me.</p>
+<p begin="00:07:45.599" end="00:07:51.900" style="s2">Masha Yefrosi, at Lesya Ukrainka&#39;s lesson on the forest song, was</p>
+<p begin="00:07:49.080" end="00:07:55.259" style="s2">very moved by</p>
+<p begin="00:07:51.900" end="00:07:57.660" style="s2">Mavka&#39;s fate and was very confused by everything she was talking about</p>
+<p begin="00:07:55.259" end="00:07:59.639" style="s2">, and then she saw what</p>
+<p begin="00:07:57.660" end="00:08:01.620" style="s2">I had  I had many other books with</p>
+<p begin="00:07:59.639" end="00:08:03.960" style="s2">me, we are not blunt studies of Ukrainian poetry from</p>
+<p begin="00:08:01.620" end="00:08:06.539" style="s2">the Baba Galamaga publishing house, some other</p>
+<p begin="00:08:03.960" end="00:08:07.979" style="s2">books that I used, from which I</p>
+<p begin="00:08:06.539" end="00:08:10.819" style="s2">read in class, she took photos of all these books,</p>
+<p begin="00:08:07.979" end="00:08:13.740" style="s2">she made stories, she</p>
+<p begin="00:08:10.819" end="00:08:15.479" style="s2">wanted to buy them and asked me to</p>
+<p begin="00:08:13.740" end="00:08:17.099" style="s2">drop her where they can be purchased and  so it&#39;s</p>
+<p begin="00:08:15.479" end="00:08:18.900" style="s2">similar and if there was such a lively,</p>
+<p begin="00:08:17.099" end="00:08:21.180" style="s2">cool dialogue, she was so interested in</p>
+<p begin="00:08:18.900" end="00:08:23.819" style="s2">what to interest Olya Polyakova, it was a</p>
+<p begin="00:08:21.180" end="00:08:26.840" style="s2">more difficult question because why did you choose I</p>
+<p begin="00:08:23.819" end="00:08:29.840" style="s2">chose what the</p>
+<p begin="00:08:26.840" end="00:08:32.240" style="s2">Sentimental Poetry of</p>
+<p begin="00:08:29.840" end="00:08:35.459" style="s2">Mykola Voronyi program offered to me Mykola Voronyi is just a</p>
+<p begin="00:08:32.240" end="00:08:39.839" style="s2">good poet for Olya Polyakova because he is a</p>
+<p begin="00:08:35.459" end="00:08:42.899" style="s2">simple rhythmic  lyrics, you can imagine that</p>
+<p begin="00:08:39.839" end="00:08:44.820" style="s2">you, when you dance or sing on stage,</p>
+<p begin="00:08:42.899" end="00:08:46.380" style="s2">you also have a certain rhythm. Well, in the</p>
+<p begin="00:08:44.820" end="00:08:49.019" style="s2">case of</p>
+<p begin="00:08:46.380" end="00:08:52.740" style="s2">M  it worked for Voronoi, too, or it did</p>
+<p begin="00:08:49.019" end="00:08:55.440" style="s2">n&#39;t work because Olya Polyakova was very</p>
+<p begin="00:08:52.740" end="00:08:57.899" style="s2">enthusiastic and our lesson lasted 12</p>
+<p begin="00:08:55.440" end="00:09:00.360" style="s2">minutes longer than it should have, of course, then it was</p>
+<p begin="00:08:57.899" end="00:09:02.820" style="s2">cut short, but she was impressed, she</p>
+<p begin="00:09:00.360" end="00:09:05.360" style="s2">wanted to read more of these texts, I believed</p>
+<p begin="00:09:02.820" end="00:09:09.300" style="s2">that maybe she would put, for example,</p>
+<p begin="00:09:05.360" end="00:09:12.080" style="s2">about the eyes of the night  to the music, but it didn&#39;t happen,</p>
+<p begin="00:09:09.300" end="00:09:15.360" style="s2">but it&#39;s still ahead.</p>
+<p begin="00:09:12.080" end="00:09:17.040" style="s2">Actually, then it seemed to me that</p>
+<p begin="00:09:15.360" end="00:09:19.560" style="s2">these two young ladies are answering in</p>
+<p begin="00:09:17.040" end="00:09:21.240" style="s2">Ukrainian, they&#39;re singing in Ukrainian,</p>
+<p begin="00:09:19.560" end="00:09:23.880" style="s2">they&#39;re preparing some product in Ukrainian,</p>
+<p begin="00:09:21.240" end="00:09:25.680" style="s2">but a video appears, raise your hand. Who</p>
+<p begin="00:09:23.880" end="00:09:29.040" style="s2">understands what kind of scandal we&#39;re talking about now?</p>
+<p begin="00:09:25.680" end="00:09:30.899" style="s2">for those who do not understand for this</p>
+<p begin="00:09:29.040" end="00:09:34.700" style="s2">minority, but we will explain because this is</p>
+<p begin="00:09:30.899" end="00:09:37.019" style="s2">show business news, we have such a function to explain</p>
+<p begin="00:09:34.700" end="00:09:39.600" style="s2">Masha Yefrosinina and Olya Polyakova have</p>
+<p begin="00:09:37.019" end="00:09:41.880" style="s2">their own YouTube show, which has half a million</p>
+<p begin="00:09:39.600" end="00:09:44.220" style="s2">subscribers, and in this YouTube show they</p>
+<p begin="00:09:41.880" end="00:09:46.080" style="s2">continue to host it in Russian, they</p>
+<p begin="00:09:44.220" end="00:09:48.660" style="s2">are being hated  in the comments, how does it</p>
+<p begin="00:09:46.080" end="00:09:51.360" style="s2">happen, and at some point they recorded a</p>
+<p begin="00:09:48.660" end="00:09:54.360" style="s2">video message about the fact that we will not</p>
+<p begin="00:09:51.360" end="00:09:56.940" style="s2">switch to Ukrainian, because we have</p>
+<p begin="00:09:54.360" end="00:09:59.100" style="s2">several arguments, firstly, we cannot</p>
+<p begin="00:09:56.940" end="00:10:02.339" style="s2">express our emotions in Ukrainian, this is</p>
+<p begin="00:09:59.100" end="00:10:05.459" style="s2">already absurd, and secondly, because this is</p>
+<p begin="00:10:02.339" end="00:10:07.560" style="s2">a conversation between two girlfriends in the kitchen.</p>
+<p begin="00:10:05.459" end="00:10:10.500" style="s2"></p>
+<p begin="00:10:07.560" end="00:10:12.839" style="s2"></p>
+<p begin="00:10:10.500" end="00:10:16.019" style="s2"></p>
+<p begin="00:10:12.839" end="00:10:19.140" style="s2">speak as we want in whatever language we want</p>
+<p begin="00:10:16.019" end="00:10:21.180" style="s2">and there is no need to try to limit us</p>
+<p begin="00:10:19.140" end="00:10:24.060" style="s2">but they forget that they are</p>
+<p begin="00:10:21.180" end="00:10:26.339" style="s2">media persons their channel of communication</p>
+<p begin="00:10:24.060" end="00:10:27.980" style="s2">Even if it is private YouTube and is not</p>
+<p begin="00:10:26.339" end="00:10:30.779" style="s2">closed to a limited circle of</p>
+<p begin="00:10:27.980" end="00:10:33.600" style="s2">users but open it is also a</p>
+<p begin="00:10:30.779" end="00:10:36.959" style="s2">public sphere and it also obliges</p>
+<p begin="00:10:33.600" end="00:10:38.700" style="s2">to implement the law on language, God bless you, do you</p>
+<p begin="00:10:36.959" end="00:10:40.800" style="s2">want to comment? I want to do it.</p>
+<p begin="00:10:38.700" end="00:10:42.480" style="s2">Finally, you commented, you</p>
+<p begin="00:10:40.800" end="00:10:44.279" style="s2">want to ask me a question for the second time. And I still don&#39;t</p>
+<p begin="00:10:42.480" end="00:10:47.519" style="s2">understand. What is your attitude, because you</p>
+<p begin="00:10:44.279" end="00:10:49.260" style="s2">very sympathetically described to us your</p>
+<p begin="00:10:47.519" end="00:10:51.060" style="s2">experience of working with Olya Polakovka</p>
+<p begin="00:10:49.260" end="00:10:55.620" style="s2">Mashina Efrosinina. Now I don&#39;t understand</p>
+<p begin="00:10:51.060" end="00:10:58.680" style="s2">do you sympathize with them Do you want to speak out</p>
+<p begin="00:10:55.620" end="00:11:02.240" style="s2">against I sympathize with us that we</p>
+<p begin="00:10:58.680" end="00:11:02.240" style="s2">observe such</p>
+<p begin="00:11:02.420" end="00:11:07.380" style="s2">inexperienced  unknown persons</p>
+<p begin="00:11:05.040" end="00:11:09.079" style="s2">spend so much time on our TV</p>
+<p begin="00:11:07.380" end="00:11:14.160" style="s2">screens and YouTube screens,</p>
+<p begin="00:11:09.079" end="00:11:16.140" style="s2">because in her video, Emma</p>
+<p begin="00:11:14.160" end="00:11:18.260" style="s2">Antonyuk on the channel Palaye M. Antonyuk communicated very well</p>
+<p begin="00:11:16.140" end="00:11:20.579" style="s2"></p>
+<p begin="00:11:18.260" end="00:11:24.899" style="s2">exactly this problem, the</p>
+<p begin="00:11:20.579" end="00:11:27.180" style="s2">problem of these two gentlemen about the fact that there are</p>
+<p begin="00:11:24.899" end="00:11:30.260" style="s2">linguistic needs of Ukrainian-speaking</p>
+<p begin="00:11:27.180" end="00:11:32.480" style="s2">Ukrainians, and therefore Russified Ukrainians</p>
+<p begin="00:11:30.260" end="00:11:34.640" style="s2">must</p>
+<p begin="00:11:32.480" end="00:11:36.779" style="s2">satisfy the needs of</p>
+<p begin="00:11:34.640" end="00:11:38.459" style="s2">Ukrainian-speakers  You see Ukrainians so</p>
+<p begin="00:11:36.779" end="00:11:41.640" style="s2">difficult, said Bohdana. You understood what</p>
+<p begin="00:11:38.459" end="00:11:43.820" style="s2">I said. Well, Masha Efrosinina should</p>
+<p begin="00:11:41.640" end="00:11:46.440" style="s2">speak Ukrainian. In short, in the</p>
+<p begin="00:11:43.820" end="00:11:49.200" style="s2">public space, my question</p>
+<p begin="00:11:46.440" end="00:11:52.279" style="s2">to you is how you feel about this situation.</p>
+<p begin="00:11:49.200" end="00:11:54.600" style="s2">And what do you think about the</p>
+<p begin="00:11:52.279" end="00:11:57.060" style="s2">Ukrainian-speaking Ukrainian space</p>
+<p begin="00:11:54.600" end="00:11:59.459" style="s2">around us?</p>
+<p begin="00:11:57.060" end="00:12:00.500" style="s2">I generally had two</p>
+<p begin="00:11:59.459" end="00:12:04.019" style="s2">reactions, the</p>
+<p begin="00:12:00.500" end="00:12:06.899" style="s2">first was so uncontrollable and emotional, and the</p>
+<p begin="00:12:04.019" end="00:12:10.139" style="s2">second was already when I steamed up this</p>
+<p begin="00:12:06.899" end="00:12:12.120" style="s2">situation a little, and actually this uncontrolled</p>
+<p begin="00:12:10.139" end="00:12:14.100" style="s2">reaction was that I thought,</p>
+<p begin="00:12:12.120" end="00:12:16.500" style="s2">God, why am I even hearing this, it is very</p>
+<p begin="00:12:14.100" end="00:12:19.980" style="s2">obscene Thank you, in general, it is possible today</p>
+<p begin="00:12:16.500" end="00:12:22.620" style="s2">in the context of the war in the context  all</p>
+<p begin="00:12:19.980" end="00:12:25.339" style="s2">that  about the experience that Ukrainian</p>
+<p begin="00:12:22.620" end="00:12:28.920" style="s2">society is going through and, in the end, these two women also</p>
+<p begin="00:12:25.339" end="00:12:31.700" style="s2">try to protect the Russian language and</p>
+<p begin="00:12:28.920" end="00:12:34.620" style="s2">look for arguments for this. It just</p>
+<p begin="00:12:31.700" end="00:12:36.540" style="s2">causes discomfort. And at this moment, when</p>
+<p begin="00:12:34.620" end="00:12:39.420" style="s2">you witness something like this, you</p>
+<p begin="00:12:36.540" end="00:12:41.399" style="s2">want to somehow leave the room, but then</p>
+<p begin="00:12:39.420" end="00:12:44.220" style="s2">I started thinking about  what</p>
+<p begin="00:12:41.399" end="00:12:47.639" style="s2">you said is that there are people who just</p>
+<p begin="00:12:44.220" end="00:12:51.120" style="s2">privately under anonymous avatars</p>
+<p begin="00:12:47.639" end="00:12:53.220" style="s2">express their not always useful thoughts</p>
+<p begin="00:12:51.120" end="00:12:56.579" style="s2">in their twitters or their tiny</p>
+<p begin="00:12:53.220" end="00:12:59.760" style="s2">instagrams. And there is a completely different situation in another</p>
+<p begin="00:12:56.579" end="00:13:02.660" style="s2">situation when such speech is conducted by</p>
+<p begin="00:12:59.760" end="00:13:05.339" style="s2">people who shape trends because</p>
+<p begin="00:13:02.660" end="00:13:07.459" style="s2">certain trends may not be formed</p>
+<p begin="00:13:05.339" end="00:13:10.320" style="s2">for you and me, for example, the</p>
+<p begin="00:13:07.459" end="00:13:12.839" style="s2">stars of Ukrainian show business, but</p>
+<p begin="00:13:10.320" end="00:13:16.500" style="s2">they are definitely forming for</p>
+<p begin="00:13:12.839" end="00:13:18.420" style="s2">many viewers and listeners in the</p>
+<p begin="00:13:16.500" end="00:13:21.420" style="s2">same Masha Efrosina, this is a very young</p>
+<p begin="00:13:18.420" end="00:13:24.420" style="s2">audience and a part of this audience is</p>
+<p begin="00:13:21.420" end="00:13:26.940" style="s2">exactly those people, career building is ahead of them,</p>
+<p begin="00:13:24.420" end="00:13:29.279" style="s2">not behind, that is, in  Masha</p>
+<p begin="00:13:26.940" end="00:13:31.500" style="s2">Yefrosinina has a very specific career on</p>
+<p begin="00:13:29.279" end="00:13:34.260" style="s2">television, which created her face,</p>
+<p begin="00:13:31.500" end="00:13:37.200" style="s2">brand and image.  I have a career in</p>
+<p begin="00:13:34.260" end="00:13:40.699" style="s2">cool projects, and people look at her</p>
+<p begin="00:13:37.200" end="00:13:44.940" style="s2">as a model of behavior, as a</p>
+<p begin="00:13:40.699" end="00:13:46.680" style="s2">model from which they can take an example, and they</p>
+<p begin="00:13:44.940" end="00:13:48.959" style="s2">will think whether I need to</p>
+<p begin="00:13:46.680" end="00:13:50.880" style="s2">practice Ukrainian in order to</p>
+<p begin="00:13:48.959" end="00:13:54.600" style="s2">be successful. Can I, for example,</p>
+<p begin="00:13:50.880" end="00:13:57.000" style="s2">maneuver or choose Russian?</p>
+<p begin="00:13:54.600" end="00:13:58.440" style="s2">who spoke and I was told</p>
+<p begin="00:13:57.000" end="00:14:02.100" style="s2">this to you once. In this</p>
+<p begin="00:13:58.440" end="00:14:06.300" style="s2">Russian podcast, you can reach a larger</p>
+<p begin="00:14:02.100" end="00:14:08.100" style="s2">audience, and this problem is a problem for me</p>
+<p begin="00:14:06.300" end="00:14:10.380" style="s2">in general, because it articulates poorly.</p>
+<p begin="00:14:08.100" end="00:14:12.180" style="s2">This is what I want</p>
+<p begin="00:14:10.380" end="00:14:14.720" style="s2">to tell a different story, it will probably also be</p>
+<p begin="00:14:12.180" end="00:14:17.940" style="s2">show business news, sorry, we will move on to</p>
+<p begin="00:14:14.720" end="00:14:20.220" style="s2">others  For example, I was touched by a video</p>
+<p begin="00:14:17.940" end="00:14:23.880" style="s2">that appeared in the New York Times about</p>
+<p begin="00:14:20.220" end="00:14:27.180" style="s2">a month and a half ago, and we will add a link to</p>
+<p begin="00:14:23.880" end="00:14:30.120" style="s2">it in the description of this episode. It was a</p>
+<p begin="00:14:27.180" end="00:14:33.660" style="s2">conversation between a New York Times correspondent and</p>
+<p begin="00:14:30.120" end="00:14:36.839" style="s2">Ivan Dorn.</p>
+<p begin="00:14:33.660" end="00:14:39.899" style="s2"></p>
+<p begin="00:14:36.839" end="00:14:41.639" style="s2">how Ivan Dorn feels now,</p>
+<p begin="00:14:39.899" end="00:14:43.800" style="s2">who has to reinvent his</p>
+<p begin="00:14:41.639" end="00:14:45.660" style="s2">identity. He has many problems with</p>
+<p begin="00:14:43.800" end="00:14:48.120" style="s2">himself. He has many problems with himself  his</p>
+<p begin="00:14:45.660" end="00:14:51.120" style="s2">behavior to his career to his language</p>
+<p begin="00:14:48.120" end="00:14:53.339" style="s2">and we can all understand Ivan Dorn and</p>
+<p begin="00:14:51.120" end="00:14:54.839" style="s2">in principle we can easily list from a</p>
+<p begin="00:14:53.339" end="00:14:58.320" style="s2">line where these questions</p>
+<p begin="00:14:54.839" end="00:15:00.540" style="s2">come from. He grew up in the photographs of Sasha Maslova</p>
+<p begin="00:14:58.320" end="00:15:03.060" style="s2">wonderful portraits Ivan Dorn is somewhat</p>
+<p begin="00:15:00.540" end="00:15:06.839" style="s2">depressed with a hunchback and we see that</p>
+<p begin="00:15:03.060" end="00:15:08.459" style="s2">he really  thinks very hard about</p>
+<p begin="00:15:06.839" end="00:15:11.399" style="s2">his future. Perhaps he is even</p>
+<p begin="00:15:08.459" end="00:15:14.100" style="s2">suffering in parallel. A New</p>
+<p begin="00:15:11.399" end="00:15:16.079" style="s2">York Times correspondent writes to us about the only</p>
+<p begin="00:15:14.100" end="00:15:18.779" style="s2">Russian-speaking music market that</p>
+<p begin="00:15:16.079" end="00:15:21.360" style="s2">existed, where everyone loved each other very much, listened well,</p>
+<p begin="00:15:18.779" end="00:15:24.240" style="s2">visited each other at the</p>
+<p begin="00:15:21.360" end="00:15:26.459" style="s2">same festival, performed, but then,</p>
+<p begin="00:15:24.240" end="00:15:29.519" style="s2">as we understand, the war came and  everything</p>
+<p begin="00:15:26.459" end="00:15:32.040" style="s2">changes, and there is someone like Ivan Dorn or, as it</p>
+<p begin="00:15:29.519" end="00:15:35.519" style="s2">is written, the correspondent of Svitlana Lobod,</p>
+<p begin="00:15:32.040" end="00:15:36.860" style="s2">and now they have to look for new</p>
+<p begin="00:15:35.519" end="00:15:39.720" style="s2">positions.</p>
+<p begin="00:15:36.860" end="00:15:42.899" style="s2">I was incredibly annoyed by this article</p>
+<p begin="00:15:39.720" end="00:15:45.420" style="s2">because, in my opinion, it</p>
+<p begin="00:15:42.899" end="00:15:48.839" style="s2">describes an absolutely marginal case in the Ukrainian context,</p>
+<p begin="00:15:45.420" end="00:15:50.940" style="s2">because we all know that on</p>
+<p begin="00:15:48.839" end="00:15:52.860" style="s2">Andrii Khlyvnyuk is now at the front, who</p>
+<p begin="00:15:50.940" end="00:15:54.420" style="s2">defends Ukraine and the right of</p>
+<p begin="00:15:52.860" end="00:15:56.540" style="s2">Ukrainians with weapons  zikants to write in</p>
+<p begin="00:15:54.420" end="00:15:58.980" style="s2">Ukrainian and make Ukrainian music.</p>
+<p begin="00:15:56.540" end="00:16:01.440" style="s2">We know what Svyatoslav</p>
+<p begin="00:15:58.980" end="00:16:03.240" style="s2">Vakarchuk Taras Topolya does. We</p>
+<p begin="00:16:01.440" end="00:16:06.240" style="s2">know a lot of musicians, somewhat</p>
+<p begin="00:16:03.240" end="00:16:07.980" style="s2">less well-known bands who are also in the</p>
+<p begin="00:16:06.240" end="00:16:11.240" style="s2">Teroboron or in the Armed Forces of Ukraine</p>
+<p begin="00:16:07.980" end="00:16:13.500" style="s2">and they have no problems with Ukrainian</p>
+<p begin="00:16:11.240" end="00:16:17.399" style="s2">identity, moreover, they are very</p>
+<p begin="00:16:13.500" end="00:16:19.320" style="s2">cool with it  articulate how interesting</p>
+<p begin="00:16:17.399" end="00:16:21.540" style="s2">Andrii Khlyvnyuk&#39;s problematic poetry is now, which</p>
+<p begin="00:16:19.320" end="00:16:23.579" style="s2">he sometimes shares in his stories. But the</p>
+<p begin="00:16:21.540" end="00:16:25.800" style="s2">correspondent of the York Times, who worked</p>
+<p begin="00:16:23.579" end="00:16:27.720" style="s2">in the Moscow Bureau, does not consider it appropriate to</p>
+<p begin="00:16:25.800" end="00:16:29.759" style="s2">talk to Andrii Khlyvnyuk, and</p>
+<p begin="00:16:27.720" end="00:16:32.220" style="s2">he also does not want to talk to Vakarchuk, who</p>
+<p begin="00:16:29.759" end="00:16:34.019" style="s2">at first greatly helped volunteers and the</p>
+<p begin="00:16:32.220" end="00:16:36.180" style="s2">armed forces  today he performs at an</p>
+<p begin="00:16:34.019" end="00:16:38.820" style="s2">event, performs a concert and collects money again.</p>
+<p begin="00:16:36.180" end="00:16:41.399" style="s2">No, he decides that it is more interesting for him to</p>
+<p begin="00:16:38.820" end="00:16:44.399" style="s2">talk about this little thing that arises in the</p>
+<p begin="00:16:41.399" end="00:16:46.259" style="s2">mind of Ivan Dorn, and this is a big problem for me.</p>
+<p begin="00:16:44.399" end="00:16:48.360" style="s2">When we talk about the</p>
+<p begin="00:16:46.259" end="00:16:50.880" style="s2">perception of the Ukrainian language and</p>
+<p begin="00:16:48.360" end="00:16:53.519" style="s2">Ukrainian culture on the outside, because it is</p>
+<p begin="00:16:50.880" end="00:16:56.279" style="s2">absolutely not representative  but the story is</p>
+<p begin="00:16:53.519" end="00:16:58.320" style="s2">different Mr  rava What exactly this New</p>
+<p begin="00:16:56.279" end="00:17:01.440" style="s2">York Times article shows is how stories are</p>
+<p begin="00:16:58.320" end="00:17:03.540" style="s2">magnetizing, and this story with Masha</p>
+<p begin="00:17:01.440" end="00:17:05.939" style="s2">Yefrosinina and Olga Polakova is</p>
+<p begin="00:17:03.540" end="00:17:07.620" style="s2">quite similar to what I</p>
+<p begin="00:17:05.939" end="00:17:08.880" style="s2">talked about in the context of the New York Times,</p>
+<p begin="00:17:07.620" end="00:17:11.339" style="s2"></p>
+<p begin="00:17:08.880" end="00:17:13.439" style="s2">because fortunately you and I do not understand</p>
+<p begin="00:17:11.339" end="00:17:15.539" style="s2">one or the other  This is not our problem, we</p>
+<p begin="00:17:13.439" end="00:17:17.160" style="s2">know how to work in Ukrainian. We did not</p>
+<p begin="00:17:15.539" end="00:17:19.439" style="s2">work in Russian and we do not now</p>
+<p begin="00:17:17.160" end="00:17:22.500" style="s2">revise our identity in the</p>
+<p begin="00:17:19.439" end="00:17:25.439" style="s2">way they do, but it is</p>
+<p begin="00:17:22.500" end="00:17:28.439" style="s2">incredibly attractive to many and not</p>
+<p begin="00:17:25.439" end="00:17:32.340" style="s2">only those who hesitate.</p>
+<p begin="00:17:28.439" end="00:17:35.460" style="s2"></p>
+<p begin="00:17:32.340" end="00:17:38.039" style="s2"></p>
+<p begin="00:17:35.460" end="00:17:41.039" style="s2">recognition of the impossibility of transition, because</p>
+<p begin="00:17:38.039" end="00:17:43.320" style="s2">there are indeed people who used</p>
+<p begin="00:17:41.039" end="00:17:46.760" style="s2">Russian as their permanent tool and for</p>
+<p begin="00:17:43.320" end="00:17:50.880" style="s2">decades we wrote articles in it,</p>
+<p begin="00:17:46.760" end="00:17:53.340" style="s2">worked on television, sang how</p>
+<p begin="00:17:50.880" end="00:17:55.919" style="s2">to deal with them, I think that this is a much more difficult</p>
+<p begin="00:17:53.340" end="00:17:58.080" style="s2">question, which you have to learn to</p>
+<p begin="00:17:55.919" end="00:18:00.559" style="s2">answer, how do you answer it, I</p>
+<p begin="00:17:58.080" end="00:18:04.740" style="s2">answer that  there are</p>
+<p begin="00:18:00.559" end="00:18:08.820" style="s2">Russified Ukrainians who are Russified</p>
+<p begin="00:18:04.740" end="00:18:12.480" style="s2">due to many different circumstances</p>
+<p begin="00:18:08.820" end="00:18:15.120" style="s2">and someone is to blame  Oh, he has a</p>
+<p begin="00:18:12.480" end="00:18:17.460" style="s2">Russian grandfather, and I have a Russian grandfather, for example, and</p>
+<p begin="00:18:15.120" end="00:18:19.500" style="s2">I have a Russian surname. Well, when it</p>
+<p begin="00:18:17.460" end="00:18:21.179" style="s2">is written through the letter And it is</p>
+<p begin="00:18:19.500" end="00:18:22.980" style="s2">fortunately. Thank you to the passport officers, it is written</p>
+<p begin="00:18:21.179" end="00:18:27.320" style="s2">through the letter and I feel very</p>
+<p begin="00:18:22.980" end="00:18:30.960" style="s2">Ukrainian.</p>
+<p begin="00:18:27.320" end="00:18:34.020" style="s2">guilty that</p>
+<p begin="00:18:30.960" end="00:18:38.280" style="s2">their grandfather spoke Russian, their</p>
+<p begin="00:18:34.020" end="00:18:41.400" style="s2">grandmother, mother, father, no, it&#39;s not just the</p>
+<p begin="00:18:38.280" end="00:18:43.980" style="s2">circumstances, they turned out that way, but</p>
+<p begin="00:18:41.400" end="00:18:47.179" style="s2">time passed and these circumstances changed, they</p>
+<p begin="00:18:43.980" end="00:18:51.600" style="s2">changed in 1991, I want to remind you that</p>
+<p begin="00:18:47.179" end="00:18:55.620" style="s2">enough time has passed in 30 years, you can</p>
+<p begin="00:18:51.600" end="00:18:58.440" style="s2">already accept that the Ukrainian</p>
+<p begin="00:18:55.620" end="00:18:59.600" style="s2">language is the state language  more in</p>
+<p begin="00:18:58.440" end="00:19:02.580" style="s2">ukrainization</p>
+<p begin="00:18:59.600" end="00:19:06.000" style="s2">happened so gently in Ukraine and</p>
+<p begin="00:19:02.580" end="00:19:09.179" style="s2">continues to happen and is it easy to</p>
+<p begin="00:19:06.000" end="00:19:11.400" style="s2">pump up six cubes of the press</p>
+<p begin="00:19:09.179" end="00:19:13.380" style="s2">someone pumped up from the present 6 cubes of the</p>
+<p begin="00:19:11.400" end="00:19:15.840" style="s2">press from zero</p>
+<p begin="00:19:13.380" end="00:19:17.460" style="s2">to the word it is not easy</p>
+<p begin="00:19:15.840" end="00:19:20.039" style="s2">if you tried That is, you need</p>
+<p begin="00:19:17.460" end="00:19:23.280" style="s2">to exercise regularly monitor</p>
+<p begin="00:19:20.039" end="00:19:26.160" style="s2">nutrition go to bed follow the</p>
+<p begin="00:19:23.280" end="00:19:27.960" style="s2">regime and that  need to be done for a</p>
+<p begin="00:19:26.160" end="00:19:31.860" style="s2">long time to make those abs</p>
+<p begin="00:19:27.960" end="00:19:33.720" style="s2">appear or simply  quit smoking Well, for</p>
+<p begin="00:19:31.860" end="00:19:36.059" style="s2">sure, avid smokers will tell you that it is not</p>
+<p begin="00:19:33.720" end="00:19:38.039" style="s2">easy and you also need to make an effort or</p>
+<p begin="00:19:36.059" end="00:19:41.520" style="s2">just learn English, what do you do?</p>
+<p begin="00:19:38.039" end="00:19:44.160" style="s2">Pass the test, that is Full and Mother level B2</p>
+<p begin="00:19:41.520" end="00:19:47.160" style="s2">or is it one and was to communicate on a level</p>
+<p begin="00:19:44.160" end="00:19:50.820" style="s2">with a native speaker No, it is not easy, it also</p>
+<p begin="00:19:47.160" end="00:19:53.340" style="s2">requires practice  exercises and if you</p>
+<p begin="00:19:50.820" end="00:19:55.020" style="s2">asked us that And what is the best way to learn how to</p>
+<p begin="00:19:53.340" end="00:19:57.120" style="s2">better learn how to approach learning</p>
+<p begin="00:19:55.020" end="00:19:58.799" style="s2">English I said Well you</p>
+<p begin="00:19:57.120" end="00:20:00.840" style="s2">watch the series Friends for example</p>
+<p begin="00:19:58.799" end="00:20:02.640" style="s2">in English You read</p>
+<p begin="00:20:00.840" end="00:20:05.100" style="s2">English books you listen to podcasts</p>
+<p begin="00:20:02.640" end="00:20:07.320" style="s2">in English and you would say Yes we</p>
+<p begin="00:20:05.100" end="00:20:09.419" style="s2">do it and it is difficult You guys  you are</p>
+<p begin="00:20:07.320" end="00:20:10.860" style="s2">on the way to improving your</p>
+<p begin="00:20:09.419" end="00:20:14.340" style="s2">level of English,</p>
+<p begin="00:20:10.860" end="00:20:18.780" style="s2">all the same, but we apply it to the Ukrainian</p>
+<p begin="00:20:14.340" end="00:20:21.960" style="s2">language, too, Ukrainian becomes your</p>
+<p begin="00:20:18.780" end="00:20:24.240" style="s2">everyday language, the language of your smartphone, the language of</p>
+<p begin="00:20:21.960" end="00:20:26.100" style="s2">the TV series and movies you watch, you</p>
+<p begin="00:20:24.240" end="00:20:29.000" style="s2">gradually discover for yourself, so here I</p>
+<p begin="00:20:26.100" end="00:20:31.919" style="s2">am leading to a thesis about  that</p>
+<p begin="00:20:29.000" end="00:20:34.799" style="s2">Russified Ukrainians are not to blame for the fact that</p>
+<p begin="00:20:31.919" end="00:20:38.299" style="s2">they are like that, but they could and should</p>
+<p begin="00:20:34.799" end="00:20:43.039" style="s2">make efforts to change  to go on and on</p>
+<p begin="00:20:38.299" end="00:20:45.780" style="s2">like this, according to the language principle, the division will still</p>
+<p begin="00:20:43.039" end="00:20:49.020" style="s2">take place and it will continue because the language of the</p>
+<p begin="00:20:45.780" end="00:20:52.500" style="s2">Ukrainian state is the Ukrainian</p>
+<p begin="00:20:49.020" end="00:20:54.539" style="s2"></p>
+<p begin="00:20:52.500" end="00:20:58.200" style="s2"></p>
+<p begin="00:20:54.539" end="00:21:00.179" style="s2"></p>
+<p begin="00:20:58.200" end="00:21:03.080" style="s2"></p>
+<p begin="00:21:00.179" end="00:21:06.320" style="s2">language.  institutions</p>
+<p begin="00:21:03.080" end="00:21:09.500" style="s2">within the company when you are at work</p>
+<p begin="00:21:06.320" end="00:21:12.299" style="s2">on YouTube Instagram in Russian as</p>
+<p begin="00:21:09.500" end="00:21:16.140" style="s2">soon as it disappears, the</p>
+<p begin="00:21:12.299" end="00:21:19.260" style="s2">possibility to share will disappear I would really</p>
+<p begin="00:21:16.140" end="00:21:22.260" style="s2">like to return to this metaphor</p>
+<p begin="00:21:19.260" end="00:21:25.380" style="s2">that you spoke about, metaphors of the gym and</p>
+<p begin="00:21:22.260" end="00:21:28.020" style="s2">actually metaphors of habit, a lot of</p>
+<p begin="00:21:25.380" end="00:21:30.720" style="s2">people today really choose the</p>
+<p begin="00:21:28.020" end="00:21:33.720" style="s2">Ukrainian language for various reasons and are far from</p>
+<p begin="00:21:30.720" end="00:21:36.900" style="s2">it&#39;s always career because in many</p>
+<p begin="00:21:33.720" end="00:21:39.539" style="s2">areas you don&#39;t need to</p>
+<p begin="00:21:36.900" end="00:21:43.440" style="s2">know Ukrainian so perfectly and meticulously to do</p>
+<p begin="00:21:39.539" end="00:21:46.260" style="s2">your job. But for them it can be a</p>
+<p begin="00:21:43.440" end="00:21:49.020" style="s2">private choice related to the fact that</p>
+<p begin="00:21:46.260" end="00:21:51.780" style="s2">Russia attacked Ukraine and the Russian language</p>
+<p begin="00:21:49.020" end="00:21:55.940" style="s2">is the language of death  the language of genocide and the language of</p>
+<p begin="00:21:51.780" end="00:21:59.520" style="s2">murderers. But it seems to me that very often</p>
+<p begin="00:21:55.940" end="00:22:01.440" style="s2">we talk about all kinds of crimes  goes from language</p>
+<p begin="00:21:59.520" end="00:22:04.860" style="s2">to language as if about something like that, it&#39;s as if he</p>
+<p begin="00:22:01.440" end="00:22:08.159" style="s2">clicked with his fingers, so he clicked. And</p>
+<p begin="00:22:04.860" end="00:22:10.679" style="s2">that&#39;s not really the case, and it&#39;s also a cliché of</p>
+<p begin="00:22:08.159" end="00:22:12.900" style="s2">Russian propaganda that Ukrainian</p>
+<p begin="00:22:10.679" end="00:22:16.320" style="s2">is very closely organized, for example,</p>
+<p begin="00:22:12.900" end="00:22:18.980" style="s2">to Russian, or that it turns out that it&#39;s</p>
+<p begin="00:22:16.320" end="00:22:21.840" style="s2">not so close for  For many people, it is</p>
+<p begin="00:22:18.980" end="00:22:24.360" style="s2">incredibly difficult to switch from Russian</p>
+<p begin="00:22:21.840" end="00:22:27.000" style="s2">to Ukrainian, and for some, it</p>
+<p begin="00:22:24.360" end="00:22:30.059" style="s2">can really take years and years to do it,</p>
+<p begin="00:22:27.000" end="00:22:33.059" style="s2">and I think that this is also an important topic to</p>
+<p begin="00:22:30.059" end="00:22:36.360" style="s2">talk about, that you need practice in</p>
+<p begin="00:22:33.059" end="00:22:40.080" style="s2">order for everything to be elastic and beautiful, and it</p>
+<p begin="00:22:36.360" end="00:22:44.840" style="s2">really happens that you speak Russian.</p>
+<p begin="00:22:40.080" end="00:22:48.600" style="s2">you could. And Ukrainian is not so. My friend is a</p>
+<p begin="00:22:44.840" end="00:22:50.700" style="s2">fundraiser. He told me recently. He</p>
+<p begin="00:22:48.600" end="00:22:53.580" style="s2">switched to Ukrainian a few</p>
+<p begin="00:22:50.700" end="00:22:56.039" style="s2">months ago and says, you know. I understand</p>
+<p begin="00:22:53.580" end="00:22:58.200" style="s2">that I speak English better than I</p>
+<p begin="00:22:56.039" end="00:22:59.820" style="s2">speak Ukrainian now, even though I can</p>
+<p begin="00:22:58.200" end="00:23:01.919" style="s2">hear everyday conversation, it was</p>
+<p begin="00:22:59.820" end="00:23:04.919" style="s2">absolutely OK and I  Avzhezh praised him,</p>
+<p begin="00:23:01.919" end="00:23:06.720" style="s2">but I caught myself thinking that</p>
+<p begin="00:23:04.919" end="00:23:09.840" style="s2">I had always been like that. I always</p>
+<p begin="00:23:06.720" end="00:23:11.820" style="s2">spoke English better than Russian, but for</p>
+<p begin="00:23:09.840" end="00:23:14.460" style="s2">me it was  la some kind of conscious history,</p>
+<p begin="00:23:11.820" end="00:23:17.039" style="s2">because I didn’t come across Russian at</p>
+<p begin="00:23:14.460" end="00:23:20.159" style="s2">school and at the university anymore, I knew</p>
+<p begin="00:23:17.039" end="00:23:23.940" style="s2">it passively and read some literature in it, but it</p>
+<p begin="00:23:20.159" end="00:23:26.640" style="s2">was never my language of use on my</p>
+<p begin="00:23:23.940" end="00:23:30.539" style="s2">tongue, so I know that I can take it and</p>
+<p begin="00:23:26.640" end="00:23:32.159" style="s2">speak and now I’m sure</p>
+<p begin="00:23:30.539" end="00:23:34.320" style="s2">it would even be easier to</p>
+<p begin="00:23:32.159" end="00:23:36.140" style="s2">speak Polish than Russian, but I am leading to</p>
+<p begin="00:23:34.320" end="00:23:40.260" style="s2">the point that I am</p>
+<p begin="00:23:36.140" end="00:23:43.860" style="s2">ready to understand those who</p>
+<p begin="00:23:40.260" end="00:23:46.799" style="s2">really struggle with these processes and it</p>
+<p begin="00:23:43.860" end="00:23:49.500" style="s2">is very important to have quite different</p>
+<p begin="00:23:46.799" end="00:23:51.380" style="s2">entry points into the language and to understand these possible</p>
+<p begin="00:23:49.500" end="00:23:54.720" style="s2">mechanisms, moreover, to see</p>
+<p begin="00:23:51.380" end="00:23:57.120" style="s2">success stories  I think it is very</p>
+<p begin="00:23:54.720" end="00:23:59.460" style="s2">important that some people share their</p>
+<p begin="00:23:57.120" end="00:24:02.640" style="s2">transition stories. Two stories immediately come to mind.</p>
+<p begin="00:23:59.460" end="00:24:05.279" style="s2">The first is the story</p>
+<p begin="00:24:02.640" end="00:24:09.120" style="s2">of the famous Kyiv architect Balbek,</p>
+<p begin="00:24:05.279" end="00:24:10.860" style="s2">who is also slowly transitioning, but he</p>
+<p begin="00:24:09.120" end="00:24:12.120" style="s2">tells how he surrounds himself in</p>
+<p begin="00:24:10.860" end="00:24:14.640" style="s2">Ukrainian.</p>
+<p begin="00:24:12.120" end="00:24:17.279" style="s2"></p>
+<p begin="00:24:14.640" end="00:24:20.700" style="s2">also</p>
+<p begin="00:24:17.279" end="00:24:23.419" style="s2">consciously chose the Ukrainian language and also</p>
+<p begin="00:24:20.700" end="00:24:25.980" style="s2">slowly surrounds himself with it in order to</p>
+<p begin="00:24:23.419" end="00:24:28.340" style="s2">enrich his vocabulary  I read</p>
+<p begin="00:24:25.980" end="00:24:32.580" style="s2">Ukrainian poetry to</p>
+<p begin="00:24:28.340" end="00:24:34.559" style="s2">Bohdan, do you want a coming out? I always</p>
+<p begin="00:24:32.580" end="00:24:37.440" style="s2">suspect that I will ask Dima to cut it out.</p>
+<p begin="00:24:34.559" end="00:24:39.980" style="s2">But maybe not because it</p>
+<p begin="00:24:37.440" end="00:24:43.100" style="s2">will definitely be preserved for everyone present here</p>
+<p begin="00:24:39.980" end="00:24:47.400" style="s2">until the age of 14.</p>
+<p begin="00:24:43.100" end="00:24:49.620" style="s2">In my life, there was a Russian language. I</p>
+<p begin="00:24:47.400" end="00:24:52.140" style="s2">spoke Russian three times a week.</p>
+<p begin="00:24:49.620" end="00:24:54.539" style="s2">When I went to dances, I spoke</p>
+<p begin="00:24:52.140" end="00:24:57.059" style="s2">Russian.  with my friends in the yard, I</p>
+<p begin="00:24:54.539" end="00:24:59.820" style="s2">spoke in Russian with the godfather and</p>
+<p begin="00:24:57.059" end="00:25:02.880" style="s2">godmother and friends of my parents</p>
+<p begin="00:24:59.820" end="00:25:06.559" style="s2">who often appeared in my</p>
+<p begin="00:25:02.880" end="00:25:09.299" style="s2">life and on September</p>
+<p begin="00:25:06.559" end="00:25:10.860" style="s2">1 of the 9th grade When I came to study at the</p>
+<p begin="00:25:09.299" end="00:25:15.000" style="s2">Ukrainian Humanitarian Lyceum and in the</p>
+<p begin="00:25:10.860" end="00:25:16.980" style="s2">first lesson my class teacher and</p>
+<p begin="00:25:15.000" end="00:25:19.980" style="s2">then my colleague  and my friend Ms.</p>
+<p begin="00:25:16.980" end="00:25:22.760" style="s2">Valentina explained to me and explained to us all</p>
+<p begin="00:25:19.980" end="00:25:26.760" style="s2">why in this lyceum</p>
+<p begin="00:25:22.760" end="00:25:29.880" style="s2">among the rules is to speak only</p>
+<p begin="00:25:26.760" end="00:25:33.360" style="s2">Ukrainian. Who were the founders of the lyceum?</p>
+<p begin="00:25:29.880" end="00:25:38.159" style="s2">What are the ideological foundations on which we are all here?</p>
+<p begin="00:25:33.360" end="00:25:40.559" style="s2">What did you call us, the future elite of the nation?</p>
+<p begin="00:25:38.159" end="00:25:43.260" style="s2"></p>
+<p begin="00:25:40.559" end="00:25:45.679" style="s2">a common</p>
+<p begin="00:25:43.260" end="00:25:48.600" style="s2">practice among</p>
+<p begin="00:25:45.679" end="00:25:51.600" style="s2">nationalistically conscious educational</p>
+<p begin="00:25:48.600" end="00:25:54.659" style="s2">institutions, and then she made a decision for</p>
+<p begin="00:25:51.600" end="00:25:58.460" style="s2">herself  I&#39;m starting to play by these</p>
+<p begin="00:25:54.659" end="00:26:01.460" style="s2">rules. I&#39;m a lyceum student of this lyceum who</p>
+<p begin="00:25:58.460" end="00:26:05.580" style="s2">sang the national anthem of Ukraine every morning.</p>
+<p begin="00:26:01.460" end="00:26:09.240" style="s2"></p>
+<p begin="00:26:05.580" end="00:26:11.520" style="s2"></p>
+<p begin="00:26:09.240" end="00:26:15.500" style="s2"></p>
+<p begin="00:26:11.520" end="00:26:18.240" style="s2"></p>
+<p begin="00:26:15.500" end="00:26:21.020" style="s2"></p>
+<p begin="00:26:18.240" end="00:26:24.600" style="s2">that is, you can imagine that there were friends with whom you</p>
+<p begin="00:26:21.020" end="00:26:27.179" style="s2">communicated in Russian in previous years. So</p>
+<p begin="00:26:24.600" end="00:26:29.700" style="s2">you start speaking Ukrainian. Well, I&#39;ll</p>
+<p begin="00:26:27.179" end="00:26:32.640" style="s2">be honest, I can&#39;t imagine. That is, I don&#39;t have</p>
+<p begin="00:26:29.700" end="00:26:34.860" style="s2">this experience. Well, you can imagine. And you&#39;re</p>
+<p begin="00:26:32.640" end="00:26:37.860" style="s2">still 14 years old and you have many other</p>
+<p begin="00:26:34.860" end="00:26:40.760" style="s2">problems in this life, which  can have a</p>
+<p begin="00:26:37.860" end="00:26:40.760" style="s2">child at the age of 14, in a</p>
+<p begin="00:26:42.059" end="00:26:49.080" style="s2">word, I am very proud of myself as a</p>
+<p begin="00:26:45.720" end="00:26:52.440" style="s2">little 14-year-old now from this height</p>
+<p begin="00:26:49.080" end="00:26:56.279" style="s2">because I understand that this was a very important</p>
+<p begin="00:26:52.440" end="00:26:58.020" style="s2">step that simply determined my position and</p>
+<p begin="00:26:56.279" end="00:27:01.200" style="s2">since then the position has not wavered anywhere.</p>
+<p begin="00:26:58.020" end="00:27:03.779" style="s2">I think that these stories about</p>
+<p begin="00:27:01.200" end="00:27:06.779" style="s2">children  teenage elections they are actually</p>
+<p begin="00:27:03.779" end="00:27:10.260" style="s2">very important and they give us a lot it&#39;s</p>
+<p begin="00:27:06.779" end="00:27:13.740" style="s2">cool when they are because I remember a little</p>
+<p begin="00:27:10.260" end="00:27:16.260" style="s2">different story from my childhood but I</p>
+<p begin="00:27:13.740" end="00:27:20.399" style="s2">remember how I  I was wondering what to say.</p>
+<p begin="00:27:16.260" end="00:27:22.940" style="s2">Hello, this is kind of stupid, it&#39;s not cool. Hello,</p>
+<p begin="00:27:20.399" end="00:27:27.779" style="s2">you have to say it. Yes, hello, hello.</p>
+<p begin="00:27:22.940" end="00:27:32.279" style="s2"></p>
+<p begin="00:27:27.779" end="00:27:35.820" style="s2"></p>
+<p begin="00:27:32.279" end="00:27:39.000" style="s2"></p>
+<p begin="00:27:35.820" end="00:27:42.360" style="s2">I have</p>
+<p begin="00:27:39.000" end="00:27:45.679" style="s2">this feeling today. This is the feeling of not being classy,</p>
+<p begin="00:27:42.360" end="00:27:49.559" style="s2">and in fact it is a</p>
+<p begin="00:27:45.679" end="00:27:51.539" style="s2">colonial legacy, that is where I am from, a girl</p>
+<p begin="00:27:49.559" end="00:27:54.720" style="s2">in Lviv, a little girl, in fact,</p>
+<p begin="00:27:51.539" end="00:27:56.760" style="s2">that is, I was 5-6 years old, I must have</p>
+<p begin="00:27:54.720" end="00:27:59.399" style="s2">had this feeling that it is not classy, ​​that is,</p>
+<p begin="00:27:56.760" end="00:28:02.899" style="s2">you have to say Hi, not Hello. That&#39;s why</p>
+<p begin="00:27:59.399" end="00:28:06.659" style="s2">Hello. This is some kind of stupidity</p>
+<p begin="00:28:02.899" end="00:28:09.539" style="s2">on much larger examples, it</p>
+<p begin="00:28:06.659" end="00:28:11.580" style="s2">can be analyzed from the stories of friends and</p>
+<p begin="00:28:09.539" end="00:28:13.860" style="s2">even me. It is a pity that we</p>
+<p begin="00:28:11.580" end="00:28:16.799" style="s2">did not analyze some stories and did not collect them from our</p>
+<p begin="00:28:13.860" end="00:28:19.440" style="s2">readers on Instagram.</p>
+<p begin="00:28:16.799" end="00:28:21.779" style="s2"></p>
+<p begin="00:28:19.440" end="00:28:23.940" style="s2"></p>
+<p begin="00:28:21.779" end="00:28:26.340" style="s2">today to absorb it, that is, I</p>
+<p begin="00:28:23.940" end="00:28:28.200" style="s2">For example, I really want to use one single example in all conversations</p>
+<p begin="00:28:26.340" end="00:28:31.080" style="s2">about the Ukrainian language,</p>
+<p begin="00:28:28.200" end="00:28:33.600" style="s2">which inspires me a lot,</p>
+<p begin="00:28:31.080" end="00:28:36.360" style="s2">I thought about it  a few days</p>
+<p begin="00:28:33.600" end="00:28:38.940" style="s2">before the escalation, you probably remember, there was</p>
+<p begin="00:28:36.360" end="00:28:43.440" style="s2">such a huge wave of transitions to the Ukrainian language,</p>
+<p begin="00:28:38.940" end="00:28:45.960" style="s2">and I somehow remembered that in the</p>
+<p begin="00:28:43.440" end="00:28:47.820" style="s2">Ukrainian generation of the twenties, 100</p>
+<p begin="00:28:45.960" end="00:28:50.640" style="s2">years ago, there were a lot of people who</p>
+<p begin="00:28:47.820" end="00:28:53.159" style="s2">made their debut in Russian and then consciously</p>
+<p begin="00:28:50.640" end="00:28:55.919" style="s2">chose Ukrainian, and these were not some marginalized people.</p>
+<p begin="00:28:53.159" end="00:28:59.940" style="s2">This is Mykola  Khvylovy This is Mykola</p>
+<p begin="00:28:55.919" end="00:29:01.980" style="s2">Zerov this is Dry Cloud Mykhailo this is Mike</p>
+<p begin="00:28:59.940" end="00:29:05.700" style="s2">Johansen who writes in a humorous</p>
+<p begin="00:29:01.980" end="00:29:07.380" style="s2">questionnaire that I do not live in Rostov when he is</p>
+<p begin="00:29:05.700" end="00:29:11.039" style="s2">asked why you are a Ukrainian</p>
+<p begin="00:29:07.380" end="00:29:13.740" style="s2">writer and write in Ukrainian and this</p>
+<p begin="00:29:11.039" end="00:29:16.500" style="s2">naturalness of such humorous and in some ways</p>
+<p begin="00:29:13.740" end="00:29:18.840" style="s2">daring answers is for me very</p>
+<p begin="00:29:16.500" end="00:29:21.179" style="s2">attractive. I really want these</p>
+<p begin="00:29:18.840" end="00:29:23.760" style="s2">examples, also because I understand that when</p>
+<p begin="00:29:21.179" end="00:29:26.279" style="s2">we list such names as the one I just</p>
+<p begin="00:29:23.760" end="00:29:28.620" style="s2">listed, we are talking about whole</p>
+<p begin="00:29:26.279" end="00:29:32.039" style="s2">figures of Ukrainian literature. That is,</p>
+<p begin="00:29:28.620" end="00:29:34.860" style="s2">they are people who have enriched it lexically, in particular, even</p>
+<p begin="00:29:32.039" end="00:29:37.020" style="s2">now. When I listen to my friends who are</p>
+<p begin="00:29:34.860" end="00:29:39.419" style="s2">switching to Ukrainian, then  I understand that</p>
+<p begin="00:29:37.020" end="00:29:42.779" style="s2">they try this language on their tongue in a completely</p>
+<p begin="00:29:39.419" end="00:29:45.260" style="s2">different way than I do and when I am sometimes quite</p>
+<p begin="00:29:42.779" end="00:29:48.179" style="s2">n  to speak formally, they can</p>
+<p begin="00:29:45.260" end="00:29:49.620" style="s2">use a certain word in a</p>
+<p begin="00:29:48.179" end="00:29:51.720" style="s2">third context, a</p>
+<p begin="00:29:49.620" end="00:29:55.080" style="s2">third dictionary meaning, but to</p>
+<p begin="00:29:51.720" end="00:29:57.179" style="s2">revive it, to give it to this word, I</p>
+<p begin="00:29:55.080" end="00:30:00.120" style="s2">will hear it and see how it</p>
+<p begin="00:29:57.179" end="00:30:02.520" style="s2">works, and in fact, those people who today,</p>
+<p begin="00:30:00.120" end="00:30:05.399" style="s2">especially in the creative class, are switching</p>
+<p begin="00:30:02.520" end="00:30:08.399" style="s2">to Ukrainian, they are incredibly enriching</p>
+<p begin="00:30:05.399" end="00:30:10.860" style="s2">Ukrainian  language and there is no trauma here.</p>
+<p begin="00:30:08.399" end="00:30:13.799" style="s2">This is just a story of creation and it is. I</p>
+<p begin="00:30:10.860" end="00:30:15.899" style="s2">like it very much, that&#39;s why I</p>
+<p begin="00:30:13.799" end="00:30:18.779" style="s2">watch these people with interest because,</p>
+<p begin="00:30:15.899" end="00:30:21.000" style="s2">again, I understand what they will add to</p>
+<p begin="00:30:18.779" end="00:30:23.899" style="s2">this language and eventually add to me as a</p>
+<p begin="00:30:21.000" end="00:30:27.500" style="s2">person who works with it.</p>
+<p begin="00:30:23.899" end="00:30:30.380" style="s2">I think God  it&#39;s time</p>
+<p begin="00:30:27.500" end="00:30:32.299" style="s2">to remember why</p>
+<p begin="00:30:30.380" end="00:30:34.880" style="s2">it is important</p>
+<p begin="00:30:32.299" end="00:30:37.200" style="s2">to protect the Ukrainian language</p>
+<p begin="00:30:34.880" end="00:30:38.659" style="s2">pathetic wording to protect the Ukrainian</p>
+<p begin="00:30:37.200" end="00:30:42.480" style="s2">language, but</p>
+<p begin="00:30:38.659" end="00:30:45.120" style="s2">why are they killing it Who cares if we don&#39;t protect it and by</p>
+<p begin="00:30:42.480" end="00:30:48.740" style="s2">chance I will quote Ivan</p>
+<p begin="00:30:45.120" end="00:30:53.580" style="s2">Malkovych let&#39;s not be forbidden words,</p>
+<p begin="00:30:48.740" end="00:30:56.220" style="s2">let it be possible and not the most important thing But you, a</p>
+<p begin="00:30:53.580" end="00:31:00.659" style="s2">child, are called to protect the</p>
+<p begin="00:30:56.220" end="00:31:03.019" style="s2">tiny candle of the letter with your palms  and</p>
+<p begin="00:31:00.659" end="00:31:07.679" style="s2">also stretched out on the fingers</p>
+<p begin="00:31:03.019" end="00:31:10.860" style="s2">about  erigat lunar crescent letters There is something</p>
+<p begin="00:31:07.679" end="00:31:13.880" style="s2">cut from the sky together with a string because</p>
+<p begin="00:31:10.860" end="00:31:17.399" style="s2">they say, child, what is the language of our nightingale They</p>
+<p begin="00:31:13.880" end="00:31:20.460" style="s2">say it well, but then we wonder that someday there</p>
+<p begin="00:31:17.399" end="00:31:23.279" style="s2">may come such times when our</p>
+<p begin="00:31:20.460" end="00:31:26.039" style="s2">language will not be remembered even by the smallest</p>
+<p begin="00:31:23.279" end="00:31:28.980" style="s2">nightingale, so you can&#39;t rely</p>
+<p begin="00:31:26.039" end="00:31:31.919" style="s2">only on  Nightingales.</p>
+<p begin="00:31:28.980" end="00:31:34.100" style="s2">Such a gentle poem to a child. Yes, I love it too.</p>
+<p begin="00:31:31.919" end="00:31:35.899" style="s2">By the way, it is</p>
+<p begin="00:31:34.100" end="00:31:38.700" style="s2">just right for</p>
+<p begin="00:31:35.899" end="00:31:41.279" style="s2">not so gentle, although gently, but very</p>
+<p begin="00:31:38.700" end="00:31:43.440" style="s2">defiantly performed by Viktor Morozov. He doesn&#39;t</p>
+<p begin="00:31:41.279" end="00:31:45.419" style="s2">often sing this song, but there it is so</p>
+<p begin="00:31:43.440" end="00:31:48.419" style="s2">very playful and you don&#39;t have</p>
+<p begin="00:31:45.419" end="00:31:51.419" style="s2">that feeling.  dangers Well, listen</p>
+<p begin="00:31:48.419" end="00:31:53.159" style="s2">Malkovich knew what he was writing about and when he</p>
+<p begin="00:31:51.419" end="00:31:56.580" style="s2">worked as an editor in a publishing house in the</p>
+<p begin="00:31:53.159" end="00:31:59.519" style="s2">youth of the 80s, he also understood the place of</p>
+<p begin="00:31:56.580" end="00:32:03.419" style="s2">this Ukrainian language in the context of</p>
+<p begin="00:31:59.519" end="00:32:06.059" style="s2">Russified Kyiv and Well, to pretend that he</p>
+<p begin="00:32:03.419" end="00:32:07.980" style="s2">was not like this Kyiv is spitting in one&#39;s</p>
+<p begin="00:32:06.059" end="00:32:12.080" style="s2">eyes  that is, you also have to tell the truth,</p>
+<p begin="00:32:07.980" end="00:32:14.820" style="s2">but it is great luck that the situation is changing.</p>
+<p begin="00:32:12.080" end="00:32:16.500" style="s2">Listen, I recently reread a fairy tale that</p>
+<p begin="00:32:14.820" end="00:32:19.260" style="s2">I really liked in my childhood</p>
+<p begin="00:32:16.500" end="00:32:20.940" style="s2">by Ivan Malkovich, which</p>
+<p begin="00:32:19.260" end="00:32:25.500" style="s2">is called  the golden spider is a</p>
+<p begin="00:32:20.940" end="00:32:28.860" style="s2">short fairy tale. And this is a fairy tale that</p>
+<p begin="00:32:25.500" end="00:32:32.100" style="s2">tells about a very happy</p>
+<p begin="00:32:28.860" end="00:32:34.559" style="s2">family. One day, the father of this family goes</p>
+<p begin="00:32:32.100" end="00:32:36.740" style="s2">to war with them because his country was</p>
+<p begin="00:32:34.559" end="00:32:38.940" style="s2">attacked by the Northern neighbor</p>
+<p begin="00:32:36.740" end="00:32:42.179" style="s2">from childhood. I don&#39;t remember this</p>
+<p begin="00:32:38.940" end="00:32:45.419" style="s2">fragment, but when I reread it,</p>
+<p begin="00:32:42.179" end="00:32:47.039" style="s2">I think  his lords, that is, in the 90s,</p>
+<p begin="00:32:45.419" end="00:32:49.559" style="s2">Malkovich, having founded the publishing house</p>
+<p begin="00:32:47.039" end="00:32:52.799" style="s2">Ababagalamaga, thought that such a</p>
+<p begin="00:32:49.559" end="00:32:55.500" style="s2">small Bohdan should put into his head the</p>
+<p begin="00:32:52.799" end="00:32:58.140" style="s2">idea that there is a Northern neighbor.</p>
+<p begin="00:32:55.500" end="00:33:00.720" style="s2"></p>
+<p begin="00:32:58.140" end="00:33:04.019" style="s2"></p>
+<p begin="00:33:00.720" end="00:33:06.600" style="s2"></p>
+<p begin="00:33:04.019" end="00:33:10.460" style="s2">there are generally nice children&#39;s texts</p>
+<p begin="00:33:06.600" end="00:33:15.000" style="s2">that have, well, we can say today such</p>
+<p begin="00:33:10.460" end="00:33:16.799" style="s2">an absolutely patriotic direction, and it is another</p>
+<p begin="00:33:15.000" end="00:33:19.080" style="s2">matter that this is a patriotic direction.</p>
+<p begin="00:33:16.799" end="00:33:21.659" style="s2">Also, in our country, it was often branded as</p>
+<p begin="00:33:19.080" end="00:33:24.539" style="s2">some kind of excessive or obscene, but it is</p>
+<p begin="00:33:21.659" end="00:33:26.340" style="s2">just a normal preventive one, and it is</p>
+<p begin="00:33:24.539" end="00:33:28.799" style="s2">not even necessarily an occasion to think, because a child</p>
+<p begin="00:33:26.340" end="00:33:31.860" style="s2">will not sit and think about it,</p>
+<p begin="00:33:28.799" end="00:33:34.200" style="s2">but the child will remember it and the child will</p>
+<p begin="00:33:31.860" end="00:33:36.240" style="s2">remember, say, some illustrations  or</p>
+<p begin="00:33:34.200" end="00:33:39.720" style="s2">what is in this Golden Spider I remember</p>
+<p begin="00:33:36.240" end="00:33:42.659" style="s2">the war is over we won dad</p>
+<p begin="00:33:39.720" end="00:33:45.240" style="s2">came home And brought a gift he</p>
+<p begin="00:33:42.659" end="00:33:47.880" style="s2">came back for Christmas Eve when the family is</p>
+<p begin="00:33:45.240" end="00:33:51.419" style="s2">sitting really without money and</p>
+<p begin="00:33:47.880" end="00:33:54.179" style="s2">no way Set the table and everything is fine Everything</p>
+<p begin="00:33:51.419" end="00:33:55.919" style="s2">should be fine I like it very much</p>
+<p begin="00:33:54.179" end="00:33:58.919" style="s2">this is the coding of the space that Malkovich does,</p>
+<p begin="00:33:55.919" end="00:34:00.779" style="s2">and listen, let&#39;s talk about the</p>
+<p begin="00:33:58.919" end="00:34:03.600" style="s2">coding of the Ukrainian-speaking space,</p>
+<p begin="00:34:00.779" end="00:34:06.480" style="s2">because a lot of people today</p>
+<p begin="00:34:03.600" end="00:34:09.780" style="s2">remember Ivan Malkovich as such a key</p>
+<p begin="00:34:06.480" end="00:34:12.720" style="s2">figure for this, because in many</p>
+<p begin="00:34:09.780" end="00:34:14.599" style="s2">cities of Ukraine, for a very long time,</p>
+<p begin="00:34:12.720" end="00:34:16.859" style="s2">ababagalamag books could be the only</p>
+<p begin="00:34:14.599" end="00:34:19.740" style="s2">Ukrainian-language publications that a</p>
+<p begin="00:34:16.859" end="00:34:21.780" style="s2">child could buy  and Malkovich took the fact that</p>
+<p begin="00:34:19.740" end="00:34:23.820" style="s2">they were the most beautiful and Dityna simply</p>
+<p begin="00:34:21.780" end="00:34:25.859" style="s2">pointed with her fingers and said I want this</p>
+<p begin="00:34:23.820" end="00:34:28.740" style="s2">Snow Queen I want the alphabet I want my</p>
+<p begin="00:34:25.859" end="00:34:30.960" style="s2">favorite poems or there was such a series of</p>
+<p begin="00:34:28.740" end="00:34:32.579" style="s2">happily small books for hryvnia that</p>
+<p begin="00:34:30.960" end="00:34:34.859" style="s2">everyone could afford, they</p>
+<p begin="00:34:32.579" end="00:34:37.560" style="s2">were sold at Ukrposhta, even people from the</p>
+<p begin="00:34:34.859" end="00:34:42.419" style="s2">Crimea or from  Luhansk remember that they</p>
+<p begin="00:34:37.560" end="00:34:44.399" style="s2">were always these books And this would  sometimes it&#39;s</p>
+<p begin="00:34:42.419" end="00:34:47.220" style="s2">not the only way to immerse yourself in the Ukrainian</p>
+<p begin="00:34:44.399" end="00:34:49.200" style="s2">language. What else do you think about? You started</p>
+<p begin="00:34:47.220" end="00:34:51.500" style="s2">talking about how Ukrainian</p>
+<p begin="00:34:49.200" end="00:34:54.179" style="s2">film dubbing appeared, it also seems</p>
+<p begin="00:34:51.500" end="00:34:56.820" style="s2">epochal to me. And you shouldn&#39;t underestimate this,</p>
+<p begin="00:34:54.179" end="00:34:58.800" style="s2">because everyone talked for a long time about the fact that, well,</p>
+<p begin="00:34:56.820" end="00:35:02.040" style="s2">what kind of cinema in Ukrainian  dub a</p>
+<p begin="00:34:58.800" end="00:35:04.680" style="s2">movie in Ukrainian, what? And Oleksa</p>
+<p begin="00:35:02.040" end="00:35:07.980" style="s2">Negrebetskyi came and everything just flowed in the</p>
+<p begin="00:35:04.680" end="00:35:10.380" style="s2">same way in Ukrainian. It seemed to me that it should</p>
+<p begin="00:35:07.980" end="00:35:12.359" style="s2">have been, for example, Esquier magazine when</p>
+<p begin="00:35:10.380" end="00:35:14.760" style="s2">it appeared in Ukraine.</p>
+<p begin="00:35:12.359" end="00:35:17.940" style="s2"></p>
+<p begin="00:35:14.760" end="00:35:20.760" style="s2">in Ukrainian, when I</p>
+<p begin="00:35:17.940" end="00:35:23.700" style="s2">bought it, then this first issue</p>
+<p begin="00:35:20.760" end="00:35:26.220" style="s2">was a wonder for me too, that</p>
+<p begin="00:35:23.700" end="00:35:29.820" style="s2">in the Ukrainian media space,</p>
+<p begin="00:35:26.220" end="00:35:32.220" style="s2">a square finally appeared, and what is it, Square, in</p>
+<p begin="00:35:29.820" end="00:35:36.320" style="s2">what positions will it be in the Ukrainian</p>
+<p begin="00:35:32.220" end="00:35:40.260" style="s2">space? Well, I think that it should be here</p>
+<p begin="00:35:36.320" end="00:35:41.940" style="s2">The passage about the renaming of streets, but I</p>
+<p begin="00:35:40.260" end="00:35:43.800" style="s2">think that we will benefit from this</p>
+<p begin="00:35:41.940" end="00:35:46.260" style="s2">Bohdan, did you vote in Kyiv</p>
+<p begin="00:35:43.800" end="00:35:48.960" style="s2">digitally for the renaming of streets in the</p>
+<p begin="00:35:46.260" end="00:35:52.140" style="s2">city of Kyiv Yes, I confess, ches  but I</p>
+<p begin="00:35:48.960" end="00:35:54.599" style="s2">didn&#39;t vote because there were 300 names, more than 300,</p>
+<p begin="00:35:52.140" end="00:35:57.060" style="s2">it was too much, that is, because I didn&#39;t</p>
+<p begin="00:35:54.599" end="00:36:00.079" style="s2">just point my finger at any name.</p>
+<p begin="00:35:57.060" end="00:36:03.359" style="s2">I also googled who the</p>
+<p begin="00:36:00.079" end="00:36:05.940" style="s2">expert commission advises. And who was the</p>
+<p begin="00:36:03.359" end="00:36:08.640" style="s2">finalist, because the choice had to be conscious  And</p>
+<p begin="00:36:05.940" end="00:36:11.940" style="s2">this renaming had to be aware of this in</p>
+<p begin="00:36:08.640" end="00:36:14.339" style="s2">order to understand what kind of relationship</p>
+<p begin="00:36:11.940" end="00:36:16.740" style="s2">certain people had with these places, it is</p>
+<p begin="00:36:14.339" end="00:36:20.119" style="s2">also very important to have this link.</p>
+<p begin="00:36:16.740" end="00:36:22.700" style="s2"></p>
+<p begin="00:36:20.119" end="00:36:26.099" style="s2"></p>
+<p begin="00:36:22.700" end="00:36:28.079" style="s2"></p>
+<p begin="00:36:26.099" end="00:36:30.619" style="s2">it was a great opportunity Bohdan, what a</p>
+<p begin="00:36:28.079" end="00:36:34.980" style="s2">very, very cool opportunity it was. To be honest,</p>
+<p begin="00:36:30.619" end="00:36:39.320" style="s2">it was the first dismantled Bulgakov in</p>
+<p begin="00:36:34.980" end="00:36:42.420" style="s2">Kyiv. Nastya and I really want Kyiv</p>
+<p begin="00:36:39.320" end="00:36:45.300" style="s2">to stop being the clichéd city of Mikhail</p>
+<p begin="00:36:42.420" end="00:36:48.060" style="s2">Bulgakov and to be the city of Valerian</p>
+<p begin="00:36:45.300" end="00:36:50.400" style="s2">Pidmogilny. For us, Kyiv has long been the</p>
+<p begin="00:36:48.060" end="00:36:54.180" style="s2">city of Valerian Pidmogilny, but he</p>
+<p begin="00:36:50.400" end="00:36:57.060" style="s2">in our opinion, it should become so for everyone and</p>
+<p begin="00:36:54.180" end="00:36:59.579" style="s2">in popular culture in particular, and if you</p>
+<p begin="00:36:57.060" end="00:37:01.800" style="s2">cut it short, they dismantled the board from the</p>
+<p begin="00:36:59.579" end="00:37:05.640" style="s2">yellow case of your native yellow</p>
+<p begin="00:37:01.800" end="00:37:08.280" style="s2">case and nothing.  lo we fell out</p>
+<p begin="00:37:05.640" end="00:37:11.060" style="s2">brut, I drank a bit cheaper than brut But</p>
+<p begin="00:37:08.280" end="00:37:11.060" style="s2">these are already details,</p>
+<p begin="00:37:11.839" end="00:37:17.220" style="s2">the same about the streets, it is already very important</p>
+<p begin="00:37:14.460" end="00:37:19.500" style="s2">because it encodes our space, we walk down one</p>
+<p begin="00:37:17.220" end="00:37:21.720" style="s2">street and go to another, and when this</p>
+<p begin="00:37:19.500" end="00:37:23.700" style="s2">street is Chervonoarmiiska, there is a</p>
+<p begin="00:37:21.720" end="00:37:26.040" style="s2">certain dissonance, just like with</p>
+<p begin="00:37:23.700" end="00:37:28.859" style="s2">Elenyana Street  but if we delve further, then</p>
+<p begin="00:37:26.040" end="00:37:31.440" style="s2">Lermontov or Turgenev. Let&#39;s talk</p>
+<p begin="00:37:28.859" end="00:37:34.500" style="s2">about popular culture, because this is what</p>
+<p begin="00:37:31.440" end="00:37:36.599" style="s2">really Ukrainianizes the space and Ukrainianizes</p>
+<p begin="00:37:34.500" end="00:37:39.020" style="s2">everyone, because it normalizes the Ukrainian language,</p>
+<p begin="00:37:36.599" end="00:37:42.839" style="s2">again, many people remember the</p>
+<p begin="00:37:39.020" end="00:37:46.440" style="s2">Ukrainian-speaking period 1+1 as a time when</p>
+<p begin="00:37:42.839" end="00:37:48.900" style="s2">you wanted to do everything in this language  because the</p>
+<p begin="00:37:46.440" end="00:37:52.140" style="s2">pluses were so cool that you wanted to be</p>
+<p begin="00:37:48.900" end="00:37:54.839" style="s2">like on television and agreed on</p>
+<p begin="00:37:52.140" end="00:37:56.940" style="s2">magazines. It is also very important to me</p>
+<p begin="00:37:54.839" end="00:37:59.880" style="s2">that today the gloss will be in Ukrainian</p>
+<p begin="00:37:56.940" end="00:38:02.700" style="s2">because for a very long time we understood that,</p>
+<p begin="00:37:59.880" end="00:38:05.640" style="s2">for example, we cannot read about fashion in</p>
+<p begin="00:38:02.700" end="00:38:07.740" style="s2">Ukrainian simply because there are no</p>
+<p begin="00:38:05.640" end="00:38:09.540" style="s2">materials about Ukrainian fashion  there are the</p>
+<p begin="00:38:07.740" end="00:38:10.980" style="s2">best glossy magazines, they were</p>
+<p begin="00:38:09.540" end="00:38:13.140" style="s2">Russian-language.</p>
+<p begin="00:38:10.980" end="00:38:16.440" style="s2"></p>
+<p begin="00:38:13.140" end="00:38:19.140" style="s2">and to the music with what</p>
+<p begin="00:38:16.440" end="00:38:21.960" style="s2">creak they went, so there were a lot of conversations</p>
+<p begin="00:38:19.140" end="00:38:25.260" style="s2">about what they were saying. But how much of this music</p>
+<p begin="00:38:21.960" end="00:38:27.660" style="s2">and no one will type it, but it was a</p>
+<p begin="00:38:25.260" end="00:38:29.760" style="s2">question of the market, and a lot of players</p>
+<p begin="00:38:27.660" end="00:38:33.440" style="s2">just started making content in Ukrainian.</p>
+<p begin="00:38:29.760" end="00:38:37.619" style="s2">Because they accept this question of the market, and</p>
+<p begin="00:38:33.440" end="00:38:38.599" style="s2">I think that in fact  very cool, when there is a</p>
+<p begin="00:38:37.619" end="00:38:42.180" style="s2">regulator,</p>
+<p begin="00:38:38.599" end="00:38:43.940" style="s2">you and I talked about such emotional</p>
+<p begin="00:38:42.180" end="00:38:47.040" style="s2">things for quite a long time.</p>
+<p begin="00:38:43.940" end="00:38:49.680" style="s2"></p>
+<p begin="00:38:47.040" end="00:38:53.160" style="s2"></p>
+<p begin="00:38:49.680" end="00:38:55.560" style="s2"></p>
+<p begin="00:38:53.160" end="00:38:57.359" style="s2"></p>
+<p begin="00:38:55.560" end="00:38:59.280" style="s2"></p>
+<p begin="00:38:57.359" end="00:39:01.820" style="s2">the attitude towards him</p>
+<p begin="00:38:59.280" end="00:39:05.640" style="s2">if you are not a lawyer in constitutional law is</p>
+<p begin="00:39:01.820" end="00:39:09.060" style="s2">not easy to say the least, but when there is a law,</p>
+<p begin="00:39:05.640" end="00:39:11.280" style="s2">there is a norm that regulates certain</p>
+<p begin="00:39:09.060" end="00:39:13.800" style="s2">legal relations. For example, when we children</p>
+<p begin="00:39:11.280" end="00:39:17.940" style="s2">were sitting in a Kyiv restaurant and understood</p>
+<p begin="00:39:13.800" end="00:39:20.099" style="s2">that we had a question about the language of service, it</p>
+<p begin="00:39:17.940" end="00:39:22.619" style="s2">was not  our Quirk and we did not have to</p>
+<p begin="00:39:20.099" end="00:39:26.099" style="s2">overcome internal discomfort due to the fact that</p>
+<p begin="00:39:22.619" end="00:39:28.859" style="s2">a person who speaks Russian because it is</p>
+<p begin="00:39:26.099" end="00:39:32.760" style="s2">her native language and she probably has the</p>
+<p begin="00:39:28.859" end="00:39:35.820" style="s2">right  I am happy that this law is</p>
+<p begin="00:39:32.760" end="00:39:38.220" style="s2">in effect, that its provisions are consistently</p>
+<p begin="00:39:35.820" end="00:39:40.859" style="s2">coming into force, and that a certain</p>
+<p begin="00:39:38.220" end="00:39:43.320" style="s2">framework is emerging in which the Ukrainian language functions,</p>
+<p begin="00:39:40.859" end="00:39:45.359" style="s2">because of course, when we talk about</p>
+<p begin="00:39:43.320" end="00:39:49.440" style="s2">literature, when we talk about music,</p>
+<p begin="00:39:45.359" end="00:39:50.300" style="s2">we are talking about something very private, what is</p>
+<p begin="00:39:49.440" end="00:39:52.560" style="s2">going on</p>
+<p begin="00:39:50.300" end="00:39:54.540" style="s2">from the inside, and even if you choose,</p>
+<p begin="00:39:52.560" end="00:39:56.700" style="s2">for example, Ukrainian as opposed to</p>
+<p begin="00:39:54.540" end="00:39:59.400" style="s2">Russian, it is still an internal</p>
+<p begin="00:39:56.700" end="00:40:02.280" style="s2">choice, but when it comes to the</p>
+<p begin="00:39:59.400" end="00:40:05.540" style="s2">public sphere, there must be</p>
+<p begin="00:40:02.280" end="00:40:08.520" style="s2">this framework, otherwise</p>
+<p begin="00:40:05.540" end="00:40:11.640" style="s2">conflicts begin, simply</p>
+<p begin="00:40:08.520" end="00:40:15.000" style="s2">solving questions begins.</p>
+<p begin="00:40:11.640" end="00:40:18.240" style="s2">which</p>
+<p begin="00:40:15.000" end="00:40:20.280" style="s2">came and which simply did not exist, which will greatly</p>
+<p begin="00:40:18.240" end="00:40:22.819" style="s2">affect the space around us, you</p>
+<p begin="00:40:20.280" end="00:40:26.220" style="s2">started talking about the Ukrainian language in the</p>
+<p begin="00:40:22.819" end="00:40:27.660" style="s2">space around And I thought about the fact that</p>
+<p begin="00:40:26.220" end="00:40:29.460" style="s2">the group Vremya y Steklo only had</p>
+<p begin="00:40:27.660" end="00:40:32.099" style="s2">one song in the Ukrainian language and they</p>
+<p begin="00:40:29.460" end="00:40:35.819" style="s2">broke up, they are not related to each other  things,</p>
+<p begin="00:40:32.099" end="00:40:38.599" style="s2">but it is good that it took place, well, that is,</p>
+<p begin="00:40:35.819" end="00:40:40.740" style="s2">they already got on the radio according to quotas,</p>
+<p begin="00:40:38.599" end="00:40:44.000" style="s2">I would like everyone to get on the radio,</p>
+<p begin="00:40:40.740" end="00:40:46.859" style="s2">we  and quotas,</p>
+<p begin="00:40:44.000" end="00:40:49.079" style="s2">but maybe I will make a lesson aside to another</p>
+<p begin="00:40:46.859" end="00:40:51.300" style="s2">question, a question that we were asked at</p>
+<p begin="00:40:49.079" end="00:40:54.060" style="s2">our Kyiv Laiv, and then we</p>
+<p begin="00:40:51.300" end="00:40:56.339" style="s2">promised that we will have an episode about the</p>
+<p begin="00:40:54.060" end="00:40:59.579" style="s2">language soon, we will definitely talk about it,</p>
+<p begin="00:40:56.339" end="00:41:02.700" style="s2">about the transition to Ukrainian,</p>
+<p begin="00:40:59.579" end="00:41:04.800" style="s2">such a pressing question, what is the topic, what is the topic</p>
+<p begin="00:41:02.700" end="00:41:06.660" style="s2">shared by bloggers  those who switched, you</p>
+<p begin="00:41:04.800" end="00:41:10.800" style="s2">mentioned the glory of Balbek, there is a very</p>
+<p begin="00:41:06.660" end="00:41:13.440" style="s2">cool article by</p>
+<p begin="00:41:10.800" end="00:41:17.099" style="s2">literature teacher Artur Proydakov about 10</p>
+<p begin="00:41:13.440" end="00:41:18.720" style="s2">steps of switching to the Ukrainian language, he</p>
+<p begin="00:41:17.099" end="00:41:20.700" style="s2">advises, in particular, to watch the series Friends in</p>
+<p begin="00:41:18.720" end="00:41:22.260" style="s2">Ukrainian, well, that is, I</p>
+<p begin="00:41:20.700" end="00:41:25.220" style="s2">already said this half an hour ago, but I am ready</p>
+<p begin="00:41:22.260" end="00:41:28.740" style="s2">to repeat it once more</p>
+<p begin="00:41:25.220" end="00:41:32.000" style="s2">a project from Prometheus, a course of 27 lessons of the</p>
+<p begin="00:41:28.740" end="00:41:33.540" style="s2">Ukrainian language, and when public PE was</p>
+<p begin="00:41:32.000" end="00:41:35.640" style="s2">organized from the First</p>
+<p begin="00:41:33.540" end="00:41:37.339" style="s2">National, it became public, one of the</p>
+<p begin="00:41:35.640" end="00:41:40.020" style="s2">first projects they had was a</p>
+<p begin="00:41:37.339" end="00:41:43.500" style="s2">life hack in Ukrainian, has anyone seen this</p>
+<p begin="00:41:40.020" end="00:41:47.540" style="s2">program Dmytro Horkin, the host is a very</p>
+<p begin="00:41:43.500" end="00:41:52.740" style="s2">cool program, these are short sketches</p>
+<p begin="00:41:47.540" end="00:41:55.079" style="s2">where two pairs of men act out  and a</p>
+<p begin="00:41:52.740" end="00:41:56.359" style="s2">woman. Sometimes they are neighbors, colleagues,</p>
+<p begin="00:41:55.079" end="00:42:00.359" style="s2">random</p>
+<p begin="00:41:56.359" end="00:42:03.180" style="s2">passers-by who play certain games  and language</p>
+<p begin="00:42:00.359" end="00:42:06.900" style="s2">situations and then the voice of the presenter of</p>
+<p begin="00:42:03.180" end="00:42:09.480" style="s2">Ukrainian radio Dmytro Horkin explains</p>
+<p begin="00:42:06.900" end="00:42:11.220" style="s2">this rule in an accessible way with examples so that</p>
+<p begin="00:42:09.480" end="00:42:15.839" style="s2">you can learn</p>
+<p begin="00:42:11.220" end="00:42:18.480" style="s2">it easily, cool, beautiful, high-quality Production</p>
+<p begin="00:42:15.839" end="00:42:20.400" style="s2">This is exactly how we should be told about the</p>
+<p begin="00:42:18.480" end="00:42:23.280" style="s2">rules of the Ukrainian language so that we</p>
+<p begin="00:42:20.400" end="00:42:25.220" style="s2">think about how we speak, the question is what</p>
+<p begin="00:42:23.280" end="00:42:27.900" style="s2">put on Antonenko and the spectacle</p>
+<p begin="00:42:25.220" end="00:42:30.900" style="s2">And that&#39;s when we were asked on the Kyiv bench</p>
+<p begin="00:42:27.900" end="00:42:34.859" style="s2">What books would you recommend reading to</p>
+<p begin="00:42:30.900" end="00:42:37.800" style="s2">those who intend to improve their</p>
+<p begin="00:42:34.859" end="00:42:40.260" style="s2">Ukrainian Bohdana What books would you</p>
+<p begin="00:42:37.800" end="00:42:42.660" style="s2">recommend to those who intend to improve</p>
+<p begin="00:42:40.260" end="00:42:45.300" style="s2">their Ukrainian and enrich their</p>
+<p begin="00:42:42.660" end="00:42:48.660" style="s2">vocabulary Oh, this</p>
+<p begin="00:42:45.300" end="00:42:51.780" style="s2">may be a long answer I  I advise you to read</p>
+<p begin="00:42:48.660" end="00:42:54.900" style="s2">modern Ukrainian writers who write in a lively and</p>
+<p begin="00:42:51.780" end="00:42:57.300" style="s2">lively language in order to choose who</p>
+<p begin="00:42:54.900" end="00:42:59.880" style="s2">you like. You can take the short</p>
+<p begin="00:42:57.300" end="00:43:04.260" style="s2">lists of the BBC Book of the Year award and</p>
+<p begin="00:42:59.880" end="00:43:06.900" style="s2">look at the prose and choose what you</p>
+<p begin="00:43:04.260" end="00:43:11.160" style="s2">like, because there will be detective stories and</p>
+<p begin="00:43:06.900" end="00:43:13.380" style="s2">romance novels, and it is very difficult.</p>
+<p begin="00:43:11.160" end="00:43:15.660" style="s2">multi-layered literature there you can</p>
+<p begin="00:43:13.380" end="00:43:18.240" style="s2">find very different texts and most of</p>
+<p begin="00:43:15.660" end="00:43:20.240" style="s2">them are written  very cool and at the same time very</p>
+<p begin="00:43:18.240" end="00:43:23.640" style="s2">different Ukrainian</p>
+<p begin="00:43:20.240" end="00:43:26.400" style="s2">I advise everyone to look for their favorite voices</p>
+<p begin="00:43:23.640" end="00:43:28.380" style="s2">because I remember that we speak in</p>
+<p begin="00:43:26.400" end="00:43:31.200" style="s2">Ivano-Frankivsk and it would be a sin not to mention</p>
+<p begin="00:43:28.380" end="00:43:33.420" style="s2">Yuriy Andruhovych when I</p>
+<p begin="00:43:31.200" end="00:43:35.460" style="s2">discovered poetry about Andruhovych&#39;s zone, I</p>
+<p begin="00:43:33.420" end="00:43:38.040" style="s2">realized that very often it is a</p>
+<p begin="00:43:35.460" end="00:43:39.900" style="s2">language that  I want to</p>
+<p begin="00:43:38.040" end="00:43:42.839" style="s2">say what I want to say.</p>
+<p begin="00:43:39.900" end="00:43:46.260" style="s2">I read some things out loud because they</p>
+<p begin="00:43:42.839" end="00:43:48.480" style="s2">sounded like that to me. Andrukhovych is very careful with</p>
+<p begin="00:43:46.260" end="00:43:51.119" style="s2">his texts. They are such that there</p>
+<p begin="00:43:48.480" end="00:43:54.839" style="s2">is nothing extra, everything is in its</p>
+<p begin="00:43:51.119" end="00:43:56.819" style="s2">place, but you can also pick up</p>
+<p begin="00:43:54.839" end="00:43:59.040" style="s2">some cool words or verbal</p>
+<p begin="00:43:56.819" end="00:44:01.800" style="s2">constructions from him and  in fact, the story in</p>
+<p begin="00:43:59.040" end="00:44:05.280" style="s2">this story is that your speech was</p>
+<p begin="00:44:01.800" end="00:44:07.920" style="s2">not robotic, but alive, and it also</p>
+<p begin="00:44:05.280" end="00:44:11.099" style="s2">happens when you hear a word and think</p>
+<p begin="00:44:07.920" end="00:44:13.200" style="s2">that I have never used it, it is very important to</p>
+<p begin="00:44:11.099" end="00:44:15.480" style="s2">define it, practice it, and you can</p>
+<p begin="00:44:13.200" end="00:44:18.420" style="s2">first use it somewhere in your</p>
+<p begin="00:44:15.480" end="00:44:20.819" style="s2">post  on Instagram, there on Twitter, then</p>
+<p begin="00:44:18.420" end="00:44:23.339" style="s2">together the second to say see that no one</p>
+<p begin="00:44:20.819" end="00:44:25.079" style="s2">has burned that you say it voice for the first time</p>
+<p begin="00:44:23.339" end="00:44:27.500" style="s2">and then  you understand it, you</p>
+<p begin="00:44:25.079" end="00:44:31.380" style="s2">like it, it&#39;s apt, it&#39;s very cool,</p>
+<p begin="00:44:27.500" end="00:44:33.780" style="s2">and you use it, but probably the</p>
+<p begin="00:44:31.380" end="00:44:36.480" style="s2">most important thing is to find your own voice, because,</p>
+<p begin="00:44:33.780" end="00:44:39.060" style="s2">well, we</p>
+<p begin="00:44:36.480" end="00:44:40.859" style="s2">re-read Pydmogylny with you. Well, listen to it, it&#39;s absolutely my</p>
+<p begin="00:44:39.060" end="00:44:42.660" style="s2">voice, first of all, it&#39;s probably because it&#39;s</p>
+<p begin="00:44:40.859" end="00:44:45.780" style="s2">terribly ironic, it&#39;s even so angry in some ways,</p>
+<p begin="00:44:42.660" end="00:44:48.599" style="s2">but it  he chooses the language so coolly and subtly</p>
+<p begin="00:44:45.780" end="00:44:50.880" style="s2">, which is so fresh, and he</p>
+<p begin="00:44:48.599" end="00:44:53.099" style="s2">writes about this Kyiv like this. So I</p>
+<p begin="00:44:50.880" end="00:44:55.920" style="s2">want to go to this division and just</p>
+<p begin="00:44:53.099" end="00:45:01.140" style="s2">walk through it, walk, walk, this is the kind of</p>
+<p begin="00:44:55.920" end="00:45:04.160" style="s2">condition I want, which is alive and used, and not in</p>
+<p begin="00:45:01.140" end="00:45:07.940" style="s2">some dictionary or</p>
+<p begin="00:45:04.160" end="00:45:11.040" style="s2">sterilely displayed in a window like</p>
+<p begin="00:45:07.940" end="00:45:13.859" style="s2">the perfect way to say good day</p>
+<p begin="00:45:11.040" end="00:45:17.119" style="s2">Good day By the way, I still don&#39;t agree with</p>
+<p begin="00:45:13.859" end="00:45:19.980" style="s2">what you can&#39;t say Good evening</p>
+<p begin="00:45:17.119" end="00:45:22.500" style="s2">That&#39;s what they say you can&#39;t Good evening We&#39;re</p>
+<p begin="00:45:19.980" end="00:45:25.319" style="s2">from Ukraine and Marko Halynevych said how</p>
+<p begin="00:45:22.500" end="00:45:28.200" style="s2">cool we all are with this, God bless you,</p>
+<p begin="00:45:25.319" end="00:45:30.720" style="s2">which novel Andruhovich should start with</p>
+<p begin="00:45:28.200" end="00:45:33.180" style="s2">that when you are asked for</p>
+<p begin="00:45:30.720" end="00:45:37.260" style="s2">advice, you are asked about some specifics and</p>
+<p begin="00:45:33.180" end="00:45:39.540" style="s2">not abstract things, well, if in the context of</p>
+<p begin="00:45:37.260" end="00:45:42.420" style="s2">the transition  I would advise you to start with</p>
+<p begin="00:45:39.540" end="00:45:45.359" style="s2">recreations because the atmosphere in this</p>
+<p begin="00:45:42.420" end="00:45:47.760" style="s2">novel is very reminiscent of some things</p>
+<p begin="00:45:45.359" end="00:45:51.079" style="s2">that we have experienced in the last six months. It</p>
+<p begin="00:45:47.760" end="00:45:53.400" style="s2">seems to me. And in this novel there is simply</p>
+<p begin="00:45:51.079" end="00:45:55.500" style="s2">an amazing feeling of a carnival and the</p>
+<p begin="00:45:53.400" end="00:45:58.020" style="s2">opportunity to change the language is also an</p>
+<p begin="00:45:55.500" end="00:46:01.380" style="s2">opportunity to change your mask in some way</p>
+<p begin="00:45:58.020" end="00:46:03.839" style="s2">and sometimes even  my image, and that&#39;s why I think</p>
+<p begin="00:46:01.380" end="00:46:05.940" style="s2">many people will recognize themselves in the recreations. Who</p>
+<p begin="00:46:03.839" end="00:46:08.099" style="s2">among those present has read the recreations? Please</p>
+<p begin="00:46:05.940" end="00:46:10.880" style="s2">raise your hand.</p>
+<p begin="00:46:08.099" end="00:46:15.180" style="s2">It&#39;s very good.</p>
+<p begin="00:46:10.880" end="00:46:18.540" style="s2">We recommend this text. It&#39;s an adventure. Three poets</p>
+<p begin="00:46:15.180" end="00:46:21.599" style="s2">are going to a poetry festival. They&#39;re young</p>
+<p begin="00:46:18.540" end="00:46:25.260" style="s2">and drunk since the very morning. There&#39;s</p>
+<p begin="00:46:21.599" end="00:46:27.060" style="s2">a lot waiting for them ahead of them.  adventure four four</p>
+<p begin="00:46:25.260" end="00:46:30.540" style="s2">I apologize,</p>
+<p begin="00:46:27.060" end="00:46:35.220" style="s2">I just always think about the fact that this is a</p>
+<p begin="00:46:30.540" end="00:46:39.240" style="s2">novel about Bub Boo and that is why there are</p>
+<p begin="00:46:35.220" end="00:46:42.300" style="s2">four of them, yes, the word there is all that holiday</p>
+<p begin="00:46:39.240" end="00:46:44.819" style="s2">that the soul needs so much, but at the same time,</p>
+<p begin="00:46:42.300" end="00:46:47.099" style="s2">mysticism and carnival and a lot of funny phrases</p>
+<p begin="00:46:44.819" end="00:46:49.800" style="s2">that I really want to take out  and</p>
+<p begin="00:46:47.099" end="00:46:53.400" style="s2">apply. What would you advise? That&#39;s</p>
+<p begin="00:46:49.800" end="00:46:57.119" style="s2">right. Right away, by God, I&#39;ve been approached with</p>
+<p begin="00:46:53.400" end="00:46:59.280" style="s2">such questions many times, and I have</p>
+<p begin="00:46:57.119" end="00:47:01.740" style="s2">prepared answers. I zap  I was wondering what you have been</p>
+<p begin="00:46:59.280" end="00:47:04.859" style="s2">reading lately, you should</p>
+<p begin="00:47:01.740" end="00:47:07.619" style="s2">start with what you liked, what heroes</p>
+<p begin="00:47:04.859" end="00:47:09.900" style="s2">do you like, and there were times when people</p>
+<p begin="00:47:07.619" end="00:47:10.700" style="s2">said to me Well, I decided or decided that now I</p>
+<p begin="00:47:09.900" end="00:47:14.359" style="s2"></p>
+<p begin="00:47:10.700" end="00:47:16.980" style="s2">will read only in</p>
+<p begin="00:47:14.359" end="00:47:19.380" style="s2"></p>
+<p begin="00:47:16.980" end="00:47:22.260" style="s2"></p>
+<p begin="00:47:19.380" end="00:47:24.599" style="s2">Ukrainian.  I was taught at school, he was a great author,</p>
+<p begin="00:47:22.260" end="00:47:28.680" style="s2">and I get Mykhailo Starytskyi and start</p>
+<p begin="00:47:24.599" end="00:47:31.079" style="s2">reading, and I want to explain to a person what is</p>
+<p begin="00:47:28.680" end="00:47:33.359" style="s2">possible.</p>
+<p begin="00:47:31.079" end="00:47:35.819" style="s2"></p>
+<p begin="00:47:33.359" end="00:47:37.740" style="s2"></p>
+<p begin="00:47:35.819" end="00:47:40.619" style="s2"></p>
+<p begin="00:47:37.740" end="00:47:44.760" style="s2"></p>
+<p begin="00:47:40.619" end="00:47:47.700" style="s2">they write</p>
+<p begin="00:47:44.760" end="00:47:49.800" style="s2">in a language that is modern for you, in a language that is understandable to you.</p>
+<p begin="00:47:47.700" end="00:47:51.420" style="s2">You will not need to look in the dictionary often,</p>
+<p begin="00:47:49.800" end="00:47:54.359" style="s2">because there, for example, some outdated</p>
+<p begin="00:47:51.420" end="00:47:56.599" style="s2">form, another ending, some prefix,</p>
+<p begin="00:47:54.359" end="00:48:00.059" style="s2">it seems that these are all small things, but no,</p>
+<p begin="00:47:56.599" end="00:48:01.980" style="s2">this stops you, is it because of this that you</p>
+<p begin="00:48:00.059" end="00:48:03.359" style="s2"></p>
+<p begin="00:48:01.980" end="00:48:05.940" style="s2">exercise  continue to rise if you</p>
+<p begin="00:48:03.359" end="00:48:07.800" style="s2">open, for example, Yurii Andruhovych you</p>
+<p begin="00:48:05.940" end="00:48:09.260" style="s2">you open Max Kidruk, cool</p>
+<p begin="00:48:07.800" end="00:48:12.900" style="s2">mass literature,</p>
+<p begin="00:48:09.260" end="00:48:14.880" style="s2">someone read from the Mexican books that were present, so</p>
+<p begin="00:48:12.900" end="00:48:17.220" style="s2">look at Yuriy Andruhovych read more,</p>
+<p begin="00:48:14.880" end="00:48:18.480" style="s2">it is good for Ivano-Frankivsk, we in</p>
+<p begin="00:48:17.220" end="00:48:20.599" style="s2">Ivano-Frankivsk, it is possible in</p>
+<p begin="00:48:18.480" end="00:48:24.960" style="s2">Ivano-Frankivsk word Max Kidruk</p>
+<p begin="00:48:20.599" end="00:48:27.720" style="s2">thrillers or anxieties good anxieties not</p>
+<p begin="00:48:24.960" end="00:48:30.599" style="s2">redacted a little bit redacted</p>
+<p begin="00:48:27.720" end="00:48:31.980" style="s2">better thrillers or  well, Andrii Kokotyukh is</p>
+<p begin="00:48:30.599" end="00:48:35.700" style="s2">not advised to do that, but for example Sofya</p>
+<p begin="00:48:31.980" end="00:48:39.000" style="s2">Andruhovych, by the way, is also a Frankivka of Taras</p>
+<p begin="00:48:35.700" end="00:48:41.099" style="s2">Prokhaska, who can be read in short</p>
+<p begin="00:48:39.000" end="00:48:43.500" style="s2">bursts.</p>
+<p begin="00:48:41.099" end="00:48:46.380" style="s2"></p>
+<p begin="00:48:43.500" end="00:48:48.660" style="s2"></p>
+<p begin="00:48:46.380" end="00:48:51.839" style="s2"></p>
+<p begin="00:48:48.660" end="00:48:55.079" style="s2">it&#39;s not bad, it&#39;s a</p>
+<p begin="00:48:51.839" end="00:48:57.300" style="s2">great discovery, but it&#39;s an entry point. Well,</p>
+<p begin="00:48:55.079" end="00:49:00.319" style="s2">maybe not for everyone, but I</p>
+<p begin="00:48:57.300" end="00:49:03.540" style="s2">will be an entry point for everyone.</p>
+<p begin="00:49:00.319" end="00:49:07.079" style="s2">Anthology of Ukrainian poetry. And the women of the</p>
+<p begin="00:49:03.540" end="00:49:09.119" style="s2">gala mages are either huge, so rude from</p>
+<p begin="00:49:07.079" end="00:49:12.240" style="s2">Tychyna to the desired or the one who is already</p>
+<p begin="00:49:09.119" end="00:49:14.880" style="s2">desired from the young Ukrainian poetry because</p>
+<p begin="00:49:12.240" end="00:49:18.359" style="s2">actually this is a text and in which, on the one hand,</p>
+<p begin="00:49:14.880" end="00:49:21.059" style="s2">you can maneuver between them and</p>
+<p begin="00:49:18.359" end="00:49:23.220" style="s2">resp  to be a server or a surfer on the</p>
+<p begin="00:49:21.059" end="00:49:26.819" style="s2">wave and on the other hand there will still be a</p>
+<p begin="00:49:23.220" end="00:49:28.920" style="s2">need to understand the word Because when you</p>
+<p begin="00:49:26.819" end="00:49:31.859" style="s2">remember poetry you cannot</p>
+<p begin="00:49:28.920" end="00:49:35.040" style="s2">jump further you need to feel the rhythm of</p>
+<p begin="00:49:31.859" end="00:49:37.920" style="s2">this word you need to feel it by</p>
+<p begin="00:49:35.040" end="00:49:40.440" style="s2">touch to be able to read this poetic</p>
+<p begin="00:49:37.920" end="00:49:42.960" style="s2">line therefore reading poetry This  it&#39;s also a</p>
+<p begin="00:49:40.440" end="00:49:45.359" style="s2">very good exercise. You know, if we talk</p>
+<p begin="00:49:42.960" end="00:49:48.000" style="s2">even without names, but still about emotions,</p>
+<p begin="00:49:45.359" end="00:49:50.099" style="s2">because in some ways, they started with my emotions, even</p>
+<p begin="00:49:48.000" end="00:49:54.780" style="s2">though they were talking about legal</p>
+<p begin="00:49:50.099" end="00:49:57.960" style="s2">documents, nothing works without passion, without</p>
+<p begin="00:49:54.780" end="00:50:00.720" style="s2">love, and when there is even this conscious</p>
+<p begin="00:49:57.960" end="00:50:02.960" style="s2">desire to switch to Ukrainian or</p>
+<p begin="00:50:00.720" end="00:50:06.780" style="s2">improve it  you simply</p>
+<p begin="00:50:02.960" end="00:50:10.020" style="s2">need to find this sphere of love,</p>
+<p begin="00:50:06.780" end="00:50:12.540" style="s2">something that you will like, and</p>
+<p begin="00:50:10.020" end="00:50:15.000" style="s2">it won&#39;t work here if you don&#39;t devote</p>
+<p begin="00:50:12.540" end="00:50:17.280" style="s2">at least a little time to it, that is, you know. Well, some</p>
+<p begin="00:50:15.000" end="00:50:21.180" style="s2">people listen to the spat with pleasure and we</p>
+<p begin="00:50:17.280" end="00:50:23.400" style="s2">see these people, while others are annoyed by it, they don&#39;t</p>
+<p begin="00:50:21.180" end="00:50:25.980" style="s2">like our Ukrainian, and that&#39;s</p>
+<p begin="00:50:23.400" end="00:50:29.760" style="s2">great  because I recently looked at the</p>
+<p begin="00:50:25.980" end="00:50:31.920" style="s2">tops and there you can choose to choose</p>
+<p begin="00:50:29.760" end="00:50:35.180" style="s2">a color on any topic, but that&#39;s how</p>
+<p begin="00:50:31.920" end="00:50:35.180" style="s2">it should be devoted  It&#39;s time.</p>
+<p begin="00:50:35.460" end="00:50:40.260" style="s2">Listen, I have a question for you. Finally,</p>
+<p begin="00:50:37.619" end="00:50:42.980" style="s2">because it somehow happened that you</p>
+<p begin="00:50:40.260" end="00:50:46.140" style="s2">asked me today if</p>
+<p begin="00:50:42.980" end="00:50:50.220" style="s2">we have a law on the functioning of the</p>
+<p begin="00:50:46.140" end="00:50:52.559" style="s2">Ukrainian language as a</p>
+<p begin="00:50:50.220" end="00:50:54.960" style="s2">state language.</p>
+<p begin="00:50:52.559" end="00:50:57.420" style="s2"></p>
+<p begin="00:50:54.960" end="00:50:59.700" style="s2"></p>
+<p begin="00:50:57.420" end="00:51:02.900" style="s2">because it is obvious to us that this</p>
+<p begin="00:50:59.700" end="00:51:06.359" style="s2">Ukrainian language is important. It is obvious.</p>
+<p begin="00:51:02.900" end="00:51:09.000" style="s2">But why do we devote more than</p>
+<p begin="00:51:06.359" end="00:51:11.700" style="s2">an hour to it in our conversation, why do we still</p>
+<p begin="00:51:09.000" end="00:51:13.859" style="s2">talk about it if there is really a supposed framework</p>
+<p begin="00:51:11.700" end="00:51:16.440" style="s2">that defines it, why is it important for us to feel the</p>
+<p begin="00:51:13.859" end="00:51:18.240" style="s2">continuation of meanings or to</p>
+<p begin="00:51:16.440" end="00:51:22.140" style="s2">say those things that were</p>
+<p begin="00:51:18.240" end="00:51:24.800" style="s2">said sometimes 100  - 150 years ago in the</p>
+<p begin="00:51:22.140" end="00:51:29.160" style="s2">context of the Ukrainian language. Today is</p>
+<p begin="00:51:24.800" end="00:51:31.859" style="s2">2022, because we are doing a podcast with you</p>
+<p begin="00:51:29.160" end="00:51:34.440" style="s2">about culture today and when</p>
+<p begin="00:51:31.859" end="00:51:37.040" style="s2">we started doing this podcast in March.</p>
+<p begin="00:51:34.440" end="00:51:41.579" style="s2"></p>
+<p begin="00:51:37.040" end="00:51:44.960" style="s2"></p>
+<p begin="00:51:41.579" end="00:51:48.359" style="s2">After the war,</p>
+<p begin="00:51:44.960" end="00:51:50.640" style="s2">we realized this and now we are starting</p>
+<p begin="00:51:48.359" end="00:51:52.980" style="s2">to live in a new space that we</p>
+<p begin="00:51:50.640" end="00:51:54.720" style="s2">are trying to clean  from everything that</p>
+<p begin="00:51:52.980" end="00:51:57.960" style="s2">it should have been cleansed of. Long ago,</p>
+<p begin="00:51:54.720" end="00:52:00.839" style="s2">you and I talked about decolonization from the traces of imperialism,</p>
+<p begin="00:51:57.960" end="00:52:03.540" style="s2">but in the</p>
+<p begin="00:52:00.839" end="00:52:05.540" style="s2">comments on Facebook, the historian Sasha</p>
+<p begin="00:52:03.540" end="00:52:07.940" style="s2">Alfyorov very nicely wrote about the fact that</p>
+<p begin="00:52:05.540" end="00:52:11.760" style="s2">usually</p>
+<p begin="00:52:07.940" end="00:52:15.420" style="s2">colonies were much less developed than</p>
+<p begin="00:52:11.760" end="00:52:17.700" style="s2">metropolises, and therefore you can still argue</p>
+<p begin="00:52:15.420" end="00:52:20.880" style="s2">with the fact that Ukraine  - it really was a</p>
+<p begin="00:52:17.700" end="00:52:24.240" style="s2">colony, so it is more appropriate to use the</p>
+<p begin="00:52:20.880" end="00:52:26.640" style="s2">term de-internalization, and I also</p>
+<p begin="00:52:24.240" end="00:52:29.400" style="s2">really like this idea that we</p>
+<p begin="00:52:26.640" end="00:52:33.319" style="s2">start where the Empire realizes its</p>
+<p begin="00:52:29.400" end="00:52:37.640" style="s2">space, its consciousness, its</p>
+<p begin="00:52:33.319" end="00:52:40.680" style="s2">lists of literature and its libraries,</p>
+<p begin="00:52:37.640" end="00:52:43.260" style="s2">where to Russify</p>
+<p begin="00:52:40.680" end="00:52:45.720" style="s2">And actually this whole process also perceives Language</p>
+<p begin="00:52:43.260" end="00:52:47.880" style="s2">- this is one of those points Maybe  even</p>
+<p begin="00:52:45.720" end="00:52:50.460" style="s2">our whole podcast should start</p>
+<p begin="00:52:47.880" end="00:52:52.680" style="s2">We should talk about the anxiety</p>
+<p begin="00:52:50.460" end="00:52:54.900" style="s2">suitcase so that we put it in the</p>
+<p begin="00:52:52.680" end="00:52:56.640" style="s2">sculptural heritage and the next step</p>
+<p begin="00:52:54.900" end="00:52:58.260" style="s2">is language because Language is the first thing that</p>
+<p begin="00:52:56.640" end="00:53:00.300" style="s2">got into our cultural suitcase</p>
+<p begin="00:52:58.260" end="00:53:03.660" style="s2">not even like that This is some basis of this</p>
+<p begin="00:53:00.300" end="00:53:05.760" style="s2">cultural suitcase  the material from which this</p>
+<p begin="00:53:03.660" end="00:53:09.020" style="s2">suitcase is sewn, and then talk about everything</p>
+<p begin="00:53:05.760" end="00:53:11.280" style="s2">else, but m  and really postponed this episode</p>
+<p begin="00:53:09.020" end="00:53:14.819" style="s2">consciously for the end Because we needed</p>
+<p begin="00:53:11.280" end="00:53:18.240" style="s2">to grow those lean muscles and</p>
+<p begin="00:53:14.819" end="00:53:21.000" style="s2">find out a lot of other questions until you won&#39;t</p>
+<p begin="00:53:18.240" end="00:53:24.319" style="s2">believe it, but I also thought about the beginning and</p>
+<p begin="00:53:21.000" end="00:53:26.520" style="s2">about the anxious suitcase because in fact</p>
+<p begin="00:53:24.319" end="00:53:28.099" style="s2">it was easiest to start today&#39;s conversation</p>
+<p begin="00:53:26.520" end="00:53:30.900" style="s2">with this</p>
+<p begin="00:53:28.099" end="00:53:33.180" style="s2">most famous  probably the phrases of Hera</p>
+<p begin="00:53:30.900" end="00:53:36.059" style="s2">&#39;s guide about the fact that Language is the home of existence</p>
+<p begin="00:53:33.180" end="00:53:38.280" style="s2">and Well, we all know it. It sounds good,</p>
+<p begin="00:53:36.059" end="00:53:40.940" style="s2">you can start it on Twitter, but if you</p>
+<p begin="00:53:38.280" end="00:53:45.540" style="s2">start digging into it, then</p>
+<p begin="00:53:40.940" end="00:53:48.660" style="s2">24 we all began to look at our home and</p>
+<p begin="00:53:45.540" end="00:53:51.000" style="s2">think that we can take from there what we</p>
+<p begin="00:53:48.660" end="00:53:53.400" style="s2">can we save from it what can we</p>
+<p begin="00:53:51.000" end="00:53:57.440" style="s2">save if the house is destroyed what to do with a</p>
+<p begin="00:53:53.400" end="00:53:57.440" style="s2">destroyed house and</p>
+<p begin="00:53:57.619" end="00:54:03.180" style="s2">we want this house to be Ukrainian and</p>
+<p begin="00:54:00.480" end="00:54:05.460" style="s2">if it is Ukrainian then it is in</p>
+<p begin="00:54:03.180" end="00:54:08.220" style="s2">Ukrainian We named a lot of</p>
+<p begin="00:54:05.460" end="00:54:10.260" style="s2">different things today and</p>
+<p begin="00:54:08.220" end="00:54:13.740" style="s2">you will find about all these vocations in the description of our</p>
+<p begin="00:54:10.260" end="00:54:17.339" style="s2">episode  and on YouTube, Spotify, Apple, Google</p>
+<p begin="00:54:13.740" end="00:54:20.400" style="s2">podcast and everywhere else, we ask you to put</p>
+<p begin="00:54:17.339" end="00:54:22.980" style="s2">stars, leave comments, stay</p>
+<p begin="00:54:20.400" end="00:54:25.800" style="s2">with us, we just read them later</p>
+<p begin="00:54:22.980" end="00:54:27.960" style="s2">For example, we learn about how our</p>
+<p begin="00:54:25.800" end="00:54:30.660" style="s2">listeners do not consider Mykola Gogol a</p>
+<p begin="00:54:27.960" end="00:54:33.119" style="s2">Ukrainian writer, and we are interested in that.</p>
+<p begin="00:54:30.660" end="00:54:35.220" style="s2">Because we do not do this prompt. For the two of us, we</p>
+<p begin="00:54:33.119" end="00:54:38.940" style="s2">really want this dialogue.</p>
+<p begin="00:54:35.220" end="00:54:41.640" style="s2">Because only then is a deeper</p>
+<p begin="00:54:38.940" end="00:54:43.619" style="s2">understanding of Ukrainian culture born. Well, in the</p>
+<p begin="00:54:41.640" end="00:54:46.099" style="s2">context of our conversation today, I</p>
+<p begin="00:54:43.619" end="00:54:49.079" style="s2">I really want</p>
+<p begin="00:54:46.099" end="00:54:53.940" style="s2">our common home with you to be</p>
+<p begin="00:54:49.079" end="00:54:56.040" style="s2">truly Ukrainian and I am convinced that we are all taking</p>
+<p begin="00:54:53.940" end="00:54:58.440" style="s2">a lot of steps to</p>
+<p begin="00:54:56.040" end="00:55:01.579" style="s2">make it really happen. Nastya,</p>
+<p begin="00:54:58.440" end="00:55:04.920" style="s2">thank you very much for this conversation and for the</p>
+<p begin="00:55:01.579" end="00:55:07.140" style="s2">frank story about Ukrainian and</p>
+<p begin="00:55:04.920" end="00:55:09.960" style="s2">Russian, and I, Bohdana, thank you for that</p>
+<p begin="00:55:07.140" end="00:55:12.540" style="s2">that we are already 19 episodes together and</p>
+<p begin="00:55:09.960" end="00:55:15.420" style="s2">we have 20 ahead of us where we will be close to each other</p>
+<p begin="00:55:12.540" end="00:55:18.839" style="s2">Read Ukrainian poetry about the language This</p>
+<p begin="00:55:15.420" end="00:55:21.359" style="s2">will be a very interesting episode to me,</p>
+<p begin="00:55:18.839" end="00:55:23.700" style="s2">next we will have a short</p>
+<p begin="00:55:21.359" end="00:55:26.400" style="s2">vacation so that we can return with</p>
+<p begin="00:55:23.700" end="00:55:28.380" style="s2">new forces as usual the vacation of the</p>
+<p begin="00:55:26.400" end="00:55:29.720" style="s2">school year begins 1  September is a</p>
+<p begin="00:55:28.380" end="00:55:32.460" style="s2">new academic year,</p>
+<p begin="00:55:29.720" end="00:55:34.799" style="s2">and we have not yet</p>
+<p begin="00:55:32.460" end="00:55:37.200" style="s2">finished our previous academic year  the year lasts as long</p>
+<p begin="00:55:34.799" end="00:55:41.040" style="s2">as this war lasts and as long as we do</p>
+<p begin="00:55:37.200" end="00:55:45.059" style="s2">this prompt Samper tirokozav Ivan Franko</p>
+<p begin="00:55:41.040" end="00:55:48.000" style="s2">yes yes Well, friends, comradeship, we are</p>
+<p begin="00:55:45.059" end="00:55:51.420" style="s2">happy to have This live Episode with you in</p>
+<p begin="00:55:48.000" end="00:55:53.460" style="s2">Ivano-Frankivsk and We thank the prombar for the</p>
+<p begin="00:55:51.420" end="00:55:56.280" style="s2">fact that he hosted us so much and we had a</p>
+<p begin="00:55:53.460" end="00:56:00.599" style="s2">very  such a glamorous feeling of the</p>
+<p begin="00:55:56.280" end="00:56:03.359" style="s2">living room audio, I think there is still an opportunity not even</p>
+<p begin="00:56:00.599" end="00:56:04.920" style="s2">for a virtual audio cocktail And with</p>
+<p begin="00:56:03.359" end="00:56:08.280" style="s2">such a real normal cocktail</p>
+<p begin="00:56:04.920" end="00:56:10.980" style="s2">and Thanks to our project partners, read the</p>
+<p begin="00:56:08.280" end="00:56:13.619" style="s2">project that you all must follow</p>
+<p begin="00:56:10.980" end="00:56:15.480" style="s2">in Telegram in order to learn about the</p>
+<p begin="00:56:13.619" end="00:56:18.299" style="s2">news, learn</p>
+<p begin="00:56:15.480" end="00:56:21.119" style="s2">about the reading club about lectures about culture  and literature</p>
+<p begin="00:56:18.299" end="00:56:25.030" style="s2">in particular because you can draw</p>
+<p begin="00:56:21.119" end="00:56:38.179" style="s2">a lot of inspiration from there, thank you</p>
+<p begin="00:56:25.030" end="00:56:38.179" style="s2">[music]</p>
+</div>
+</body>
+</tt>
